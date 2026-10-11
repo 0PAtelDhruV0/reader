@@ -136,7 +136,9 @@
       const englishPara = document.createElement('p'); englishPara.textContent = part.en; en.append(englishPara);
     }
     $('passage').replaceChildren(fr); $('english').replaceChildren(en);
-    document.title = `${data.title} | Parlez`;
+    $('frenchScroll').scrollTop = 0;
+    $('englishScroll').scrollTop = 0;
+    document.title = `Reader — ${data.title}`;
     return true;
   }
 
@@ -205,12 +207,6 @@
   $('stop').addEventListener('click', stopAudio);
   $('closeWord').addEventListener('click', closeWord);
   $('refresh').addEventListener('click', () => refresh());
-  $('toggleEnglish').addEventListener('click', () => {
-    const expanded = $('toggleEnglish').getAttribute('aria-expanded') === 'true';
-    $('toggleEnglish').setAttribute('aria-expanded', String(!expanded));
-    $('english').hidden = expanded;
-    $('translationToggleText').textContent = expanded ? 'Show meaning' : 'Hide meaning';
-  });
   document.addEventListener('visibilitychange', () => { if (!document.hidden) refresh(true); });
   window.addEventListener('pagehide', stopAudio);
   if (!canSpeak) {
