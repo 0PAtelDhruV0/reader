@@ -3,54 +3,62 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#f5f7fb">
-  <meta name="description" content="Read a new French passage every hour. Hear it aloud and tap words for English meanings.">
-  <title>Parlez • French Hourly Reader</title>
+  <meta name="theme-color" content="#f6f7fa">
+  <meta name="description" content="Reader: hourly French passages with English translation, French audio, and tap-to-translate words.">
+  <title>Reader — French &amp; English</title>
   <link rel="stylesheet" href="styles.css">
   <script defer src="app.js"></script>
 </head>
 <body>
   <div class="layout">
     <header class="topbar">
-      <a class="brand" href="./" aria-label="Parlez home"><span class="brand-mark" aria-hidden="true">p.</span> <span>parlez<span class="brand-dot">.</span></span></a>
-      <span class="top-tag"><span class="live-dot"></span> FRENCH READER</span>
+      <div class="brand" aria-label="Reader"><span class="brand-mark" aria-hidden="true">R</span><span>Reader</span></div>
+      <div class="audio-actions" role="group" aria-label="French audio playback">
+        <button id="play" class="audio-primary" type="button" aria-label="Play or resume French audio" title="Play French audio">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 5 11 7-11 7V5Z"/></svg><span id="playText">Play</span>
+        </button>
+        <button id="pause" class="audio-secondary" type="button" aria-label="Pause French audio" title="Pause audio">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="5" width="3" height="14" rx=".5"/><rect x="14" y="5" width="3" height="14" rx=".5"/></svg><span>Pause</span>
+        </button>
+        <button id="stop" class="audio-secondary" type="button" aria-label="Stop French audio" title="Stop audio">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1"/></svg><span>Stop</span>
+        </button>
+      </div>
     </header>
 
     <main class="content">
-      <section class="welcome">
-        <div class="eyebrow">FRENCH · ENGLISH</div>
-        <h1>One passage.<br><span>A little progress every hour.</span></h1>
-        <p>Read in French, listen to one voice, and tap any word to see its English meaning.</p>
-      </section>
-
-      <section class="reader-card" aria-label="French passage">
+      <section class="reader-card" aria-label="Side-by-side bilingual reader">
         <div class="reader-header">
-          <div class="meta"><span class="pill"><span class="pill-dot"></span> <span id="level">B1–B2</span></span><span id="length">Daily reading</span></div>
-          <button id="refresh" class="icon-button" type="button" title="Check for a new passage" aria-label="Refresh passage"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M5.5 9A7 7 0 0 1 18 7l2 5M4 12l2 5a7 7 0 0 0 12.5-2"/></svg></button>
-        </div>
-        <h2 id="essayTitle">Loading your reading…</h2>
-        <p id="essaySubtitle" class="subtitle">Your French passage with an English meaning below.</p>
-        <div class="rule"></div>
-        <div id="passage" lang="fr" class="passage" aria-label="Tap a French word to translate">Please connect to the internet to load your first passage.</div>
-        <p class="hint"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 9 3-3 3 3M12 6v11M6 17h12"/></svg> Tap any French word for its meaning. Audio stops when you tap.</p>
-
-        <div class="audio-box">
-          <div class="audio-label"><span class="sound-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 10v4h4l5 4V6l-5 4H4ZM17 9a5 5 0 0 1 0 6M19 6a9 9 0 0 1 0 12"/></svg></span><div><strong>Listen in French</strong><small id="audioStatus">Ready when you are</small></div></div>
-          <div class="audio-actions">
-            <button id="play" class="audio-primary" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 5 11 7-11 7V5Z"/></svg><span id="playText">Play</span></button>
-            <button id="pause" class="audio-secondary" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="5" width="3" height="14" rx=".5"/><rect x="14" y="5" width="3" height="14" rx=".5"/></svg>Pause</button>
-            <button id="stop" class="audio-secondary" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1"/></svg>Cancel</button>
+          <div class="reader-overview">
+            <div class="meta"><span class="eyebrow">HOURLY READING</span><span id="level" class="pill">B1–B2</span><span id="length">French · English</span></div>
+            <h1 id="essayTitle">Loading your reading…</h1>
+            <p id="essaySubtitle" class="subtitle">The English translation is shown beside the French text.</p>
+          </div>
+          <div class="reader-utility">
+            <span id="audioStatus" role="status" aria-live="polite">Ready when you are</span>
+            <button id="refresh" class="icon-button" type="button" aria-label="Check for a new passage" title="Refresh passage">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M5.5 9A7 7 0 0 1 18 7l2 5M4 12l2 5a7 7 0 0 0 12.5-2"/></svg>
+            </button>
           </div>
         </div>
 
-        <div class="translation">
-          <div class="translation-header"><div><span class="mini-eyebrow">ENGLISH</span><h3>Paragraph meaning</h3></div><button id="toggleEnglish" class="text-button" type="button" aria-expanded="false"><svg id="eyeIcon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.5-6 10-6 10 6 10 6-3.5 6-10 6S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></svg><span id="translationToggleText">Show meaning</span></button></div>
-          <div id="english" class="english" lang="en" hidden></div>
+        <div class="columns">
+          <section class="pane pane-fr" aria-label="French text">
+            <div class="pane-heading"><strong>FRANÇAIS</strong><span>Tap a word for meaning</span></div>
+            <div class="pane-scroll" id="frenchScroll" tabindex="0" aria-label="Scrollable French passage">
+              <div id="passage" lang="fr" class="passage">Loading French text…</div>
+            </div>
+          </section>
+          <section class="pane pane-en" aria-label="English translation">
+            <div class="pane-heading"><strong>ENGLISH</strong><span>Paragraph translation</span></div>
+            <div class="pane-scroll" id="englishScroll" tabindex="0" aria-label="Scrollable English translation">
+              <div id="english" lang="en" class="english">Loading English translation…</div>
+            </div>
+          </section>
         </div>
       </section>
-      <div class="footrow"><span id="freshness" role="status" aria-live="polite">Checking for the latest passage…</span><span>Updated hourly via GitHub</span></div>
+      <div class="footrow"><span id="freshness" role="status" aria-live="polite">Checking for the latest passage…</span><span>New reading every hour · Scroll text independently</span></div>
     </main>
-    <footer>Made for simple, daily French practice. <span>Read · Listen · Understand</span></footer>
   </div>
 
   <aside id="wordSheet" class="word-sheet" aria-live="polite" aria-label="Word translation" hidden>
