@@ -1,0 +1,64 @@
+name: Publish fresh French essay
+
+on:
+  schedule:
+    # GitHub schedules run in UTC; choose minute 7 to avoid peak cron load.
+    - cron: '7 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'styles.css'
+      - 'app.js'
+      - 'content/**'
+      - 'scripts/rotate.py'
+      - '.github/workflows/hourly-passage.yml'
+      - 'current.json'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: french-reader-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Select this hour's reading
+        run: python3 scripts/rotate.py
+      - name: Replace old passage in repository
+        run: |
+          if ! git diff --quiet -- current.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add current.json
+            git commit -m "Reading for $(date -u +'%Y-%m-%d %H:00 UTC')"
+            git push origin HEAD:main
+          else
+            echo "Already have this hour's passage"
+          fi
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Prepare only public site files
+        run: |
+          mkdir -p site
+          cp index.html styles.css app.js current.json .nojekyll site/
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./site
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
