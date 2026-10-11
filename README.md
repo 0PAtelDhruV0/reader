@@ -1,25 +1,24 @@
-# Parlez — French Hourly Reader
+# Reader — French & English Hourly Reader
 
-A small French B1–B2 reading/listening web app for iPad, iPhone, Windows, and desktop browsers. Free GitHub Pages hosting, no backend, no signup, and no paid AI API key.
+A clean, iPad-friendly French B1–B2 reading app. The entire screen fits the iPad viewport: **50% French text on the left, 50% English translation on the right**. Both reading panes scroll independently; the app header, passage title, and audio controls stay fixed.
 
-## What it does
+## Features
 
-- Displays **one French essay** as six short paragraphs, with a clear English translation for each paragraph (press **Show meaning**).
-- Tap **any French word** to stop audio immediately and see its English meaning in a small panel. Common words are in the offline glossary; other word meanings use the free MyMemory translation endpoint, so an internet connection is needed for those. (Third party may receive only the selected word.)
-- Exactly one speech player: **Play**, **Pause**, **Resume**, **Cancel**. Uses your device's **built-in French text-to-speech voice**. No downloadable audio is necessary; voice quality depends on the phone/browser/installed voices.
-- Every hourly GitHub Actions run overwrites **`current.json`**, then deploys the website using GitHub Pages. The old passage is no longer among the live site files. Normal Git history retains old versions of `current.json`.
-- When you reload/open the app, it fetches the newest passage without using a stale browser cache. If your internet is offline, it can reuse the most recently opened passage from local storage.
+- **Reader** app name and a distraction-free side-by-side layout on iPad, iPhone, Windows, and desktop.
+- **Three compact audio buttons at the top:** Play (or Resume), Pause, and Stop. French speech uses your device's built-in text-to-speech voice.
+- **Tap any French word** to instantly stop speaking and see its English meaning. Common words are translated locally; other words use the free MyMemory translation service, which receives the selected word.
+- **English paragraphs are always visible**, no reveal switch required. Only French and English passage panes scroll.
+- **Hourly passage updates** replace `current.json` using GitHub Actions; the source library is predefined, so no paid AI service is required.
 
-## Upload to GitHub (one time)
+## Enable the website
 
-1. Open **https://github.com/new** while signed into GitHub.
-2. Choose repository name **`reader`** and visibility **Public**. Create the repository. You may leave the README checkbox unchecked, so the repository starts empty.
-3. **Unzip** `french-hourly-reader.zip` on your computer. Do **not** upload the ZIP itself. Upload the **contents** of the unzipped `french-hourly-reader` folder to the **root of the new repository**. Include its `.github/workflows/hourly-passage.yml` folder/file, `content`, `scripts`, the HTML, CSS, JS, and `current.json`. On an empty repository, click **uploading an existing file**; otherwise choose **Add file → Upload files**. Drag the folder's contents and commit to the **main** branch.
-4. In the repository, open **Settings → Pages → Build and deployment → Source → GitHub Actions**. Save/select GitHub Actions. No template file is needed because the workflow was uploaded already.
-5. Open the **Actions** tab, choose **Publish fresh French essay**, click **Run workflow** (branch `main`) to deploy immediately. If Actions are disabled, enable them; check the Actions run to confirm the green check.
-6. Your expected reader URL will be **`https://YOUR-GITHUB-USERNAME.github.io/reader/`**. Replace `YOUR-GITHUB-USERNAME` with your real handle. GitHub shows the confirmed URL in **Settings → Pages** after deployment. You can bookmark it or add it to your iPad Home Screen.
+The files are already published at **https://github.com/0PAtelDhruV0/reader**.
 
-> If Actions reports `Resource not accessible by integration` on the commit step, check **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions** where permitted, and run the workflow again. The YAML requests the required permissions, but organization rules may override them.
+1. In **Settings → Pages**, set **Build and deployment → Source** to **GitHub Actions**.
+2. In **Actions**, select **Publish fresh French essay**, then **Run workflow** on `main`.
+3. Once GitHub reports a successful Pages deployment, open **https://0pateldhruv0.github.io/reader/**. You can add this address to the iPad Home Screen.
+
+If the commit step reports insufficient permissions, review **Settings → Actions → General → Workflow permissions** and allow read/write permissions where possible.
 
 ## How hourly rotation works
 
