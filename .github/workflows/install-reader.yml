@@ -1,0 +1,35 @@
+name: Install French Reader files
+
+on:
+  push:
+    branches: [main]
+    paths: ['source.bundle']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Unpack original app files
+        run: |
+          base64 --decode source.bundle > /tmp/reader-source.tar.xz
+          tar -xJf /tmp/reader-source.tar.xz -C .
+          test -f index.html && test -f app.js && test -f styles.css
+          test -f .github/workflows/hourly-passage.yml
+          python3 -m unittest discover -s tests -v
+      - name: Publish files to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Install complete French Hourly Reader app"
+            git push origin HEAD:main
+          fi
