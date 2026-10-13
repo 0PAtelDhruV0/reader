@@ -1,35 +1,35 @@
 {
-  "id": "497732",
-  "hour_utc": "2026-10-12T20:00:00Z",
-  "title": "Cuisiner ensemble",
-  "title_en": "Cooking together",
+  "id": "497738",
+  "hour_utc": "2026-10-13T02:00:00Z",
+  "title": "Le jardin partagé",
+  "title_en": "The community garden",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "La cuisine occupe une place importante dans la vie quotidienne. Elle répond à un besoin essentiel, mais elle permet aussi de partager des traditions et des souvenirs. Préparer un repas avec d'autres personnes peut être une manière simple de créer des liens.",
-      "en": "Cooking has an important place in daily life. It meets an essential need, but it also allows us to share traditions and memories. Preparing a meal with other people can be a simple way to build connections."
+      "fr": "Dans de nombreuses villes, les habitants vivent près les uns des autres sans vraiment se connaître. Un jardin partagé peut changer cette situation. Il donne aux voisins un espace pour planter des légumes, discuter et apprendre ensemble, même s'ils ont des âges très différents.",
+      "en": "In many cities, residents live close to one another without truly knowing each other. A community garden can change this situation. It gives neighbors a space to plant vegetables, talk and learn together, even if they are very different ages."
     },
     {
-      "fr": "Dans une résidence étudiante, des voisins ont organisé un repas où chacun apportait un plat de son pays. Ils ont parlé des ingrédients et des fêtes associés à ces recettes. La soirée a permis de découvrir des cultures différentes autour d'une même table.",
-      "en": "In student housing, neighbors organized a meal where everyone brought a dish from their country. They talked about the ingredients and celebrations associated with those recipes. The evening helped them discover different cultures around one table."
+      "fr": "Au printemps, des habitants ont transformé un terrain abandonné en petit jardin. Les enfants ont planté des tomates, tandis que des personnes âgées expliquaient comment préparer la terre. Quelques mois plus tard, tout le quartier s'est retrouvé pour partager la première récolte.",
+      "en": "In spring, residents transformed an abandoned lot into a small garden. Children planted tomatoes while older people explained how to prepare the soil. A few months later, the whole neighborhood met to share the first harvest."
     },
     {
-      "fr": "Pour son anniversaire, Amélie a invité ses amis à préparer un dîner plutôt qu'à venir simplement le manger. Chacun a apporté un ingrédient et proposé une idée. Même les petits accidents en cuisine sont devenus des souvenirs amusants.",
-      "en": "For her birthday, Amélie invited her friends to prepare dinner instead of simply coming to eat it. Everyone brought an ingredient and suggested an idea. Even small kitchen accidents became funny memories."
+      "fr": "Une nouvelle voisine ne connaissait personne dans son immeuble. Elle a rejoint un groupe qui cultivait des herbes aromatiques derrière la bibliothèque. En arrosant les plantes chaque mercredi, elle a commencé à échanger des conseils et à se faire de nouveaux amis.",
+      "en": "A new neighbor knew nobody in her building. She joined a group growing herbs behind the library. By watering the plants every Wednesday, she started exchanging advice and making new friends."
     },
     {
-      "fr": "Cuisiner avec les autres demande de l'écoute et de l'organisation. Il faut partager les tâches, respecter les préférences alimentaires et accepter que chacun possède ses propres méthodes. Ces qualités sont utiles bien au-delà de la cuisine.",
-      "en": "Cooking with others requires listening and organization. We must share tasks, respect dietary preferences and accept that everyone has their own methods. These skills are useful far beyond the kitchen."
+      "fr": "Cultiver un jardin demande de la patience. On ne peut pas faire pousser une plante en tirant sur ses feuilles. De la même manière, les relations entre voisins grandissent peu à peu grâce à des échanges simples et réguliers.",
+      "en": "Growing a garden requires patience. You cannot make a plant grow by pulling its leaves. In the same way, relationships between neighbors grow little by little through simple and regular interactions."
     },
     {
-      "fr": "Il n'est pas nécessaire de préparer des plats compliqués pour bien recevoir. Un repas simple, fait avec attention, peut avoir beaucoup de valeur. Le plus important est souvent le temps que nous passons ensemble plutôt que le prix des ingrédients.",
-      "en": "We do not need to prepare complicated dishes to be good hosts. A simple meal, made with care, can have great value. What matters most is often the time we spend together rather than the price of the ingredients."
+      "fr": "Un jardin collectif peut aussi nous apprendre à consommer différemment. En voyant le travail nécessaire pour produire une tomate, on respecte davantage les aliments et on évite plus facilement le gaspillage.",
+      "en": "A community garden can also teach us to consume differently. When we see the work needed to grow a tomato, we respect food more and find it easier to avoid waste."
     },
     {
-      "fr": "Au fond, une recette réussie est aussi celle qui donne envie de se retrouver à nouveau.",
-      "en": "Deep down, a successful recipe is also one that makes people want to meet again."
+      "fr": "Même un petit espace vert peut devenir un lieu important lorsque chacun apporte un peu de son temps.",
+      "en": "Even a small green space can become an important place when everyone gives a little of their time."
     }
   ],
-  "word_count": 215,
+  "word_count": 216,
   "unique_hours_before_repeat": 216
 }
