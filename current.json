@@ -1,35 +1,35 @@
 {
-  "id": "497819",
-  "hour_utc": "2026-10-16T11:00:00Z",
-  "title": "Le pouvoir de la musique",
-  "title_en": "The power of music",
+  "id": "497824",
+  "hour_utc": "2026-10-16T16:00:00Z",
+  "title": "La bibliothèque du quartier",
+  "title_en": "The neighborhood library",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "La musique accompagne de nombreux moments de notre existence. Elle peut nous donner de l'énergie, nous rappeler un souvenir ou rendre une journée difficile un peu plus légère. Chaque personne possède ses goûts, mais les mélodies créent souvent des émotions que les mots seuls expriment mal.",
-      "en": "Music accompanies many moments of our lives. It can give us energy, remind us of a memory or make a difficult day feel a little lighter. Everyone has their own tastes, but melodies often create emotions that words alone express poorly."
+      "fr": "Une bibliothèque est bien plus qu'un endroit où l'on emprunte des livres. C'est aussi un lieu calme où chacun peut apprendre, travailler et rencontrer d'autres personnes. Son rôle reste important, même à une époque où beaucoup d'informations sont disponibles sur Internet.",
+      "en": "A library is much more than a place to borrow books. It is also a quiet place where everyone can learn, work and meet others. Its role remains important even in an age when so much information is available online."
     },
     {
-      "fr": "Un jeune homme a retrouvé une chanson que sa mère écoutait lorsqu'il était enfant. Dès les premières notes, il s'est souvenu des longs voyages en voiture avec sa famille. Il a compris que la musique peut conserver des moments qui semblent oubliés.",
-      "en": "A young man rediscovered a song his mother listened to when he was a child. From the first notes, he remembered long car journeys with his family. He understood that music can preserve moments that seem forgotten."
+      "fr": "Chaque jeudi, un père accompagne sa fille à l'heure du conte. Pendant qu'elle écoute les histoires, il découvre des livres sur la cuisine et l'histoire locale. Peu à peu, la visite à la bibliothèque devient leur rendez-vous préféré de la semaine.",
+      "en": "Every Thursday, a father takes his daughter to story time. While she listens to stories, he discovers books about cooking and local history. Little by little, the library visit becomes their favorite weekly appointment."
     },
     {
-      "fr": "Dans un centre communautaire, plusieurs personnes se réunissent pour chanter une fois par semaine. Elles viennent d'horizons différents et ne connaissent pas toutes les mêmes chansons. Pourtant, en répétant ensemble, elles créent une belle harmonie.",
-      "en": "At a community center, several people meet to sing once a week. They come from different backgrounds and do not all know the same songs. Yet, by practicing together, they create a beautiful harmony."
+      "fr": "Un groupe d'étudiants cherchait un endroit pour préparer un examen important. À la bibliothèque, ils ont réservé une salle, partagé leurs notes et expliqué les sujets difficiles à tour de rôle. Le cadre tranquille les a aidés à rester concentrés.",
+      "en": "A group of students was looking for a place to prepare for an important exam. At the library, they reserved a room, shared notes and took turns explaining difficult topics. The quiet setting helped them stay focused."
     },
     {
-      "fr": "Apprendre à jouer d'un instrument peut demander beaucoup de patience. Les progrès sont rarement immédiats, mais la pratique développe l'attention et la persévérance. Même une mélodie très simple peut procurer une grande satisfaction.",
-      "en": "Learning an instrument can require a great deal of patience. Progress is rarely immediate, but practice develops attention and perseverance. Even a very simple melody can bring great satisfaction."
+      "fr": "Les bibliothèques permettent à des personnes de milieux différents d'accéder aux mêmes ressources. On peut y consulter des documents, utiliser un ordinateur ou participer à un atelier sans avoir besoin de dépenser beaucoup d'argent.",
+      "en": "Libraries allow people from different backgrounds to access the same resources. You can consult documents, use a computer or attend a workshop without needing to spend much money."
     },
     {
-      "fr": "La musique est aussi une manière de découvrir d'autres cultures. Les instruments, les rythmes et les voix racontent des traditions variées. Écouter quelque chose de nouveau peut nous rendre plus curieux et ouverts aux différences.",
-      "en": "Music is also a way to discover other cultures. Instruments, rhythms and voices tell of varied traditions. Listening to something new can make us more curious and open to differences."
+      "fr": "Lire régulièrement développe le vocabulaire, l'imagination et la capacité à comprendre des idées nouvelles. Il n'est pas nécessaire de terminer un livre par semaine : quelques pages par jour peuvent déjà enrichir nos connaissances.",
+      "en": "Reading regularly develops vocabulary, imagination and the ability to understand new ideas. There is no need to finish a book every week: a few pages a day can already enrich our knowledge."
     },
     {
-      "fr": "Il reste toujours une nouvelle mélodie à découvrir, même lorsqu'on pense connaître ses goûts.",
-      "en": "There is always a new melody to discover, even when we think we know our tastes."
+      "fr": "La bibliothèque prouve qu'un espace public simple peut avoir une grande valeur dans la vie quotidienne.",
+      "en": "The library proves that a simple public space can have great value in everyday life."
     }
   ],
-  "word_count": 205,
+  "word_count": 206,
   "unique_hours_before_repeat": 216
 }
