@@ -1,35 +1,35 @@
 {
-  "id": "497813",
-  "hour_utc": "2026-10-16T05:00:00Z",
-  "title": "Le travail à distance",
-  "title_en": "Remote work",
+  "id": "497819",
+  "hour_utc": "2026-10-16T11:00:00Z",
+  "title": "Le pouvoir de la musique",
+  "title_en": "The power of music",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Depuis quelques années, de nombreuses personnes travaillent parfois depuis leur domicile. Cette organisation peut éviter de longs déplacements et offrir plus de souplesse. Cependant, elle demande aussi de bonnes habitudes pour séparer la vie professionnelle de la vie personnelle.",
-      "en": "In recent years, many people have sometimes worked from home. This arrangement can avoid long commutes and offer more flexibility. However, it also requires good habits to separate work life from personal life."
+      "fr": "La musique accompagne de nombreux moments de notre existence. Elle peut nous donner de l'énergie, nous rappeler un souvenir ou rendre une journée difficile un peu plus légère. Chaque personne possède ses goûts, mais les mélodies créent souvent des émotions que les mots seuls expriment mal.",
+      "en": "Music accompanies many moments of our lives. It can give us energy, remind us of a memory or make a difficult day feel a little lighter. Everyone has their own tastes, but melodies often create emotions that words alone express poorly."
     },
     {
-      "fr": "Au début, Thomas travaillait sur la table de sa cuisine et répondait aux messages jusque tard le soir. Il a finalement installé un petit bureau près d'une fenêtre et décidé de fermer son ordinateur à heure fixe. Ses journées sont devenues plus équilibrées.",
-      "en": "At first, Thomas worked at his kitchen table and answered messages late into the evening. He eventually set up a small desk near a window and decided to close his computer at a fixed time. His days became more balanced."
+      "fr": "Un jeune homme a retrouvé une chanson que sa mère écoutait lorsqu'il était enfant. Dès les premières notes, il s'est souvenu des longs voyages en voiture avec sa famille. Il a compris que la musique peut conserver des moments qui semblent oubliés.",
+      "en": "A young man rediscovered a song his mother listened to when he was a child. From the first notes, he remembered long car journeys with his family. He understood that music can preserve moments that seem forgotten."
     },
     {
-      "fr": "Une équipe qui habitait dans plusieurs villes devait préparer un projet commun. Ses membres ont organisé une courte réunion chaque matin et partagé un document de suivi. Ces habitudes simples ont permis à chacun de comprendre les priorités et d'éviter les malentendus.",
-      "en": "A team living in several cities had to prepare a shared project. Its members organized a short meeting each morning and shared a tracking document. These simple habits allowed everyone to understand priorities and avoid misunderstandings."
+      "fr": "Dans un centre communautaire, plusieurs personnes se réunissent pour chanter une fois par semaine. Elles viennent d'horizons différents et ne connaissent pas toutes les mêmes chansons. Pourtant, en répétant ensemble, elles créent une belle harmonie.",
+      "en": "At a community center, several people meet to sing once a week. They come from different backgrounds and do not all know the same songs. Yet, by practicing together, they create a beautiful harmony."
     },
     {
-      "fr": "Le travail à distance ne convient pas de la même manière à tout le monde. Certaines personnes apprécient le silence, tandis que d'autres ont besoin de contacts réguliers. Une organisation efficace doit donc tenir compte des tâches et des préférences individuelles.",
-      "en": "Remote work does not suit everyone in the same way. Some people appreciate quiet, while others need regular contact. An effective arrangement must therefore consider tasks and individual preferences."
+      "fr": "Apprendre à jouer d'un instrument peut demander beaucoup de patience. Les progrès sont rarement immédiats, mais la pratique développe l'attention et la persévérance. Même une mélodie très simple peut procurer une grande satisfaction.",
+      "en": "Learning an instrument can require a great deal of patience. Progress is rarely immediate, but practice develops attention and perseverance. Even a very simple melody can bring great satisfaction."
     },
     {
-      "fr": "Pour rester productif, il peut être utile de définir trois objectifs par jour, de faire des pauses et de sortir marcher. La qualité du travail dépend souvent moins du lieu que de la clarté des attentes et de la communication.",
-      "en": "To remain productive, it can help to set three daily goals, take breaks and go for walks. Work quality often depends less on location than on clear expectations and communication."
+      "fr": "La musique est aussi une manière de découvrir d'autres cultures. Les instruments, les rythmes et les voix racontent des traditions variées. Écouter quelque chose de nouveau peut nous rendre plus curieux et ouverts aux différences.",
+      "en": "Music is also a way to discover other cultures. Instruments, rhythms and voices tell of varied traditions. Listening to something new can make us more curious and open to differences."
     },
     {
-      "fr": "La liberté de choisir son lieu de travail est utile, mais elle doit s'accompagner de responsabilités claires.",
-      "en": "The freedom to choose where we work is useful, but it should come with clear responsibilities."
+      "fr": "Il reste toujours une nouvelle mélodie à découvrir, même lorsqu'on pense connaître ses goûts.",
+      "en": "There is always a new melody to discover, even when we think we know our tastes."
     }
   ],
-  "word_count": 222,
+  "word_count": 205,
   "unique_hours_before_repeat": 216
 }
