@@ -1,35 +1,35 @@
 {
-  "id": "497808",
-  "hour_utc": "2026-10-16T00:00:00Z",
-  "title": "Une journée sans téléphone",
-  "title_en": "A day without a phone",
+  "id": "497813",
+  "hour_utc": "2026-10-16T05:00:00Z",
+  "title": "Le travail à distance",
+  "title_en": "Remote work",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Aujourd'hui, le téléphone accompagne presque tous les moments de notre vie. On l'utilise pour communiquer, trouver son chemin et regarder les nouvelles. Pourtant, il est parfois utile de passer quelques heures sans écran pour observer ce qui se passe autour de nous.",
-      "en": "Today, the phone accompanies almost every moment of our lives. We use it to communicate, find our way and check the news. Yet sometimes it is useful to spend a few hours without a screen and notice what is happening around us."
+      "fr": "Depuis quelques années, de nombreuses personnes travaillent parfois depuis leur domicile. Cette organisation peut éviter de longs déplacements et offrir plus de souplesse. Cependant, elle demande aussi de bonnes habitudes pour séparer la vie professionnelle de la vie personnelle.",
+      "en": "In recent years, many people have sometimes worked from home. This arrangement can avoid long commutes and offer more flexibility. However, it also requires good habits to separate work life from personal life."
     },
     {
-      "fr": "Samedi dernier, j'ai laissé mon téléphone à la maison avant de partir me promener. Au début, j'avais peur de manquer un message important. Puis j'ai remarqué les couleurs des arbres, les conversations dans la rue et les petits commerces que je ne voyais jamais.",
-      "en": "Last Saturday, I left my phone at home before going for a walk. At first, I was afraid of missing an important message. Then I noticed the colors of the trees, conversations in the street and small shops I had never really seen."
+      "fr": "Au début, Thomas travaillait sur la table de sa cuisine et répondait aux messages jusque tard le soir. Il a finalement installé un petit bureau près d'une fenêtre et décidé de fermer son ordinateur à heure fixe. Ses journées sont devenues plus équilibrées.",
+      "en": "At first, Thomas worked at his kitchen table and answered messages late into the evening. He eventually set up a small desk near a window and decided to close his computer at a fixed time. His days became more balanced."
     },
     {
-      "fr": "Un dimanche, deux amis ont décidé de cuisiner ensemble sans consulter leurs écrans. Ils ont cherché les ingrédients dans les placards, modifié une recette et parlé de leurs souvenirs d'enfance. Le repas n'était pas parfait, mais ils ont passé un excellent moment.",
-      "en": "One Sunday, two friends decided to cook together without checking their screens. They looked for ingredients in the cupboards, changed a recipe and talked about childhood memories. The meal was not perfect, but they had a wonderful time."
+      "fr": "Une équipe qui habitait dans plusieurs villes devait préparer un projet commun. Ses membres ont organisé une courte réunion chaque matin et partagé un document de suivi. Ces habitudes simples ont permis à chacun de comprendre les priorités et d'éviter les malentendus.",
+      "en": "A team living in several cities had to prepare a shared project. Its members organized a short meeting each morning and shared a tracking document. These simple habits allowed everyone to understand priorities and avoid misunderstandings."
     },
     {
-      "fr": "Cette expérience ne signifie pas que la technologie est mauvaise. Elle montre simplement que notre attention est précieuse. En choisissant les moments où nous utilisons nos appareils, nous pouvons profiter des avantages du numérique sans oublier le monde réel.",
-      "en": "This experience does not mean that technology is bad. It simply shows that our attention is precious. By choosing when we use our devices, we can enjoy the benefits of technology without forgetting the real world."
+      "fr": "Le travail à distance ne convient pas de la même manière à tout le monde. Certaines personnes apprécient le silence, tandis que d'autres ont besoin de contacts réguliers. Une organisation efficace doit donc tenir compte des tâches et des préférences individuelles.",
+      "en": "Remote work does not suit everyone in the same way. Some people appreciate quiet, while others need regular contact. An effective arrangement must therefore consider tasks and individual preferences."
     },
     {
-      "fr": "Il est difficile de changer ses habitudes du jour au lendemain. Cependant, un petit geste peut avoir un effet important. Éteindre les notifications pendant un repas ou une promenade permet souvent de mieux écouter les autres et de se sentir plus calme.",
-      "en": "It is hard to change our habits overnight. However, a small step can make a big difference. Turning off notifications during a meal or a walk often helps us listen to others better and feel calmer."
+      "fr": "Pour rester productif, il peut être utile de définir trois objectifs par jour, de faire des pauses et de sortir marcher. La qualité du travail dépend souvent moins du lieu que de la clarté des attentes et de la communication.",
+      "en": "To remain productive, it can help to set three daily goals, take breaks and go for walks. Work quality often depends less on location than on clear expectations and communication."
     },
     {
-      "fr": "Finalement, la vraie question n'est pas de savoir combien de temps nous passons en ligne, mais ce que nous faisons du temps qui reste.",
-      "en": "Ultimately, the real question is not how much time we spend online, but what we do with the time that remains."
+      "fr": "La liberté de choisir son lieu de travail est utile, mais elle doit s'accompagner de responsabilités claires.",
+      "en": "The freedom to choose where we work is useful, but it should come with clear responsibilities."
     }
   ],
-  "word_count": 233,
+  "word_count": 222,
   "unique_hours_before_repeat": 216
 }
