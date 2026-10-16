@@ -1,35 +1,35 @@
 {
-  "id": "497806",
-  "hour_utc": "2026-10-15T22:00:00Z",
-  "title": "Changer ses habitudes de transport",
-  "title_en": "Changing transport habits",
+  "id": "497808",
+  "hour_utc": "2026-10-16T00:00:00Z",
+  "title": "Une journée sans téléphone",
+  "title_en": "A day without a phone",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Se déplacer fait partie de notre routine, mais nous choisissons souvent notre moyen de transport sans vraiment y réfléchir. Selon la distance, la météo et nos obligations, marcher, prendre le bus ou utiliser un vélo peut parfois être plus pratique qu'une voiture.",
-      "en": "Travel is part of our routine, but we often choose how to get around without thinking about it. Depending on distance, weather and our obligations, walking, taking the bus or riding a bicycle can sometimes be more practical than a car."
+      "fr": "Aujourd'hui, le téléphone accompagne presque tous les moments de notre vie. On l'utilise pour communiquer, trouver son chemin et regarder les nouvelles. Pourtant, il est parfois utile de passer quelques heures sans écran pour observer ce qui se passe autour de nous.",
+      "en": "Today, the phone accompanies almost every moment of our lives. We use it to communicate, find our way and check the news. Yet sometimes it is useful to spend a few hours without a screen and notice what is happening around us."
     },
     {
-      "fr": "Un employé prenait toujours sa voiture pour faire un trajet très court. Un matin, il a décidé de marcher. Il a découvert une boulangerie, croisé plusieurs voisins et constaté que la différence de temps était moins grande qu'il ne l'imaginait.",
-      "en": "An employee always drove for a very short trip. One morning, he decided to walk. He discovered a bakery, crossed paths with several neighbors and realized the difference in time was smaller than he imagined."
+      "fr": "Samedi dernier, j'ai laissé mon téléphone à la maison avant de partir me promener. Au début, j'avais peur de manquer un message important. Puis j'ai remarqué les couleurs des arbres, les conversations dans la rue et les petits commerces que je ne voyais jamais.",
+      "en": "Last Saturday, I left my phone at home before going for a walk. At first, I was afraid of missing an important message. Then I noticed the colors of the trees, conversations in the street and small shops I had never really seen."
     },
     {
-      "fr": "Pendant un mois, Julie a essayé de se rendre au travail à vélo deux jours par semaine. Les premières sorties étaient fatigantes, puis elle a trouvé un itinéraire plus calme. Elle appréciait désormais ce moment d'activité avant de commencer sa journée.",
-      "en": "For one month, Julie tried cycling to work two days a week. The first rides were tiring, then she found a quieter route. She came to enjoy this period of activity before starting her day."
+      "fr": "Un dimanche, deux amis ont décidé de cuisiner ensemble sans consulter leurs écrans. Ils ont cherché les ingrédients dans les placards, modifié une recette et parlé de leurs souvenirs d'enfance. Le repas n'était pas parfait, mais ils ont passé un excellent moment.",
+      "en": "One Sunday, two friends decided to cook together without checking their screens. They looked for ingredients in the cupboards, changed a recipe and talked about childhood memories. The meal was not perfect, but they had a wonderful time."
     },
     {
-      "fr": "Une approche flexible est souvent la meilleure. On peut utiliser la voiture quand elle est nécessaire et choisir une autre solution pour certains déplacements. Il s'agit de prendre des décisions pratiques plutôt que de suivre une règle absolue.",
-      "en": "A flexible approach is often best. We can use a car when necessary and choose another option for some trips. The aim is to make practical decisions rather than follow an absolute rule."
+      "fr": "Cette expérience ne signifie pas que la technologie est mauvaise. Elle montre simplement que notre attention est précieuse. En choisissant les moments où nous utilisons nos appareils, nous pouvons profiter des avantages du numérique sans oublier le monde réel.",
+      "en": "This experience does not mean that technology is bad. It simply shows that our attention is precious. By choosing when we use our devices, we can enjoy the benefits of technology without forgetting the real world."
     },
     {
-      "fr": "Changer de transport ne dépend pas uniquement de la volonté personnelle. La sécurité des routes, la qualité des transports publics et la distance comptent beaucoup. Les villes ont donc un rôle important à jouer pour offrir des possibilités réelles.",
-      "en": "Changing how we travel does not depend only on personal will. Road safety, the quality of public transport and distance matter a great deal. Cities therefore have an important role in offering real options."
+      "fr": "Il est difficile de changer ses habitudes du jour au lendemain. Cependant, un petit geste peut avoir un effet important. Éteindre les notifications pendant un repas ou une promenade permet souvent de mieux écouter les autres et de se sentir plus calme.",
+      "en": "It is hard to change our habits overnight. However, a small step can make a big difference. Turning off notifications during a meal or a walk often helps us listen to others better and feel calmer."
     },
     {
-      "fr": "Des choix mieux adaptés peuvent rendre la journée plus agréable tout en réduisant certains coûts.",
-      "en": "Better-suited choices can make the day more pleasant while reducing some costs."
+      "fr": "Finalement, la vraie question n'est pas de savoir combien de temps nous passons en ligne, mais ce que nous faisons du temps qui reste.",
+      "en": "Ultimately, the real question is not how much time we spend online, but what we do with the time that remains."
     }
   ],
-  "word_count": 215,
+  "word_count": 233,
   "unique_hours_before_repeat": 216
 }
