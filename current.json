@@ -1,35 +1,35 @@
 {
-  "id": "497838",
-  "hour_utc": "2026-10-17T06:00:00Z",
-  "title": "Les petits gestes pour la planète",
-  "title_en": "Small actions for the planet",
+  "id": "497843",
+  "hour_utc": "2026-10-17T11:00:00Z",
+  "title": "Le pouvoir de la musique",
+  "title_en": "The power of music",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
-      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
+      "fr": "La musique accompagne de nombreux moments de notre existence. Elle peut nous donner de l'énergie, nous rappeler un souvenir ou rendre une journée difficile un peu plus légère. Chaque personne possède ses goûts, mais les mélodies créent souvent des émotions que les mots seuls expriment mal.",
+      "en": "Music accompanies many moments of our lives. It can give us energy, remind us of a memory or make a difficult day feel a little lighter. Everyone has their own tastes, but melodies often create emotions that words alone express poorly."
     },
     {
-      "fr": "Dans un immeuble, les habitants échangeaient rarement leurs objets. Ils ont créé une petite étagère où chacun pouvait déposer des livres, des outils ou des jeux en bon état. Beaucoup d'objets ont trouvé une seconde vie au lieu d'être jetés.",
-      "en": "In an apartment building, residents rarely exchanged objects. They created a small shelf where everyone could leave books, tools or games in good condition. Many objects found a second life instead of being thrown away."
+      "fr": "Une étudiante écoute parfois de la musique douce lorsqu'elle révise. Pour les tâches difficiles, elle préfère le silence. Avec le temps, elle a découvert que le choix du son dépend de ce qu'elle doit faire et de son état d'esprit.",
+      "en": "A student sometimes listens to soft music while reviewing. For difficult tasks, she prefers silence. Over time, she discovered that the best sound depends on what she needs to do and how she feels."
     },
     {
-      "fr": "Dans une famille, les restes de légumes finissaient souvent à la poubelle. Un dimanche, les parents et les enfants ont commencé à préparer une soupe avec les produits disponibles. Cette recette improvisée est devenue une tradition qui réduit les déchets alimentaires.",
-      "en": "In one family, leftover vegetables often ended up in the trash. One Sunday, the parents and children began making soup with available ingredients. This improvised recipe became a tradition that reduces food waste."
+      "fr": "Un jeune homme a retrouvé une chanson que sa mère écoutait lorsqu'il était enfant. Dès les premières notes, il s'est souvenu des longs voyages en voiture avec sa famille. Il a compris que la musique peut conserver des moments qui semblent oubliés.",
+      "en": "A young man rediscovered a song his mother listened to when he was a child. From the first notes, he remembered long car journeys with his family. He understood that music can preserve moments that seem forgotten."
     },
     {
-      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
-      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
+      "fr": "Apprendre à jouer d'un instrument peut demander beaucoup de patience. Les progrès sont rarement immédiats, mais la pratique développe l'attention et la persévérance. Même une mélodie très simple peut procurer une grande satisfaction.",
+      "en": "Learning an instrument can require a great deal of patience. Progress is rarely immediate, but practice develops attention and perseverance. Even a very simple melody can bring great satisfaction."
     },
     {
-      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
-      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
+      "fr": "La musique est aussi une manière de découvrir d'autres cultures. Les instruments, les rythmes et les voix racontent des traditions variées. Écouter quelque chose de nouveau peut nous rendre plus curieux et ouverts aux différences.",
+      "en": "Music is also a way to discover other cultures. Instruments, rhythms and voices tell of varied traditions. Listening to something new can make us more curious and open to differences."
     },
     {
-      "fr": "Agir de façon durable demande surtout de la constance, de la coopération et du bon sens.",
-      "en": "Acting sustainably mainly requires consistency, cooperation and common sense."
+      "fr": "Il reste toujours une nouvelle mélodie à découvrir, même lorsqu'on pense connaître ses goûts.",
+      "en": "There is always a new melody to discover, even when we think we know our tastes."
     }
   ],
-  "word_count": 212,
+  "word_count": 210,
   "unique_hours_before_repeat": 216
 }
