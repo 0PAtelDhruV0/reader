@@ -1,35 +1,35 @@
 {
-  "id": "497843",
-  "hour_utc": "2026-10-17T11:00:00Z",
-  "title": "Le pouvoir de la musique",
-  "title_en": "The power of music",
+  "id": "497847",
+  "hour_utc": "2026-10-17T15:00:00Z",
+  "title": "Voyager en train",
+  "title_en": "Traveling by train",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "La musique accompagne de nombreux moments de notre existence. Elle peut nous donner de l'énergie, nous rappeler un souvenir ou rendre une journée difficile un peu plus légère. Chaque personne possède ses goûts, mais les mélodies créent souvent des émotions que les mots seuls expriment mal.",
-      "en": "Music accompanies many moments of our lives. It can give us energy, remind us of a memory or make a difficult day feel a little lighter. Everyone has their own tastes, but melodies often create emotions that words alone express poorly."
+      "fr": "Prendre le train est une manière particulière de découvrir un pays. On peut regarder le paysage, lire un livre ou discuter avec un voisin. Contrairement à un voyage très rapide en avion, le trajet lui-même fait souvent partie de l'expérience.",
+      "en": "Taking a train is a special way to discover a country. You can watch the scenery, read a book or talk to a neighbor. Unlike a very fast journey by plane, the trip itself often becomes part of the experience."
     },
     {
-      "fr": "Une étudiante écoute parfois de la musique douce lorsqu'elle révise. Pour les tâches difficiles, elle préfère le silence. Avec le temps, elle a découvert que le choix du son dépend de ce qu'elle doit faire et de son état d'esprit.",
-      "en": "A student sometimes listens to soft music while reviewing. For difficult tasks, she prefers silence. Over time, she discovered that the best sound depends on what she needs to do and how she feels."
+      "fr": "Un matin, Léa est partie visiter une ville qu'elle ne connaissait pas. À travers la fenêtre, elle a vu des champs, de petites gares et des maisons anciennes. Quand le train s'est arrêté, elle avait déjà l'impression d'avoir découvert une partie de la région.",
+      "en": "One morning, Léa left to visit a city she did not know. Through the window, she saw fields, small stations and old houses. When the train stopped, she already felt she had discovered part of the region."
     },
     {
-      "fr": "Un jeune homme a retrouvé une chanson que sa mère écoutait lorsqu'il était enfant. Dès les premières notes, il s'est souvenu des longs voyages en voiture avec sa famille. Il a compris que la musique peut conserver des moments qui semblent oubliés.",
-      "en": "A young man rediscovered a song his mother listened to when he was a child. From the first notes, he remembered long car journeys with his family. He understood that music can preserve moments that seem forgotten."
+      "fr": "Pendant un long trajet, Karim a partagé sa table avec un voyageur qui lisait un roman. Ils ont commencé à parler de littérature et ont échangé des recommandations. Cette conversation imprévue a rendu leur journée plus agréable et leur a donné envie de lire davantage.",
+      "en": "During a long journey, Karim shared a table with a traveler reading a novel. They began talking about literature and exchanged recommendations. This unexpected conversation made their day more pleasant and made them want to read more."
     },
     {
-      "fr": "Apprendre à jouer d'un instrument peut demander beaucoup de patience. Les progrès sont rarement immédiats, mais la pratique développe l'attention et la persévérance. Même une mélodie très simple peut procurer une grande satisfaction.",
-      "en": "Learning an instrument can require a great deal of patience. Progress is rarely immediate, but practice develops attention and perseverance. Even a very simple melody can bring great satisfaction."
+      "fr": "Voyager lentement nous encourage à être attentifs à notre environnement. Les paysages changent progressivement et chaque région semble raconter sa propre histoire. Cette expérience nous apprend qu'arriver n'est pas toujours le seul objectif.",
+      "en": "Traveling slowly encourages us to pay attention to our surroundings. Landscapes change gradually and each region seems to tell its own story. This experience teaches us that arriving is not always the only goal."
     },
     {
-      "fr": "La musique est aussi une manière de découvrir d'autres cultures. Les instruments, les rythmes et les voix racontent des traditions variées. Écouter quelque chose de nouveau peut nous rendre plus curieux et ouverts aux différences.",
-      "en": "Music is also a way to discover other cultures. Instruments, rhythms and voices tell of varied traditions. Listening to something new can make us more curious and open to differences."
+      "fr": "Bien sûr, le train présente aussi des inconvénients. Il faut parfois changer de ligne, réserver à l'avance ou accepter des retards. Pourtant, une bonne préparation permet de réduire le stress et de profiter davantage du voyage.",
+      "en": "Of course, trains also have disadvantages. Sometimes we have to change lines, book ahead or accept delays. Yet good preparation can reduce stress and help us enjoy the trip more."
     },
     {
-      "fr": "Il reste toujours une nouvelle mélodie à découvrir, même lorsqu'on pense connaître ses goûts.",
-      "en": "There is always a new melody to discover, even when we think we know our tastes."
+      "fr": "Finalement, voyager ne consiste pas seulement à changer de lieu, mais aussi à changer de regard.",
+      "en": "In the end, traveling is not only about changing places, but also about changing how we see things."
     }
   ],
-  "word_count": 210,
+  "word_count": 214,
   "unique_hours_before_repeat": 216
 }
