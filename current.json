@@ -1,35 +1,35 @@
 {
-  "id": "497847",
-  "hour_utc": "2026-10-17T15:00:00Z",
-  "title": "Voyager en train",
-  "title_en": "Traveling by train",
+  "id": "497850",
+  "hour_utc": "2026-10-17T18:00:00Z",
+  "title": "Les petits gestes pour la planète",
+  "title_en": "Small actions for the planet",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Prendre le train est une manière particulière de découvrir un pays. On peut regarder le paysage, lire un livre ou discuter avec un voisin. Contrairement à un voyage très rapide en avion, le trajet lui-même fait souvent partie de l'expérience.",
-      "en": "Taking a train is a special way to discover a country. You can watch the scenery, read a book or talk to a neighbor. Unlike a very fast journey by plane, the trip itself often becomes part of the experience."
+      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
+      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
     },
     {
-      "fr": "Un matin, Léa est partie visiter une ville qu'elle ne connaissait pas. À travers la fenêtre, elle a vu des champs, de petites gares et des maisons anciennes. Quand le train s'est arrêté, elle avait déjà l'impression d'avoir découvert une partie de la région.",
-      "en": "One morning, Léa left to visit a city she did not know. Through the window, she saw fields, small stations and old houses. When the train stopped, she already felt she had discovered part of the region."
+      "fr": "Dans une famille, les restes de légumes finissaient souvent à la poubelle. Un dimanche, les parents et les enfants ont commencé à préparer une soupe avec les produits disponibles. Cette recette improvisée est devenue une tradition qui réduit les déchets alimentaires.",
+      "en": "In one family, leftover vegetables often ended up in the trash. One Sunday, the parents and children began making soup with available ingredients. This improvised recipe became a tradition that reduces food waste."
     },
     {
-      "fr": "Pendant un long trajet, Karim a partagé sa table avec un voyageur qui lisait un roman. Ils ont commencé à parler de littérature et ont échangé des recommandations. Cette conversation imprévue a rendu leur journée plus agréable et leur a donné envie de lire davantage.",
-      "en": "During a long journey, Karim shared a table with a traveler reading a novel. They began talking about literature and exchanged recommendations. This unexpected conversation made their day more pleasant and made them want to read more."
+      "fr": "Une école a installé des fontaines d'eau et invité les élèves à apporter une gourde. Au début, plusieurs enfants oubliaient leur bouteille. Après quelques semaines, ils avaient pris l'habitude de la remplir et utilisaient moins de contenants jetables.",
+      "en": "A school installed water fountains and invited students to bring reusable bottles. At first, several children forgot their bottles. After a few weeks, they had developed the habit of refilling them and used fewer disposable containers."
     },
     {
-      "fr": "Voyager lentement nous encourage à être attentifs à notre environnement. Les paysages changent progressivement et chaque région semble raconter sa propre histoire. Cette expérience nous apprend qu'arriver n'est pas toujours le seul objectif.",
-      "en": "Traveling slowly encourages us to pay attention to our surroundings. Landscapes change gradually and each region seems to tell its own story. This experience teaches us that arriving is not always the only goal."
+      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
+      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
     },
     {
-      "fr": "Bien sûr, le train présente aussi des inconvénients. Il faut parfois changer de ligne, réserver à l'avance ou accepter des retards. Pourtant, une bonne préparation permet de réduire le stress et de profiter davantage du voyage.",
-      "en": "Of course, trains also have disadvantages. Sometimes we have to change lines, book ahead or accept delays. Yet good preparation can reduce stress and help us enjoy the trip more."
+      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
+      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
     },
     {
-      "fr": "Finalement, voyager ne consiste pas seulement à changer de lieu, mais aussi à changer de regard.",
-      "en": "In the end, traveling is not only about changing places, but also about changing how we see things."
+      "fr": "Agir de façon durable demande surtout de la constance, de la coopération et du bon sens.",
+      "en": "Acting sustainably mainly requires consistency, cooperation and common sense."
     }
   ],
-  "word_count": 214,
+  "word_count": 210,
   "unique_hours_before_repeat": 216
 }
