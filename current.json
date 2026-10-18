@@ -1,35 +1,35 @@
 {
-  "id": "497876",
-  "hour_utc": "2026-10-18T20:00:00Z",
-  "title": "Cuisiner ensemble",
-  "title_en": "Cooking together",
+  "id": "497878",
+  "hour_utc": "2026-10-18T22:00:00Z",
+  "title": "Changer ses habitudes de transport",
+  "title_en": "Changing transport habits",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "La cuisine occupe une place importante dans la vie quotidienne. Elle répond à un besoin essentiel, mais elle permet aussi de partager des traditions et des souvenirs. Préparer un repas avec d'autres personnes peut être une manière simple de créer des liens.",
-      "en": "Cooking has an important place in daily life. It meets an essential need, but it also allows us to share traditions and memories. Preparing a meal with other people can be a simple way to build connections."
+      "fr": "Se déplacer fait partie de notre routine, mais nous choisissons souvent notre moyen de transport sans vraiment y réfléchir. Selon la distance, la météo et nos obligations, marcher, prendre le bus ou utiliser un vélo peut parfois être plus pratique qu'une voiture.",
+      "en": "Travel is part of our routine, but we often choose how to get around without thinking about it. Depending on distance, weather and our obligations, walking, taking the bus or riding a bicycle can sometimes be more practical than a car."
     },
     {
-      "fr": "Dans une résidence étudiante, des voisins ont organisé un repas où chacun apportait un plat de son pays. Ils ont parlé des ingrédients et des fêtes associés à ces recettes. La soirée a permis de découvrir des cultures différentes autour d'une même table.",
-      "en": "In student housing, neighbors organized a meal where everyone brought a dish from their country. They talked about the ingredients and celebrations associated with those recipes. The evening helped them discover different cultures around one table."
+      "fr": "Un employé prenait toujours sa voiture pour faire un trajet très court. Un matin, il a décidé de marcher. Il a découvert une boulangerie, croisé plusieurs voisins et constaté que la différence de temps était moins grande qu'il ne l'imaginait.",
+      "en": "An employee always drove for a very short trip. One morning, he decided to walk. He discovered a bakery, crossed paths with several neighbors and realized the difference in time was smaller than he imagined."
     },
     {
-      "fr": "Pour son anniversaire, Amélie a invité ses amis à préparer un dîner plutôt qu'à venir simplement le manger. Chacun a apporté un ingrédient et proposé une idée. Même les petits accidents en cuisine sont devenus des souvenirs amusants.",
-      "en": "For her birthday, Amélie invited her friends to prepare dinner instead of simply coming to eat it. Everyone brought an ingredient and suggested an idea. Even small kitchen accidents became funny memories."
+      "fr": "Pendant un mois, Julie a essayé de se rendre au travail à vélo deux jours par semaine. Les premières sorties étaient fatigantes, puis elle a trouvé un itinéraire plus calme. Elle appréciait désormais ce moment d'activité avant de commencer sa journée.",
+      "en": "For one month, Julie tried cycling to work two days a week. The first rides were tiring, then she found a quieter route. She came to enjoy this period of activity before starting her day."
     },
     {
-      "fr": "Cuisiner avec les autres demande de l'écoute et de l'organisation. Il faut partager les tâches, respecter les préférences alimentaires et accepter que chacun possède ses propres méthodes. Ces qualités sont utiles bien au-delà de la cuisine.",
-      "en": "Cooking with others requires listening and organization. We must share tasks, respect dietary preferences and accept that everyone has their own methods. These skills are useful far beyond the kitchen."
+      "fr": "Une approche flexible est souvent la meilleure. On peut utiliser la voiture quand elle est nécessaire et choisir une autre solution pour certains déplacements. Il s'agit de prendre des décisions pratiques plutôt que de suivre une règle absolue.",
+      "en": "A flexible approach is often best. We can use a car when necessary and choose another option for some trips. The aim is to make practical decisions rather than follow an absolute rule."
     },
     {
-      "fr": "Il n'est pas nécessaire de préparer des plats compliqués pour bien recevoir. Un repas simple, fait avec attention, peut avoir beaucoup de valeur. Le plus important est souvent le temps que nous passons ensemble plutôt que le prix des ingrédients.",
-      "en": "We do not need to prepare complicated dishes to be good hosts. A simple meal, made with care, can have great value. What matters most is often the time we spend together rather than the price of the ingredients."
+      "fr": "Changer de transport ne dépend pas uniquement de la volonté personnelle. La sécurité des routes, la qualité des transports publics et la distance comptent beaucoup. Les villes ont donc un rôle important à jouer pour offrir des possibilités réelles.",
+      "en": "Changing how we travel does not depend only on personal will. Road safety, the quality of public transport and distance matter a great deal. Cities therefore have an important role in offering real options."
     },
     {
-      "fr": "Partager un repas, c'est parfois partager bien plus que de la nourriture.",
-      "en": "Sharing a meal is sometimes sharing much more than food."
+      "fr": "Il suffit parfois d'essayer un autre itinéraire pour découvrir une nouvelle manière de vivre sa ville.",
+      "en": "Sometimes all it takes is trying another route to discover a new way to experience your city."
     }
   ],
-  "word_count": 211,
+  "word_count": 216,
   "unique_hours_before_repeat": 216
 }
