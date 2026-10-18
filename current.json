@@ -1,35 +1,35 @@
 {
-  "id": "497869",
-  "hour_utc": "2026-10-18T13:00:00Z",
-  "title": "Apprendre une nouvelle langue",
-  "title_en": "Learning a new language",
+  "id": "497873",
+  "hour_utc": "2026-10-18T17:00:00Z",
+  "title": "Le travail à distance",
+  "title_en": "Remote work",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Apprendre une langue étrangère demande du temps, de la patience et beaucoup de curiosité. Au début, on comprend seulement quelques mots. Plus tard, de petites phrases deviennent de vraies conversations. Ce progrès est parfois lent, mais il peut transformer notre façon de voir les autres.",
-      "en": "Learning a foreign language takes time, patience and a great deal of curiosity. At first, we understand only a few words. Later, small phrases turn into real conversations. This progress can be slow, but it can change the way we see other people."
+      "fr": "Depuis quelques années, de nombreuses personnes travaillent parfois depuis leur domicile. Cette organisation peut éviter de longs déplacements et offrir plus de souplesse. Cependant, elle demande aussi de bonnes habitudes pour séparer la vie professionnelle de la vie personnelle.",
+      "en": "In recent years, many people have sometimes worked from home. This arrangement can avoid long commutes and offer more flexibility. However, it also requires good habits to separate work life from personal life."
     },
     {
-      "fr": "Dans une bibliothèque, un groupe de voisins organise des conversations gratuites. Les participants viennent de plusieurs pays et parlent de cuisine, de voyages ou de leurs projets. Les erreurs provoquent parfois des rires, mais personne ne se moque des autres.",
-      "en": "At a library, a group of neighbors organizes free conversations. Participants come from several countries and talk about food, travel or their plans. Mistakes sometimes cause laughter, but nobody makes fun of anyone else."
+      "fr": "Après plusieurs semaines seule chez elle, une employée regrettait les conversations spontanées avec ses collègues. Elle a commencé à travailler un jour par semaine dans un espace partagé. Elle a retrouvé une vie sociale plus riche sans perdre toute sa flexibilité.",
+      "en": "After several weeks alone at home, an employee missed spontaneous conversations with coworkers. She began working one day a week in a shared space. She found a richer social life without losing all her flexibility."
     },
     {
-      "fr": "Chaque matin, Nadia écoute cinq minutes de français avant de partir au travail. Elle répète certaines phrases à voix haute et note deux mots nouveaux. Après plusieurs semaines, elle reconnaît des expressions dans les annonces et commence à répondre avec plus de confiance.",
-      "en": "Every morning, Nadia listens to five minutes of French before going to work. She repeats some phrases aloud and writes down two new words. After several weeks, she recognizes expressions in announcements and begins answering more confidently."
+      "fr": "Au début, Thomas travaillait sur la table de sa cuisine et répondait aux messages jusque tard le soir. Il a finalement installé un petit bureau près d'une fenêtre et décidé de fermer son ordinateur à heure fixe. Ses journées sont devenues plus équilibrées.",
+      "en": "At first, Thomas worked at his kitchen table and answered messages late into the evening. He eventually set up a small desk near a window and decided to close his computer at a fixed time. His days became more balanced."
     },
     {
-      "fr": "Pour progresser, il faut accepter de faire des erreurs. Une conversation imparfaite reste une conversation réussie si les deux personnes se comprennent. Avec le temps, la prononciation, le vocabulaire et la grammaire deviennent plus naturels.",
-      "en": "To improve, we must accept making mistakes. An imperfect conversation is still successful if both people understand each other. With time, pronunciation, vocabulary and grammar become more natural."
+      "fr": "Pour rester productif, il peut être utile de définir trois objectifs par jour, de faire des pauses et de sortir marcher. La qualité du travail dépend souvent moins du lieu que de la clarté des attentes et de la communication.",
+      "en": "To remain productive, it can help to set three daily goals, take breaks and go for walks. Work quality often depends less on location than on clear expectations and communication."
     },
     {
-      "fr": "La régularité est souvent plus importante que la durée d'une séance. Dix minutes chaque jour peuvent être plus efficaces qu'une longue leçon de temps en temps. Il est également utile de revoir les mots appris et de les utiliser dans des phrases personnelles.",
-      "en": "Consistency is often more important than the length of a session. Ten minutes every day can be more effective than a long lesson occasionally. It also helps to review learned words and use them in personal sentences."
+      "fr": "Le travail à distance ne convient pas de la même manière à tout le monde. Certaines personnes apprécient le silence, tandis que d'autres ont besoin de contacts réguliers. Une organisation efficace doit donc tenir compte des tâches et des préférences individuelles.",
+      "en": "Remote work does not suit everyone in the same way. Some people appreciate quiet, while others need regular contact. An effective arrangement must therefore consider tasks and individual preferences."
     },
     {
-      "fr": "Il ne faut pas attendre d'être prêt pour parler. C'est justement en parlant que l'on devient prêt.",
-      "en": "We should not wait until we are ready to speak. It is precisely by speaking that we become ready."
+      "fr": "La liberté de choisir son lieu de travail est utile, mais elle doit s'accompagner de responsabilités claires.",
+      "en": "The freedom to choose where we work is useful, but it should come with clear responsibilities."
     }
   ],
-  "word_count": 223,
+  "word_count": 221,
   "unique_hours_before_repeat": 216
 }
