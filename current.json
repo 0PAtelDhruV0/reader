@@ -1,35 +1,35 @@
 {
-  "id": "497899",
-  "hour_utc": "2026-10-19T19:00:00Z",
-  "title": "Découvrir l’histoire d’une ville",
-  "title_en": "Discovering a city’s history",
+  "id": "497903",
+  "hour_utc": "2026-10-19T23:00:00Z",
+  "title": "Le pouvoir de la musique",
+  "title_en": "The power of music",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Quand on visite une ville, on regarde souvent ses monuments et ses rues les plus connues. Pourtant, son histoire se cache aussi dans les marchés, les anciennes usines et les maisons ordinaires. Comprendre ces détails permet de mieux connaître les personnes qui y ont vécu.",
-      "en": "When we visit a city, we often look at its monuments and best-known streets. Yet its history is also hidden in markets, old factories and ordinary houses. Understanding these details helps us know the people who lived there."
+      "fr": "La musique accompagne de nombreux moments de notre existence. Elle peut nous donner de l'énergie, nous rappeler un souvenir ou rendre une journée difficile un peu plus légère. Chaque personne possède ses goûts, mais les mélodies créent souvent des émotions que les mots seuls expriment mal.",
+      "en": "Music accompanies many moments of our lives. It can give us energy, remind us of a memory or make a difficult day feel a little lighter. Everyone has their own tastes, but melodies often create emotions that words alone express poorly."
     },
     {
-      "fr": "Une étudiante s'intéressait à l'histoire de sa rue. Elle a consulté des journaux anciens à la bibliothèque et rencontré un habitant qui y vivait depuis longtemps. Elle a découvert des souvenirs que les grands livres d'histoire ne mentionnaient pas.",
-      "en": "A student was interested in the history of her street. She consulted old newspapers at the library and met a resident who had lived there for a long time. She discovered memories that major history books did not mention."
+      "fr": "Dans un centre communautaire, plusieurs personnes se réunissent pour chanter une fois par semaine. Elles viennent d'horizons différents et ne connaissent pas toutes les mêmes chansons. Pourtant, en répétant ensemble, elles créent une belle harmonie.",
+      "en": "At a community center, several people meet to sing once a week. They come from different backgrounds and do not all know the same songs. Yet, by practicing together, they create a beautiful harmony."
     },
     {
-      "fr": "Dans un musée local, des enfants ont observé les objets utilisés par leurs arrière-grands-parents. Ils ont comparé les anciens outils avec ceux d'aujourd'hui et posé de nombreuses questions. Cette visite leur a montré que le quotidien change avec les générations.",
-      "en": "At a local museum, children observed objects used by their great-grandparents. They compared old tools with today's and asked many questions. This visit showed them that daily life changes across generations."
+      "fr": "Une étudiante écoute parfois de la musique douce lorsqu'elle révise. Pour les tâches difficiles, elle préfère le silence. Avec le temps, elle a découvert que le choix du son dépend de ce qu'elle doit faire et de son état d'esprit.",
+      "en": "A student sometimes listens to soft music while reviewing. For difficult tasks, she prefers silence. Over time, she discovered that the best sound depends on what she needs to do and how she feels."
     },
     {
-      "fr": "L'histoire ne se résume pas aux dates importantes. Elle concerne aussi la manière dont les gens travaillaient, mangeaient et se déplaçaient. Les témoignages, les cartes et les bâtiments nous aident à comprendre ces transformations.",
-      "en": "History is not limited to important dates. It also concerns how people worked, ate and traveled. Testimonies, maps and buildings help us understand these changes."
+      "fr": "Apprendre à jouer d'un instrument peut demander beaucoup de patience. Les progrès sont rarement immédiats, mais la pratique développe l'attention et la persévérance. Même une mélodie très simple peut procurer une grande satisfaction.",
+      "en": "Learning an instrument can require a great deal of patience. Progress is rarely immediate, but practice develops attention and perseverance. Even a very simple melody can bring great satisfaction."
     },
     {
-      "fr": "Il faut cependant examiner les sources avec attention. Un souvenir personnel peut être précieux sans raconter toute la réalité. Comparer plusieurs documents permet de construire une image plus nuancée du passé.",
-      "en": "However, we must examine sources carefully. A personal memory can be valuable without telling the whole story. Comparing several documents helps us build a more nuanced picture of the past."
+      "fr": "La musique est aussi une manière de découvrir d'autres cultures. Les instruments, les rythmes et les voix racontent des traditions variées. Écouter quelque chose de nouveau peut nous rendre plus curieux et ouverts aux différences.",
+      "en": "Music is also a way to discover other cultures. Instruments, rhythms and voices tell of varied traditions. Listening to something new can make us more curious and open to differences."
     },
     {
-      "fr": "La prochaine fois que je visiterai une ville, je prendrai le temps de découvrir aussi ses petites histoires.",
-      "en": "Next time I visit a city, I will take time to discover its smaller stories too."
+      "fr": "Une chanson ne résout pas tous les problèmes, mais elle peut parfois changer l'ambiance d'une journée.",
+      "en": "A song does not solve every problem, but it can sometimes change the mood of a day."
     }
   ],
-  "word_count": 207,
+  "word_count": 205,
   "unique_hours_before_repeat": 216
 }
