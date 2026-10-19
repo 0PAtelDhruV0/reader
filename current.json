@@ -1,35 +1,35 @@
 {
-  "id": "497878",
-  "hour_utc": "2026-10-18T22:00:00Z",
-  "title": "Changer ses habitudes de transport",
-  "title_en": "Changing transport habits",
+  "id": "497881",
+  "hour_utc": "2026-10-19T01:00:00Z",
+  "title": "Apprendre une nouvelle langue",
+  "title_en": "Learning a new language",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Se déplacer fait partie de notre routine, mais nous choisissons souvent notre moyen de transport sans vraiment y réfléchir. Selon la distance, la météo et nos obligations, marcher, prendre le bus ou utiliser un vélo peut parfois être plus pratique qu'une voiture.",
-      "en": "Travel is part of our routine, but we often choose how to get around without thinking about it. Depending on distance, weather and our obligations, walking, taking the bus or riding a bicycle can sometimes be more practical than a car."
+      "fr": "Apprendre une langue étrangère demande du temps, de la patience et beaucoup de curiosité. Au début, on comprend seulement quelques mots. Plus tard, de petites phrases deviennent de vraies conversations. Ce progrès est parfois lent, mais il peut transformer notre façon de voir les autres.",
+      "en": "Learning a foreign language takes time, patience and a great deal of curiosity. At first, we understand only a few words. Later, small phrases turn into real conversations. This progress can be slow, but it can change the way we see other people."
     },
     {
-      "fr": "Un employé prenait toujours sa voiture pour faire un trajet très court. Un matin, il a décidé de marcher. Il a découvert une boulangerie, croisé plusieurs voisins et constaté que la différence de temps était moins grande qu'il ne l'imaginait.",
-      "en": "An employee always drove for a very short trip. One morning, he decided to walk. He discovered a bakery, crossed paths with several neighbors and realized the difference in time was smaller than he imagined."
+      "fr": "Chaque matin, Nadia écoute cinq minutes de français avant de partir au travail. Elle répète certaines phrases à voix haute et note deux mots nouveaux. Après plusieurs semaines, elle reconnaît des expressions dans les annonces et commence à répondre avec plus de confiance.",
+      "en": "Every morning, Nadia listens to five minutes of French before going to work. She repeats some phrases aloud and writes down two new words. After several weeks, she recognizes expressions in announcements and begins answering more confidently."
     },
     {
-      "fr": "Pendant un mois, Julie a essayé de se rendre au travail à vélo deux jours par semaine. Les premières sorties étaient fatigantes, puis elle a trouvé un itinéraire plus calme. Elle appréciait désormais ce moment d'activité avant de commencer sa journée.",
-      "en": "For one month, Julie tried cycling to work two days a week. The first rides were tiring, then she found a quieter route. She came to enjoy this period of activity before starting her day."
+      "fr": "Lors d'un voyage, Marc voulait acheter un billet de train, mais il ne trouvait pas les mots. Il a posé une question simple et demandé à l'employée de parler lentement. Grâce à cet échange, il a compris qu'il n'était pas nécessaire de parler parfaitement pour communiquer.",
+      "en": "During a trip, Marc wanted to buy a train ticket but could not find the words. He asked a simple question and requested that the employee speak slowly. Thanks to this exchange, he understood that perfect speech was not necessary to communicate."
     },
     {
-      "fr": "Une approche flexible est souvent la meilleure. On peut utiliser la voiture quand elle est nécessaire et choisir une autre solution pour certains déplacements. Il s'agit de prendre des décisions pratiques plutôt que de suivre une règle absolue.",
-      "en": "A flexible approach is often best. We can use a car when necessary and choose another option for some trips. The aim is to make practical decisions rather than follow an absolute rule."
+      "fr": "La régularité est souvent plus importante que la durée d'une séance. Dix minutes chaque jour peuvent être plus efficaces qu'une longue leçon de temps en temps. Il est également utile de revoir les mots appris et de les utiliser dans des phrases personnelles.",
+      "en": "Consistency is often more important than the length of a session. Ten minutes every day can be more effective than a long lesson occasionally. It also helps to review learned words and use them in personal sentences."
     },
     {
-      "fr": "Changer de transport ne dépend pas uniquement de la volonté personnelle. La sécurité des routes, la qualité des transports publics et la distance comptent beaucoup. Les villes ont donc un rôle important à jouer pour offrir des possibilités réelles.",
-      "en": "Changing how we travel does not depend only on personal will. Road safety, the quality of public transport and distance matter a great deal. Cities therefore have an important role in offering real options."
+      "fr": "Pour progresser, il faut accepter de faire des erreurs. Une conversation imparfaite reste une conversation réussie si les deux personnes se comprennent. Avec le temps, la prononciation, le vocabulaire et la grammaire deviennent plus naturels.",
+      "en": "To improve, we must accept making mistakes. An imperfect conversation is still successful if both people understand each other. With time, pronunciation, vocabulary and grammar become more natural."
     },
     {
-      "fr": "Il suffit parfois d'essayer un autre itinéraire pour découvrir une nouvelle manière de vivre sa ville.",
-      "en": "Sometimes all it takes is trying another route to discover a new way to experience your city."
+      "fr": "Le meilleur conseil est donc simple : pratiquer un peu, mais souvent, et garder le plaisir d'apprendre.",
+      "en": "The best advice is simple: practice a little but often, and keep enjoying learning."
     }
   ],
-  "word_count": 216,
+  "word_count": 229,
   "unique_hours_before_repeat": 216
 }
