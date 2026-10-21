@@ -1,35 +1,35 @@
 {
-  "id": "497929",
-  "hour_utc": "2026-10-21T01:00:00Z",
-  "title": "Apprendre une nouvelle langue",
-  "title_en": "Learning a new language",
+  "id": "497935",
+  "hour_utc": "2026-10-21T07:00:00Z",
+  "title": "Découvrir l’histoire d’une ville",
+  "title_en": "Discovering a city’s history",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Apprendre une langue étrangère demande du temps, de la patience et beaucoup de curiosité. Au début, on comprend seulement quelques mots. Plus tard, de petites phrases deviennent de vraies conversations. Ce progrès est parfois lent, mais il peut transformer notre façon de voir les autres.",
-      "en": "Learning a foreign language takes time, patience and a great deal of curiosity. At first, we understand only a few words. Later, small phrases turn into real conversations. This progress can be slow, but it can change the way we see other people."
+      "fr": "Quand on visite une ville, on regarde souvent ses monuments et ses rues les plus connues. Pourtant, son histoire se cache aussi dans les marchés, les anciennes usines et les maisons ordinaires. Comprendre ces détails permet de mieux connaître les personnes qui y ont vécu.",
+      "en": "When we visit a city, we often look at its monuments and best-known streets. Yet its history is also hidden in markets, old factories and ordinary houses. Understanding these details helps us know the people who lived there."
     },
     {
-      "fr": "Lors d'un voyage, Marc voulait acheter un billet de train, mais il ne trouvait pas les mots. Il a posé une question simple et demandé à l'employée de parler lentement. Grâce à cet échange, il a compris qu'il n'était pas nécessaire de parler parfaitement pour communiquer.",
-      "en": "During a trip, Marc wanted to buy a train ticket but could not find the words. He asked a simple question and requested that the employee speak slowly. Thanks to this exchange, he understood that perfect speech was not necessary to communicate."
+      "fr": "Une étudiante s'intéressait à l'histoire de sa rue. Elle a consulté des journaux anciens à la bibliothèque et rencontré un habitant qui y vivait depuis longtemps. Elle a découvert des souvenirs que les grands livres d'histoire ne mentionnaient pas.",
+      "en": "A student was interested in the history of her street. She consulted old newspapers at the library and met a resident who had lived there for a long time. She discovered memories that major history books did not mention."
     },
     {
-      "fr": "Dans une bibliothèque, un groupe de voisins organise des conversations gratuites. Les participants viennent de plusieurs pays et parlent de cuisine, de voyages ou de leurs projets. Les erreurs provoquent parfois des rires, mais personne ne se moque des autres.",
-      "en": "At a library, a group of neighbors organizes free conversations. Participants come from several countries and talk about food, travel or their plans. Mistakes sometimes cause laughter, but nobody makes fun of anyone else."
+      "fr": "Dans un musée local, des enfants ont observé les objets utilisés par leurs arrière-grands-parents. Ils ont comparé les anciens outils avec ceux d'aujourd'hui et posé de nombreuses questions. Cette visite leur a montré que le quotidien change avec les générations.",
+      "en": "At a local museum, children observed objects used by their great-grandparents. They compared old tools with today's and asked many questions. This visit showed them that daily life changes across generations."
     },
     {
-      "fr": "Pour progresser, il faut accepter de faire des erreurs. Une conversation imparfaite reste une conversation réussie si les deux personnes se comprennent. Avec le temps, la prononciation, le vocabulaire et la grammaire deviennent plus naturels.",
-      "en": "To improve, we must accept making mistakes. An imperfect conversation is still successful if both people understand each other. With time, pronunciation, vocabulary and grammar become more natural."
+      "fr": "Il faut cependant examiner les sources avec attention. Un souvenir personnel peut être précieux sans raconter toute la réalité. Comparer plusieurs documents permet de construire une image plus nuancée du passé.",
+      "en": "However, we must examine sources carefully. A personal memory can be valuable without telling the whole story. Comparing several documents helps us build a more nuanced picture of the past."
     },
     {
-      "fr": "La régularité est souvent plus importante que la durée d'une séance. Dix minutes chaque jour peuvent être plus efficaces qu'une longue leçon de temps en temps. Il est également utile de revoir les mots appris et de les utiliser dans des phrases personnelles.",
-      "en": "Consistency is often more important than the length of a session. Ten minutes every day can be more effective than a long lesson occasionally. It also helps to review learned words and use them in personal sentences."
+      "fr": "L'histoire ne se résume pas aux dates importantes. Elle concerne aussi la manière dont les gens travaillaient, mangeaient et se déplaçaient. Les témoignages, les cartes et les bâtiments nous aident à comprendre ces transformations.",
+      "en": "History is not limited to important dates. It also concerns how people worked, ate and traveled. Testimonies, maps and buildings help us understand these changes."
     },
     {
-      "fr": "Le meilleur conseil est donc simple : pratiquer un peu, mais souvent, et garder le plaisir d'apprendre.",
-      "en": "The best advice is simple: practice a little but often, and keep enjoying learning."
+      "fr": "La prochaine fois que je visiterai une ville, je prendrai le temps de découvrir aussi ses petites histoires.",
+      "en": "Next time I visit a city, I will take time to discover its smaller stories too."
     }
   ],
-  "word_count": 226,
+  "word_count": 207,
   "unique_hours_before_repeat": 216
 }
