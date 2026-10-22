@@ -1,35 +1,35 @@
 {
-  "id": "497970",
-  "hour_utc": "2026-10-22T18:00:00Z",
-  "title": "Les petits gestes pour la planète",
-  "title_en": "Small actions for the planet",
+  "id": "497974",
+  "hour_utc": "2026-10-22T22:00:00Z",
+  "title": "Changer ses habitudes de transport",
+  "title_en": "Changing transport habits",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
-      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
+      "fr": "Se déplacer fait partie de notre routine, mais nous choisissons souvent notre moyen de transport sans vraiment y réfléchir. Selon la distance, la météo et nos obligations, marcher, prendre le bus ou utiliser un vélo peut parfois être plus pratique qu'une voiture.",
+      "en": "Travel is part of our routine, but we often choose how to get around without thinking about it. Depending on distance, weather and our obligations, walking, taking the bus or riding a bicycle can sometimes be more practical than a car."
     },
     {
-      "fr": "Une école a installé des fontaines d'eau et invité les élèves à apporter une gourde. Au début, plusieurs enfants oubliaient leur bouteille. Après quelques semaines, ils avaient pris l'habitude de la remplir et utilisaient moins de contenants jetables.",
-      "en": "A school installed water fountains and invited students to bring reusable bottles. At first, several children forgot their bottles. After a few weeks, they had developed the habit of refilling them and used fewer disposable containers."
+      "fr": "Une famille devait visiter un musée en centre-ville. Au lieu de chercher une place pour se garer, elle a pris le métro. Les enfants ont appris à lire le plan du réseau et les parents ont évité le stress de la circulation.",
+      "en": "A family wanted to visit a downtown museum. Instead of searching for a parking spot, they took the subway. The children learned to read the network map and the parents avoided the stress of traffic."
     },
     {
-      "fr": "Dans un immeuble, les habitants échangeaient rarement leurs objets. Ils ont créé une petite étagère où chacun pouvait déposer des livres, des outils ou des jeux en bon état. Beaucoup d'objets ont trouvé une seconde vie au lieu d'être jetés.",
-      "en": "In an apartment building, residents rarely exchanged objects. They created a small shelf where everyone could leave books, tools or games in good condition. Many objects found a second life instead of being thrown away."
+      "fr": "Un employé prenait toujours sa voiture pour faire un trajet très court. Un matin, il a décidé de marcher. Il a découvert une boulangerie, croisé plusieurs voisins et constaté que la différence de temps était moins grande qu'il ne l'imaginait.",
+      "en": "An employee always drove for a very short trip. One morning, he decided to walk. He discovered a bakery, crossed paths with several neighbors and realized the difference in time was smaller than he imagined."
     },
     {
-      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
-      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
+      "fr": "Changer de transport ne dépend pas uniquement de la volonté personnelle. La sécurité des routes, la qualité des transports publics et la distance comptent beaucoup. Les villes ont donc un rôle important à jouer pour offrir des possibilités réelles.",
+      "en": "Changing how we travel does not depend only on personal will. Road safety, the quality of public transport and distance matter a great deal. Cities therefore have an important role in offering real options."
     },
     {
-      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
-      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
+      "fr": "Une approche flexible est souvent la meilleure. On peut utiliser la voiture quand elle est nécessaire et choisir une autre solution pour certains déplacements. Il s'agit de prendre des décisions pratiques plutôt que de suivre une règle absolue.",
+      "en": "A flexible approach is often best. We can use a car when necessary and choose another option for some trips. The aim is to make practical decisions rather than follow an absolute rule."
     },
     {
-      "fr": "Le progrès commence souvent par une question simple : que puis-je faire autrement aujourd'hui ?",
-      "en": "Progress often begins with a simple question: what can I do differently today?"
+      "fr": "Des choix mieux adaptés peuvent rendre la journée plus agréable tout en réduisant certains coûts.",
+      "en": "Better-suited choices can make the day more pleasant while reducing some costs."
     }
   ],
-  "word_count": 208,
+  "word_count": 216,
   "unique_hours_before_repeat": 216
 }
