@@ -1,35 +1,35 @@
 {
-  "id": "498005",
-  "hour_utc": "2026-10-24T05:00:00Z",
-  "title": "Le travail à distance",
-  "title_en": "Remote work",
+  "id": "498010",
+  "hour_utc": "2026-10-24T10:00:00Z",
+  "title": "Changer ses habitudes de transport",
+  "title_en": "Changing transport habits",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Depuis quelques années, de nombreuses personnes travaillent parfois depuis leur domicile. Cette organisation peut éviter de longs déplacements et offrir plus de souplesse. Cependant, elle demande aussi de bonnes habitudes pour séparer la vie professionnelle de la vie personnelle.",
-      "en": "In recent years, many people have sometimes worked from home. This arrangement can avoid long commutes and offer more flexibility. However, it also requires good habits to separate work life from personal life."
+      "fr": "Se déplacer fait partie de notre routine, mais nous choisissons souvent notre moyen de transport sans vraiment y réfléchir. Selon la distance, la météo et nos obligations, marcher, prendre le bus ou utiliser un vélo peut parfois être plus pratique qu'une voiture.",
+      "en": "Travel is part of our routine, but we often choose how to get around without thinking about it. Depending on distance, weather and our obligations, walking, taking the bus or riding a bicycle can sometimes be more practical than a car."
     },
     {
-      "fr": "Une équipe qui habitait dans plusieurs villes devait préparer un projet commun. Ses membres ont organisé une courte réunion chaque matin et partagé un document de suivi. Ces habitudes simples ont permis à chacun de comprendre les priorités et d'éviter les malentendus.",
-      "en": "A team living in several cities had to prepare a shared project. Its members organized a short meeting each morning and shared a tracking document. These simple habits allowed everyone to understand priorities and avoid misunderstandings."
+      "fr": "Une famille devait visiter un musée en centre-ville. Au lieu de chercher une place pour se garer, elle a pris le métro. Les enfants ont appris à lire le plan du réseau et les parents ont évité le stress de la circulation.",
+      "en": "A family wanted to visit a downtown museum. Instead of searching for a parking spot, they took the subway. The children learned to read the network map and the parents avoided the stress of traffic."
     },
     {
-      "fr": "Après plusieurs semaines seule chez elle, une employée regrettait les conversations spontanées avec ses collègues. Elle a commencé à travailler un jour par semaine dans un espace partagé. Elle a retrouvé une vie sociale plus riche sans perdre toute sa flexibilité.",
-      "en": "After several weeks alone at home, an employee missed spontaneous conversations with coworkers. She began working one day a week in a shared space. She found a richer social life without losing all her flexibility."
+      "fr": "Un employé prenait toujours sa voiture pour faire un trajet très court. Un matin, il a décidé de marcher. Il a découvert une boulangerie, croisé plusieurs voisins et constaté que la différence de temps était moins grande qu'il ne l'imaginait.",
+      "en": "An employee always drove for a very short trip. One morning, he decided to walk. He discovered a bakery, crossed paths with several neighbors and realized the difference in time was smaller than he imagined."
     },
     {
-      "fr": "Pour rester productif, il peut être utile de définir trois objectifs par jour, de faire des pauses et de sortir marcher. La qualité du travail dépend souvent moins du lieu que de la clarté des attentes et de la communication.",
-      "en": "To remain productive, it can help to set three daily goals, take breaks and go for walks. Work quality often depends less on location than on clear expectations and communication."
+      "fr": "Une approche flexible est souvent la meilleure. On peut utiliser la voiture quand elle est nécessaire et choisir une autre solution pour certains déplacements. Il s'agit de prendre des décisions pratiques plutôt que de suivre une règle absolue.",
+      "en": "A flexible approach is often best. We can use a car when necessary and choose another option for some trips. The aim is to make practical decisions rather than follow an absolute rule."
     },
     {
-      "fr": "Le travail à distance ne convient pas de la même manière à tout le monde. Certaines personnes apprécient le silence, tandis que d'autres ont besoin de contacts réguliers. Une organisation efficace doit donc tenir compte des tâches et des préférences individuelles.",
-      "en": "Remote work does not suit everyone in the same way. Some people appreciate quiet, while others need regular contact. An effective arrangement must therefore consider tasks and individual preferences."
+      "fr": "Changer de transport ne dépend pas uniquement de la volonté personnelle. La sécurité des routes, la qualité des transports publics et la distance comptent beaucoup. Les villes ont donc un rôle important à jouer pour offrir des possibilités réelles.",
+      "en": "Changing how we travel does not depend only on personal will. Road safety, the quality of public transport and distance matter a great deal. Cities therefore have an important role in offering real options."
     },
     {
-      "fr": "Avec des règles simples, travailler chez soi peut devenir une solution pratique et agréable.",
-      "en": "With simple rules, working from home can become a practical and pleasant option."
+      "fr": "Des choix mieux adaptés peuvent rendre la journée plus agréable tout en réduisant certains coûts.",
+      "en": "Better-suited choices can make the day more pleasant while reducing some costs."
     }
   ],
-  "word_count": 217,
+  "word_count": 216,
   "unique_hours_before_repeat": 216
 }
