@@ -1,35 +1,35 @@
 {
-  "id": "498018",
-  "hour_utc": "2026-10-24T18:00:00Z",
-  "title": "Les petits gestes pour la planète",
-  "title_en": "Small actions for the planet",
+  "id": "498020",
+  "hour_utc": "2026-10-24T20:00:00Z",
+  "title": "Cuisiner ensemble",
+  "title_en": "Cooking together",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
-      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
+      "fr": "La cuisine occupe une place importante dans la vie quotidienne. Elle répond à un besoin essentiel, mais elle permet aussi de partager des traditions et des souvenirs. Préparer un repas avec d'autres personnes peut être une manière simple de créer des liens.",
+      "en": "Cooking has an important place in daily life. It meets an essential need, but it also allows us to share traditions and memories. Preparing a meal with other people can be a simple way to build connections."
     },
     {
-      "fr": "Dans un immeuble, les habitants échangeaient rarement leurs objets. Ils ont créé une petite étagère où chacun pouvait déposer des livres, des outils ou des jeux en bon état. Beaucoup d'objets ont trouvé une seconde vie au lieu d'être jetés.",
-      "en": "In an apartment building, residents rarely exchanged objects. They created a small shelf where everyone could leave books, tools or games in good condition. Many objects found a second life instead of being thrown away."
+      "fr": "Dans une résidence étudiante, des voisins ont organisé un repas où chacun apportait un plat de son pays. Ils ont parlé des ingrédients et des fêtes associés à ces recettes. La soirée a permis de découvrir des cultures différentes autour d'une même table.",
+      "en": "In student housing, neighbors organized a meal where everyone brought a dish from their country. They talked about the ingredients and celebrations associated with those recipes. The evening helped them discover different cultures around one table."
     },
     {
-      "fr": "Dans une famille, les restes de légumes finissaient souvent à la poubelle. Un dimanche, les parents et les enfants ont commencé à préparer une soupe avec les produits disponibles. Cette recette improvisée est devenue une tradition qui réduit les déchets alimentaires.",
-      "en": "In one family, leftover vegetables often ended up in the trash. One Sunday, the parents and children began making soup with available ingredients. This improvised recipe became a tradition that reduces food waste."
+      "fr": "Pour son anniversaire, Amélie a invité ses amis à préparer un dîner plutôt qu'à venir simplement le manger. Chacun a apporté un ingrédient et proposé une idée. Même les petits accidents en cuisine sont devenus des souvenirs amusants.",
+      "en": "For her birthday, Amélie invited her friends to prepare dinner instead of simply coming to eat it. Everyone brought an ingredient and suggested an idea. Even small kitchen accidents became funny memories."
     },
     {
-      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
-      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
+      "fr": "Cuisiner avec les autres demande de l'écoute et de l'organisation. Il faut partager les tâches, respecter les préférences alimentaires et accepter que chacun possède ses propres méthodes. Ces qualités sont utiles bien au-delà de la cuisine.",
+      "en": "Cooking with others requires listening and organization. We must share tasks, respect dietary preferences and accept that everyone has their own methods. These skills are useful far beyond the kitchen."
     },
     {
-      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
-      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
+      "fr": "Il n'est pas nécessaire de préparer des plats compliqués pour bien recevoir. Un repas simple, fait avec attention, peut avoir beaucoup de valeur. Le plus important est souvent le temps que nous passons ensemble plutôt que le prix des ingrédients.",
+      "en": "We do not need to prepare complicated dishes to be good hosts. A simple meal, made with care, can have great value. What matters most is often the time we spend together rather than the price of the ingredients."
     },
     {
-      "fr": "Le progrès commence souvent par une question simple : que puis-je faire autrement aujourd'hui ?",
-      "en": "Progress often begins with a simple question: what can I do differently today?"
+      "fr": "La prochaine fois, je proposerai un dîner où tout le monde participera à la préparation.",
+      "en": "Next time, I will suggest a dinner where everyone helps with the preparation."
     }
   ],
-  "word_count": 211,
+  "word_count": 214,
   "unique_hours_before_repeat": 216
 }
