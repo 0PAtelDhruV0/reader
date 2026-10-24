@@ -1,33 +1,33 @@
 {
-  "id": "498014",
-  "hour_utc": "2026-10-24T14:00:00Z",
-  "title": "Le jardin partagé",
-  "title_en": "The community garden",
+  "id": "498018",
+  "hour_utc": "2026-10-24T18:00:00Z",
+  "title": "Les petits gestes pour la planète",
+  "title_en": "Small actions for the planet",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Dans de nombreuses villes, les habitants vivent près les uns des autres sans vraiment se connaître. Un jardin partagé peut changer cette situation. Il donne aux voisins un espace pour planter des légumes, discuter et apprendre ensemble, même s'ils ont des âges très différents.",
-      "en": "In many cities, residents live close to one another without truly knowing each other. A community garden can change this situation. It gives neighbors a space to plant vegetables, talk and learn together, even if they are very different ages."
+      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
+      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
     },
     {
-      "fr": "Après une semaine très chaude, les jardiniers ont découvert que plusieurs plantes manquaient d'eau. Ils ont installé un grand réservoir pour recueillir la pluie et organisé un calendrier d'arrosage. Cette difficulté a renforcé leur sens des responsabilités.",
-      "en": "After a very hot week, the gardeners discovered that several plants lacked water. They installed a large tank to collect rain and organized a watering schedule. This difficulty strengthened their sense of responsibility."
+      "fr": "Dans un immeuble, les habitants échangeaient rarement leurs objets. Ils ont créé une petite étagère où chacun pouvait déposer des livres, des outils ou des jeux en bon état. Beaucoup d'objets ont trouvé une seconde vie au lieu d'être jetés.",
+      "en": "In an apartment building, residents rarely exchanged objects. They created a small shelf where everyone could leave books, tools or games in good condition. Many objects found a second life instead of being thrown away."
     },
     {
-      "fr": "Au printemps, des habitants ont transformé un terrain abandonné en petit jardin. Les enfants ont planté des tomates, tandis que des personnes âgées expliquaient comment préparer la terre. Quelques mois plus tard, tout le quartier s'est retrouvé pour partager la première récolte.",
-      "en": "In spring, residents transformed an abandoned lot into a small garden. Children planted tomatoes while older people explained how to prepare the soil. A few months later, the whole neighborhood met to share the first harvest."
+      "fr": "Dans une famille, les restes de légumes finissaient souvent à la poubelle. Un dimanche, les parents et les enfants ont commencé à préparer une soupe avec les produits disponibles. Cette recette improvisée est devenue une tradition qui réduit les déchets alimentaires.",
+      "en": "In one family, leftover vegetables often ended up in the trash. One Sunday, the parents and children began making soup with available ingredients. This improvised recipe became a tradition that reduces food waste."
     },
     {
-      "fr": "Un jardin collectif peut aussi nous apprendre à consommer différemment. En voyant le travail nécessaire pour produire une tomate, on respecte davantage les aliments et on évite plus facilement le gaspillage.",
-      "en": "A community garden can also teach us to consume differently. When we see the work needed to grow a tomato, we respect food more and find it easier to avoid waste."
+      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
+      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
     },
     {
-      "fr": "Cultiver un jardin demande de la patience. On ne peut pas faire pousser une plante en tirant sur ses feuilles. De la même manière, les relations entre voisins grandissent peu à peu grâce à des échanges simples et réguliers.",
-      "en": "Growing a garden requires patience. You cannot make a plant grow by pulling its leaves. In the same way, relationships between neighbors grow little by little through simple and regular interactions."
+      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
+      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
     },
     {
-      "fr": "Même un petit espace vert peut devenir un lieu important lorsque chacun apporte un peu de son temps.",
-      "en": "Even a small green space can become an important place when everyone gives a little of their time."
+      "fr": "Le progrès commence souvent par une question simple : que puis-je faire autrement aujourd'hui ?",
+      "en": "Progress often begins with a simple question: what can I do differently today?"
     }
   ],
   "word_count": 211,
