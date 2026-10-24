@@ -1,35 +1,35 @@
 {
-  "id": "498010",
-  "hour_utc": "2026-10-24T10:00:00Z",
-  "title": "Changer ses habitudes de transport",
-  "title_en": "Changing transport habits",
+  "id": "498014",
+  "hour_utc": "2026-10-24T14:00:00Z",
+  "title": "Le jardin partagé",
+  "title_en": "The community garden",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Se déplacer fait partie de notre routine, mais nous choisissons souvent notre moyen de transport sans vraiment y réfléchir. Selon la distance, la météo et nos obligations, marcher, prendre le bus ou utiliser un vélo peut parfois être plus pratique qu'une voiture.",
-      "en": "Travel is part of our routine, but we often choose how to get around without thinking about it. Depending on distance, weather and our obligations, walking, taking the bus or riding a bicycle can sometimes be more practical than a car."
+      "fr": "Dans de nombreuses villes, les habitants vivent près les uns des autres sans vraiment se connaître. Un jardin partagé peut changer cette situation. Il donne aux voisins un espace pour planter des légumes, discuter et apprendre ensemble, même s'ils ont des âges très différents.",
+      "en": "In many cities, residents live close to one another without truly knowing each other. A community garden can change this situation. It gives neighbors a space to plant vegetables, talk and learn together, even if they are very different ages."
     },
     {
-      "fr": "Une famille devait visiter un musée en centre-ville. Au lieu de chercher une place pour se garer, elle a pris le métro. Les enfants ont appris à lire le plan du réseau et les parents ont évité le stress de la circulation.",
-      "en": "A family wanted to visit a downtown museum. Instead of searching for a parking spot, they took the subway. The children learned to read the network map and the parents avoided the stress of traffic."
+      "fr": "Après une semaine très chaude, les jardiniers ont découvert que plusieurs plantes manquaient d'eau. Ils ont installé un grand réservoir pour recueillir la pluie et organisé un calendrier d'arrosage. Cette difficulté a renforcé leur sens des responsabilités.",
+      "en": "After a very hot week, the gardeners discovered that several plants lacked water. They installed a large tank to collect rain and organized a watering schedule. This difficulty strengthened their sense of responsibility."
     },
     {
-      "fr": "Un employé prenait toujours sa voiture pour faire un trajet très court. Un matin, il a décidé de marcher. Il a découvert une boulangerie, croisé plusieurs voisins et constaté que la différence de temps était moins grande qu'il ne l'imaginait.",
-      "en": "An employee always drove for a very short trip. One morning, he decided to walk. He discovered a bakery, crossed paths with several neighbors and realized the difference in time was smaller than he imagined."
+      "fr": "Au printemps, des habitants ont transformé un terrain abandonné en petit jardin. Les enfants ont planté des tomates, tandis que des personnes âgées expliquaient comment préparer la terre. Quelques mois plus tard, tout le quartier s'est retrouvé pour partager la première récolte.",
+      "en": "In spring, residents transformed an abandoned lot into a small garden. Children planted tomatoes while older people explained how to prepare the soil. A few months later, the whole neighborhood met to share the first harvest."
     },
     {
-      "fr": "Une approche flexible est souvent la meilleure. On peut utiliser la voiture quand elle est nécessaire et choisir une autre solution pour certains déplacements. Il s'agit de prendre des décisions pratiques plutôt que de suivre une règle absolue.",
-      "en": "A flexible approach is often best. We can use a car when necessary and choose another option for some trips. The aim is to make practical decisions rather than follow an absolute rule."
+      "fr": "Un jardin collectif peut aussi nous apprendre à consommer différemment. En voyant le travail nécessaire pour produire une tomate, on respecte davantage les aliments et on évite plus facilement le gaspillage.",
+      "en": "A community garden can also teach us to consume differently. When we see the work needed to grow a tomato, we respect food more and find it easier to avoid waste."
     },
     {
-      "fr": "Changer de transport ne dépend pas uniquement de la volonté personnelle. La sécurité des routes, la qualité des transports publics et la distance comptent beaucoup. Les villes ont donc un rôle important à jouer pour offrir des possibilités réelles.",
-      "en": "Changing how we travel does not depend only on personal will. Road safety, the quality of public transport and distance matter a great deal. Cities therefore have an important role in offering real options."
+      "fr": "Cultiver un jardin demande de la patience. On ne peut pas faire pousser une plante en tirant sur ses feuilles. De la même manière, les relations entre voisins grandissent peu à peu grâce à des échanges simples et réguliers.",
+      "en": "Growing a garden requires patience. You cannot make a plant grow by pulling its leaves. In the same way, relationships between neighbors grow little by little through simple and regular interactions."
     },
     {
-      "fr": "Des choix mieux adaptés peuvent rendre la journée plus agréable tout en réduisant certains coûts.",
-      "en": "Better-suited choices can make the day more pleasant while reducing some costs."
+      "fr": "Même un petit espace vert peut devenir un lieu important lorsque chacun apporte un peu de son temps.",
+      "en": "Even a small green space can become an important place when everyone gives a little of their time."
     }
   ],
-  "word_count": 216,
+  "word_count": 211,
   "unique_hours_before_repeat": 216
 }
