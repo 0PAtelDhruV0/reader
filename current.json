@@ -1,35 +1,35 @@
 {
-  "id": "498042",
-  "hour_utc": "2026-10-25T18:00:00Z",
-  "title": "Les petits gestes pour la planète",
-  "title_en": "Small actions for the planet",
+  "id": "498045",
+  "hour_utc": "2026-10-25T21:00:00Z",
+  "title": "Faire du bénévolat",
+  "title_en": "Volunteering",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
-      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
+      "fr": "Le bénévolat consiste à donner une partie de son temps pour aider une personne, une association ou un projet collectif. Il peut prendre des formes très diverses. Certains organisent des événements, d'autres distribuent des repas ou accompagnent des personnes qui se sentent seules.",
+      "en": "Volunteering means giving some of your time to help a person, an association or a collective project. It can take many forms. Some people organize events, others distribute meals or spend time with people who feel lonely."
     },
     {
-      "fr": "Une école a installé des fontaines d'eau et invité les élèves à apporter une gourde. Au début, plusieurs enfants oubliaient leur bouteille. Après quelques semaines, ils avaient pris l'habitude de la remplir et utilisaient moins de contenants jetables.",
-      "en": "A school installed water fountains and invited students to bring reusable bottles. At first, several children forgot their bottles. After a few weeks, they had developed the habit of refilling them and used fewer disposable containers."
+      "fr": "Chaque mois, des bénévoles nettoient un parc près de la rivière. Ils ramassent les déchets, discutent avec les promeneurs et signalent les endroits qui nécessitent des réparations. Leur travail rend cet espace plus accueillant pour tous.",
+      "en": "Every month, volunteers clean a park near the river. They collect litter, talk with walkers and report places needing repairs. Their work makes the space more welcoming for everyone."
     },
     {
-      "fr": "Dans un immeuble, les habitants échangeaient rarement leurs objets. Ils ont créé une petite étagère où chacun pouvait déposer des livres, des outils ou des jeux en bon état. Beaucoup d'objets ont trouvé une seconde vie au lieu d'être jetés.",
-      "en": "In an apartment building, residents rarely exchanged objects. They created a small shelf where everyone could leave books, tools or games in good condition. Many objects found a second life instead of being thrown away."
+      "fr": "Une retraitée a proposé de lire des histoires à des personnes âgées dans une résidence. Les premières rencontres étaient timides, puis chacun a commencé à raconter ses souvenirs. Peu à peu, ces visites sont devenues un moment attendu de la semaine.",
+      "en": "A retired woman offered to read stories to older people in a residence. The first meetings were shy, then everyone began sharing memories. Little by little, these visits became a much-anticipated part of the week."
     },
     {
-      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
-      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
+      "fr": "Le bénévolat peut développer des compétences utiles, comme la communication, le travail en équipe et la capacité à résoudre des problèmes. Mais son intérêt principal reste l'aide concrète apportée à la communauté.",
+      "en": "Volunteering can develop useful skills such as communication, teamwork and problem-solving. But its main value remains the practical help given to the community."
     },
     {
-      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
-      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
+      "fr": "Il vaut mieux choisir une activité adaptée à ses disponibilités plutôt que de promettre trop de choses. Une participation modeste mais régulière est souvent plus utile qu'un grand effort impossible à maintenir.",
+      "en": "It is better to choose an activity that fits your availability rather than promise too much. Modest but regular participation is often more useful than a huge effort that cannot be maintained."
     },
     {
-      "fr": "Agir de façon durable demande surtout de la constance, de la coopération et du bon sens.",
-      "en": "Acting sustainably mainly requires consistency, cooperation and common sense."
+      "fr": "Le bénévolat montre qu'une communauté devient plus forte lorsque ses membres agissent ensemble.",
+      "en": "Volunteering shows that a community becomes stronger when its members act together."
     }
   ],
-  "word_count": 209,
+  "word_count": 197,
   "unique_hours_before_repeat": 216
 }
