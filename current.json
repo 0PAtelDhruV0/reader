@@ -1,35 +1,35 @@
 {
-  "id": "498035",
-  "hour_utc": "2026-10-25T11:00:00Z",
-  "title": "Le pouvoir de la musique",
-  "title_en": "The power of music",
+  "id": "498038",
+  "hour_utc": "2026-10-25T14:00:00Z",
+  "title": "Le jardin partagé",
+  "title_en": "The community garden",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "La musique accompagne de nombreux moments de notre existence. Elle peut nous donner de l'énergie, nous rappeler un souvenir ou rendre une journée difficile un peu plus légère. Chaque personne possède ses goûts, mais les mélodies créent souvent des émotions que les mots seuls expriment mal.",
-      "en": "Music accompanies many moments of our lives. It can give us energy, remind us of a memory or make a difficult day feel a little lighter. Everyone has their own tastes, but melodies often create emotions that words alone express poorly."
+      "fr": "Dans de nombreuses villes, les habitants vivent près les uns des autres sans vraiment se connaître. Un jardin partagé peut changer cette situation. Il donne aux voisins un espace pour planter des légumes, discuter et apprendre ensemble, même s'ils ont des âges très différents.",
+      "en": "In many cities, residents live close to one another without truly knowing each other. A community garden can change this situation. It gives neighbors a space to plant vegetables, talk and learn together, even if they are very different ages."
     },
     {
-      "fr": "Un jeune homme a retrouvé une chanson que sa mère écoutait lorsqu'il était enfant. Dès les premières notes, il s'est souvenu des longs voyages en voiture avec sa famille. Il a compris que la musique peut conserver des moments qui semblent oubliés.",
-      "en": "A young man rediscovered a song his mother listened to when he was a child. From the first notes, he remembered long car journeys with his family. He understood that music can preserve moments that seem forgotten."
+      "fr": "Une nouvelle voisine ne connaissait personne dans son immeuble. Elle a rejoint un groupe qui cultivait des herbes aromatiques derrière la bibliothèque. En arrosant les plantes chaque mercredi, elle a commencé à échanger des conseils et à se faire de nouveaux amis.",
+      "en": "A new neighbor knew nobody in her building. She joined a group growing herbs behind the library. By watering the plants every Wednesday, she started exchanging advice and making new friends."
     },
     {
-      "fr": "Dans un centre communautaire, plusieurs personnes se réunissent pour chanter une fois par semaine. Elles viennent d'horizons différents et ne connaissent pas toutes les mêmes chansons. Pourtant, en répétant ensemble, elles créent une belle harmonie.",
-      "en": "At a community center, several people meet to sing once a week. They come from different backgrounds and do not all know the same songs. Yet, by practicing together, they create a beautiful harmony."
+      "fr": "Après une semaine très chaude, les jardiniers ont découvert que plusieurs plantes manquaient d'eau. Ils ont installé un grand réservoir pour recueillir la pluie et organisé un calendrier d'arrosage. Cette difficulté a renforcé leur sens des responsabilités.",
+      "en": "After a very hot week, the gardeners discovered that several plants lacked water. They installed a large tank to collect rain and organized a watering schedule. This difficulty strengthened their sense of responsibility."
     },
     {
-      "fr": "Apprendre à jouer d'un instrument peut demander beaucoup de patience. Les progrès sont rarement immédiats, mais la pratique développe l'attention et la persévérance. Même une mélodie très simple peut procurer une grande satisfaction.",
-      "en": "Learning an instrument can require a great deal of patience. Progress is rarely immediate, but practice develops attention and perseverance. Even a very simple melody can bring great satisfaction."
+      "fr": "Cultiver un jardin demande de la patience. On ne peut pas faire pousser une plante en tirant sur ses feuilles. De la même manière, les relations entre voisins grandissent peu à peu grâce à des échanges simples et réguliers.",
+      "en": "Growing a garden requires patience. You cannot make a plant grow by pulling its leaves. In the same way, relationships between neighbors grow little by little through simple and regular interactions."
     },
     {
-      "fr": "La musique est aussi une manière de découvrir d'autres cultures. Les instruments, les rythmes et les voix racontent des traditions variées. Écouter quelque chose de nouveau peut nous rendre plus curieux et ouverts aux différences.",
-      "en": "Music is also a way to discover other cultures. Instruments, rhythms and voices tell of varied traditions. Listening to something new can make us more curious and open to differences."
+      "fr": "Un jardin collectif peut aussi nous apprendre à consommer différemment. En voyant le travail nécessaire pour produire une tomate, on respecte davantage les aliments et on évite plus facilement le gaspillage.",
+      "en": "A community garden can also teach us to consume differently. When we see the work needed to grow a tomato, we respect food more and find it easier to avoid waste."
     },
     {
-      "fr": "Il reste toujours une nouvelle mélodie à découvrir, même lorsqu'on pense connaître ses goûts.",
-      "en": "There is always a new melody to discover, even when we think we know our tastes."
+      "fr": "Le jardin nous rappelle qu'une ville agréable se construit aussi avec des gestes simples et collectifs.",
+      "en": "The garden reminds us that a pleasant city is also built through simple, collective actions."
     }
   ],
-  "word_count": 205,
+  "word_count": 209,
   "unique_hours_before_repeat": 216
 }
