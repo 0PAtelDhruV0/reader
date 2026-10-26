@@ -1,35 +1,35 @@
 {
-  "id": "498045",
-  "hour_utc": "2026-10-25T21:00:00Z",
-  "title": "Faire du bénévolat",
-  "title_en": "Volunteering",
+  "id": "498048",
+  "hour_utc": "2026-10-26T00:00:00Z",
+  "title": "Une journée sans téléphone",
+  "title_en": "A day without a phone",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Le bénévolat consiste à donner une partie de son temps pour aider une personne, une association ou un projet collectif. Il peut prendre des formes très diverses. Certains organisent des événements, d'autres distribuent des repas ou accompagnent des personnes qui se sentent seules.",
-      "en": "Volunteering means giving some of your time to help a person, an association or a collective project. It can take many forms. Some people organize events, others distribute meals or spend time with people who feel lonely."
+      "fr": "Aujourd'hui, le téléphone accompagne presque tous les moments de notre vie. On l'utilise pour communiquer, trouver son chemin et regarder les nouvelles. Pourtant, il est parfois utile de passer quelques heures sans écran pour observer ce qui se passe autour de nous.",
+      "en": "Today, the phone accompanies almost every moment of our lives. We use it to communicate, find our way and check the news. Yet sometimes it is useful to spend a few hours without a screen and notice what is happening around us."
     },
     {
-      "fr": "Chaque mois, des bénévoles nettoient un parc près de la rivière. Ils ramassent les déchets, discutent avec les promeneurs et signalent les endroits qui nécessitent des réparations. Leur travail rend cet espace plus accueillant pour tous.",
-      "en": "Every month, volunteers clean a park near the river. They collect litter, talk with walkers and report places needing repairs. Their work makes the space more welcoming for everyone."
+      "fr": "Pendant un trajet en train, une voyageuse a éteint son téléphone et ouvert un petit carnet. Elle a décrit les villages qui défilaient derrière la fenêtre et imaginé des histoires sur les personnes qu'elle voyait. Le voyage lui a paru plus court et plus intéressant.",
+      "en": "During a train journey, a traveler turned off her phone and opened a small notebook. She described the villages passing outside the window and imagined stories about the people she saw. The journey seemed shorter and more interesting to her."
     },
     {
-      "fr": "Une retraitée a proposé de lire des histoires à des personnes âgées dans une résidence. Les premières rencontres étaient timides, puis chacun a commencé à raconter ses souvenirs. Peu à peu, ces visites sont devenues un moment attendu de la semaine.",
-      "en": "A retired woman offered to read stories to older people in a residence. The first meetings were shy, then everyone began sharing memories. Little by little, these visits became a much-anticipated part of the week."
+      "fr": "Samedi dernier, j'ai laissé mon téléphone à la maison avant de partir me promener. Au début, j'avais peur de manquer un message important. Puis j'ai remarqué les couleurs des arbres, les conversations dans la rue et les petits commerces que je ne voyais jamais.",
+      "en": "Last Saturday, I left my phone at home before going for a walk. At first, I was afraid of missing an important message. Then I noticed the colors of the trees, conversations in the street and small shops I had never really seen."
     },
     {
-      "fr": "Le bénévolat peut développer des compétences utiles, comme la communication, le travail en équipe et la capacité à résoudre des problèmes. Mais son intérêt principal reste l'aide concrète apportée à la communauté.",
-      "en": "Volunteering can develop useful skills such as communication, teamwork and problem-solving. But its main value remains the practical help given to the community."
+      "fr": "Cette expérience ne signifie pas que la technologie est mauvaise. Elle montre simplement que notre attention est précieuse. En choisissant les moments où nous utilisons nos appareils, nous pouvons profiter des avantages du numérique sans oublier le monde réel.",
+      "en": "This experience does not mean that technology is bad. It simply shows that our attention is precious. By choosing when we use our devices, we can enjoy the benefits of technology without forgetting the real world."
     },
     {
-      "fr": "Il vaut mieux choisir une activité adaptée à ses disponibilités plutôt que de promettre trop de choses. Une participation modeste mais régulière est souvent plus utile qu'un grand effort impossible à maintenir.",
-      "en": "It is better to choose an activity that fits your availability rather than promise too much. Modest but regular participation is often more useful than a huge effort that cannot be maintained."
+      "fr": "Il est difficile de changer ses habitudes du jour au lendemain. Cependant, un petit geste peut avoir un effet important. Éteindre les notifications pendant un repas ou une promenade permet souvent de mieux écouter les autres et de se sentir plus calme.",
+      "en": "It is hard to change our habits overnight. However, a small step can make a big difference. Turning off notifications during a meal or a walk often helps us listen to others better and feel calmer."
     },
     {
-      "fr": "Le bénévolat montre qu'une communauté devient plus forte lorsque ses membres agissent ensemble.",
-      "en": "Volunteering shows that a community becomes stronger when its members act together."
+      "fr": "Finalement, la vraie question n'est pas de savoir combien de temps nous passons en ligne, mais ce que nous faisons du temps qui reste.",
+      "en": "Ultimately, the real question is not how much time we spend online, but what we do with the time that remains."
     }
   ],
-  "word_count": 197,
+  "word_count": 236,
   "unique_hours_before_repeat": 216
 }
