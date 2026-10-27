@@ -1,35 +1,35 @@
 {
-  "id": "498086",
-  "hour_utc": "2026-10-27T14:00:00Z",
-  "title": "Le jardin partagé",
-  "title_en": "The community garden",
+  "id": "498091",
+  "hour_utc": "2026-10-27T19:00:00Z",
+  "title": "Découvrir l’histoire d’une ville",
+  "title_en": "Discovering a city’s history",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Dans de nombreuses villes, les habitants vivent près les uns des autres sans vraiment se connaître. Un jardin partagé peut changer cette situation. Il donne aux voisins un espace pour planter des légumes, discuter et apprendre ensemble, même s'ils ont des âges très différents.",
-      "en": "In many cities, residents live close to one another without truly knowing each other. A community garden can change this situation. It gives neighbors a space to plant vegetables, talk and learn together, even if they are very different ages."
+      "fr": "Quand on visite une ville, on regarde souvent ses monuments et ses rues les plus connues. Pourtant, son histoire se cache aussi dans les marchés, les anciennes usines et les maisons ordinaires. Comprendre ces détails permet de mieux connaître les personnes qui y ont vécu.",
+      "en": "When we visit a city, we often look at its monuments and best-known streets. Yet its history is also hidden in markets, old factories and ordinary houses. Understanding these details helps us know the people who lived there."
     },
     {
-      "fr": "Après une semaine très chaude, les jardiniers ont découvert que plusieurs plantes manquaient d'eau. Ils ont installé un grand réservoir pour recueillir la pluie et organisé un calendrier d'arrosage. Cette difficulté a renforcé leur sens des responsabilités.",
-      "en": "After a very hot week, the gardeners discovered that several plants lacked water. They installed a large tank to collect rain and organized a watering schedule. This difficulty strengthened their sense of responsibility."
+      "fr": "Dans un musée local, des enfants ont observé les objets utilisés par leurs arrière-grands-parents. Ils ont comparé les anciens outils avec ceux d'aujourd'hui et posé de nombreuses questions. Cette visite leur a montré que le quotidien change avec les générations.",
+      "en": "At a local museum, children observed objects used by their great-grandparents. They compared old tools with today's and asked many questions. This visit showed them that daily life changes across generations."
     },
     {
-      "fr": "Au printemps, des habitants ont transformé un terrain abandonné en petit jardin. Les enfants ont planté des tomates, tandis que des personnes âgées expliquaient comment préparer la terre. Quelques mois plus tard, tout le quartier s'est retrouvé pour partager la première récolte.",
-      "en": "In spring, residents transformed an abandoned lot into a small garden. Children planted tomatoes while older people explained how to prepare the soil. A few months later, the whole neighborhood met to share the first harvest."
+      "fr": "Pendant une promenade guidée, un groupe a découvert qu'un petit pont servait autrefois aux marchands. Le guide a montré des photographies anciennes et expliqué comment le quartier avait changé. Les visiteurs ont ensuite regardé ce lieu familier avec un regard nouveau.",
+      "en": "During a guided walk, a group discovered that a small bridge had once been used by merchants. The guide showed old photographs and explained how the neighborhood had changed. The visitors then looked at this familiar place with fresh eyes."
     },
     {
-      "fr": "Un jardin collectif peut aussi nous apprendre à consommer différemment. En voyant le travail nécessaire pour produire une tomate, on respecte davantage les aliments et on évite plus facilement le gaspillage.",
-      "en": "A community garden can also teach us to consume differently. When we see the work needed to grow a tomato, we respect food more and find it easier to avoid waste."
+      "fr": "Il faut cependant examiner les sources avec attention. Un souvenir personnel peut être précieux sans raconter toute la réalité. Comparer plusieurs documents permet de construire une image plus nuancée du passé.",
+      "en": "However, we must examine sources carefully. A personal memory can be valuable without telling the whole story. Comparing several documents helps us build a more nuanced picture of the past."
     },
     {
-      "fr": "Cultiver un jardin demande de la patience. On ne peut pas faire pousser une plante en tirant sur ses feuilles. De la même manière, les relations entre voisins grandissent peu à peu grâce à des échanges simples et réguliers.",
-      "en": "Growing a garden requires patience. You cannot make a plant grow by pulling its leaves. In the same way, relationships between neighbors grow little by little through simple and regular interactions."
+      "fr": "L'histoire ne se résume pas aux dates importantes. Elle concerne aussi la manière dont les gens travaillaient, mangeaient et se déplaçaient. Les témoignages, les cartes et les bâtiments nous aident à comprendre ces transformations.",
+      "en": "History is not limited to important dates. It also concerns how people worked, ate and traveled. Testimonies, maps and buildings help us understand these changes."
     },
     {
-      "fr": "Le jardin nous rappelle qu'une ville agréable se construit aussi avec des gestes simples et collectifs.",
-      "en": "The garden reminds us that a pleasant city is also built through simple, collective actions."
+      "fr": "Une simple promenade devient alors une occasion d'apprendre et de mieux comprendre le présent.",
+      "en": "A simple walk then becomes an opportunity to learn and better understand the present."
     }
   ],
-  "word_count": 209,
+  "word_count": 205,
   "unique_hours_before_repeat": 216
 }
