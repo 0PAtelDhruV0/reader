@@ -1,35 +1,35 @@
 {
-  "id": "498108",
-  "hour_utc": "2026-10-28T12:00:00Z",
-  "title": "Une journée sans téléphone",
-  "title_en": "A day without a phone",
+  "id": "498114",
+  "hour_utc": "2026-10-28T18:00:00Z",
+  "title": "Les petits gestes pour la planète",
+  "title_en": "Small actions for the planet",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Aujourd'hui, le téléphone accompagne presque tous les moments de notre vie. On l'utilise pour communiquer, trouver son chemin et regarder les nouvelles. Pourtant, il est parfois utile de passer quelques heures sans écran pour observer ce qui se passe autour de nous.",
-      "en": "Today, the phone accompanies almost every moment of our lives. We use it to communicate, find our way and check the news. Yet sometimes it is useful to spend a few hours without a screen and notice what is happening around us."
+      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
+      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
     },
     {
-      "fr": "Un dimanche, deux amis ont décidé de cuisiner ensemble sans consulter leurs écrans. Ils ont cherché les ingrédients dans les placards, modifié une recette et parlé de leurs souvenirs d'enfance. Le repas n'était pas parfait, mais ils ont passé un excellent moment.",
-      "en": "One Sunday, two friends decided to cook together without checking their screens. They looked for ingredients in the cupboards, changed a recipe and talked about childhood memories. The meal was not perfect, but they had a wonderful time."
+      "fr": "Une école a installé des fontaines d'eau et invité les élèves à apporter une gourde. Au début, plusieurs enfants oubliaient leur bouteille. Après quelques semaines, ils avaient pris l'habitude de la remplir et utilisaient moins de contenants jetables.",
+      "en": "A school installed water fountains and invited students to bring reusable bottles. At first, several children forgot their bottles. After a few weeks, they had developed the habit of refilling them and used fewer disposable containers."
     },
     {
-      "fr": "Pendant un trajet en train, une voyageuse a éteint son téléphone et ouvert un petit carnet. Elle a décrit les villages qui défilaient derrière la fenêtre et imaginé des histoires sur les personnes qu'elle voyait. Le voyage lui a paru plus court et plus intéressant.",
-      "en": "During a train journey, a traveler turned off her phone and opened a small notebook. She described the villages passing outside the window and imagined stories about the people she saw. The journey seemed shorter and more interesting to her."
+      "fr": "Dans un immeuble, les habitants échangeaient rarement leurs objets. Ils ont créé une petite étagère où chacun pouvait déposer des livres, des outils ou des jeux en bon état. Beaucoup d'objets ont trouvé une seconde vie au lieu d'être jetés.",
+      "en": "In an apartment building, residents rarely exchanged objects. They created a small shelf where everyone could leave books, tools or games in good condition. Many objects found a second life instead of being thrown away."
     },
     {
-      "fr": "Cette expérience ne signifie pas que la technologie est mauvaise. Elle montre simplement que notre attention est précieuse. En choisissant les moments où nous utilisons nos appareils, nous pouvons profiter des avantages du numérique sans oublier le monde réel.",
-      "en": "This experience does not mean that technology is bad. It simply shows that our attention is precious. By choosing when we use our devices, we can enjoy the benefits of technology without forgetting the real world."
+      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
+      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
     },
     {
-      "fr": "Il est difficile de changer ses habitudes du jour au lendemain. Cependant, un petit geste peut avoir un effet important. Éteindre les notifications pendant un repas ou une promenade permet souvent de mieux écouter les autres et de se sentir plus calme.",
-      "en": "It is hard to change our habits overnight. However, a small step can make a big difference. Turning off notifications during a meal or a walk often helps us listen to others better and feel calmer."
+      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
+      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
     },
     {
-      "fr": "À mon avis, il ne faut pas abandonner son téléphone, mais apprendre à décider quand il mérite notre attention. Une heure de liberté peut déjà faire du bien.",
-      "en": "In my opinion, we should not give up our phones, but learn to decide when they deserve our attention. Even one hour of freedom can feel good."
+      "fr": "Chaque geste est limité, mais l'ensemble de nos choix peut contribuer à un changement plus large.",
+      "en": "Each action is limited, but together our choices can contribute to wider change."
     }
   ],
-  "word_count": 238,
+  "word_count": 209,
   "unique_hours_before_repeat": 216
 }
