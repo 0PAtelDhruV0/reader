@@ -1,35 +1,35 @@
 {
-  "id": "498122",
-  "hour_utc": "2026-10-29T02:00:00Z",
-  "title": "Le jardin partagé",
-  "title_en": "The community garden",
+  "id": "498129",
+  "hour_utc": "2026-10-29T09:00:00Z",
+  "title": "Faire du bénévolat",
+  "title_en": "Volunteering",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Dans de nombreuses villes, les habitants vivent près les uns des autres sans vraiment se connaître. Un jardin partagé peut changer cette situation. Il donne aux voisins un espace pour planter des légumes, discuter et apprendre ensemble, même s'ils ont des âges très différents.",
-      "en": "In many cities, residents live close to one another without truly knowing each other. A community garden can change this situation. It gives neighbors a space to plant vegetables, talk and learn together, even if they are very different ages."
+      "fr": "Le bénévolat consiste à donner une partie de son temps pour aider une personne, une association ou un projet collectif. Il peut prendre des formes très diverses. Certains organisent des événements, d'autres distribuent des repas ou accompagnent des personnes qui se sentent seules.",
+      "en": "Volunteering means giving some of your time to help a person, an association or a collective project. It can take many forms. Some people organize events, others distribute meals or spend time with people who feel lonely."
     },
     {
-      "fr": "Après une semaine très chaude, les jardiniers ont découvert que plusieurs plantes manquaient d'eau. Ils ont installé un grand réservoir pour recueillir la pluie et organisé un calendrier d'arrosage. Cette difficulté a renforcé leur sens des responsabilités.",
-      "en": "After a very hot week, the gardeners discovered that several plants lacked water. They installed a large tank to collect rain and organized a watering schedule. This difficulty strengthened their sense of responsibility."
+      "fr": "Une retraitée a proposé de lire des histoires à des personnes âgées dans une résidence. Les premières rencontres étaient timides, puis chacun a commencé à raconter ses souvenirs. Peu à peu, ces visites sont devenues un moment attendu de la semaine.",
+      "en": "A retired woman offered to read stories to older people in a residence. The first meetings were shy, then everyone began sharing memories. Little by little, these visits became a much-anticipated part of the week."
     },
     {
-      "fr": "Au printemps, des habitants ont transformé un terrain abandonné en petit jardin. Les enfants ont planté des tomates, tandis que des personnes âgées expliquaient comment préparer la terre. Quelques mois plus tard, tout le quartier s'est retrouvé pour partager la première récolte.",
-      "en": "In spring, residents transformed an abandoned lot into a small garden. Children planted tomatoes while older people explained how to prepare the soil. A few months later, the whole neighborhood met to share the first harvest."
+      "fr": "Un étudiant a rejoint une association qui aide les enfants à faire leurs devoirs. Au début, il pensait surtout expliquer les mathématiques. Il a vite compris que les encouragements et l'écoute étaient tout aussi importants que les réponses correctes.",
+      "en": "A student joined an organization that helps children with homework. At first, he thought he would mainly explain mathematics. He soon realized that encouragement and listening were just as important as correct answers."
     },
     {
-      "fr": "Cultiver un jardin demande de la patience. On ne peut pas faire pousser une plante en tirant sur ses feuilles. De la même manière, les relations entre voisins grandissent peu à peu grâce à des échanges simples et réguliers.",
-      "en": "Growing a garden requires patience. You cannot make a plant grow by pulling its leaves. In the same way, relationships between neighbors grow little by little through simple and regular interactions."
+      "fr": "Le bénévolat peut développer des compétences utiles, comme la communication, le travail en équipe et la capacité à résoudre des problèmes. Mais son intérêt principal reste l'aide concrète apportée à la communauté.",
+      "en": "Volunteering can develop useful skills such as communication, teamwork and problem-solving. But its main value remains the practical help given to the community."
     },
     {
-      "fr": "Un jardin collectif peut aussi nous apprendre à consommer différemment. En voyant le travail nécessaire pour produire une tomate, on respecte davantage les aliments et on évite plus facilement le gaspillage.",
-      "en": "A community garden can also teach us to consume differently. When we see the work needed to grow a tomato, we respect food more and find it easier to avoid waste."
+      "fr": "Il vaut mieux choisir une activité adaptée à ses disponibilités plutôt que de promettre trop de choses. Une participation modeste mais régulière est souvent plus utile qu'un grand effort impossible à maintenir.",
+      "en": "It is better to choose an activity that fits your availability rather than promise too much. Modest but regular participation is often more useful than a huge effort that cannot be maintained."
     },
     {
-      "fr": "Ainsi, ce projet produit bien plus que des légumes : il fait grandir la confiance entre les habitants.",
-      "en": "So this project produces much more than vegetables: it grows trust among residents."
+      "fr": "Même quelques heures par mois peuvent faire une différence dans la vie de quelqu'un.",
+      "en": "Even a few hours a month can make a difference in someone's life."
     }
   ],
-  "word_count": 211,
+  "word_count": 201,
   "unique_hours_before_repeat": 216
 }
