@@ -1,35 +1,35 @@
 {
-  "id": "498141",
-  "hour_utc": "2026-10-29T21:00:00Z",
-  "title": "Faire du bénévolat",
-  "title_en": "Volunteering",
+  "id": "498145",
+  "hour_utc": "2026-10-30T01:00:00Z",
+  "title": "Apprendre une nouvelle langue",
+  "title_en": "Learning a new language",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Le bénévolat consiste à donner une partie de son temps pour aider une personne, une association ou un projet collectif. Il peut prendre des formes très diverses. Certains organisent des événements, d'autres distribuent des repas ou accompagnent des personnes qui se sentent seules.",
-      "en": "Volunteering means giving some of your time to help a person, an association or a collective project. It can take many forms. Some people organize events, others distribute meals or spend time with people who feel lonely."
+      "fr": "Apprendre une langue étrangère demande du temps, de la patience et beaucoup de curiosité. Au début, on comprend seulement quelques mots. Plus tard, de petites phrases deviennent de vraies conversations. Ce progrès est parfois lent, mais il peut transformer notre façon de voir les autres.",
+      "en": "Learning a foreign language takes time, patience and a great deal of curiosity. At first, we understand only a few words. Later, small phrases turn into real conversations. This progress can be slow, but it can change the way we see other people."
     },
     {
-      "fr": "Un étudiant a rejoint une association qui aide les enfants à faire leurs devoirs. Au début, il pensait surtout expliquer les mathématiques. Il a vite compris que les encouragements et l'écoute étaient tout aussi importants que les réponses correctes.",
-      "en": "A student joined an organization that helps children with homework. At first, he thought he would mainly explain mathematics. He soon realized that encouragement and listening were just as important as correct answers."
+      "fr": "Lors d'un voyage, Marc voulait acheter un billet de train, mais il ne trouvait pas les mots. Il a posé une question simple et demandé à l'employée de parler lentement. Grâce à cet échange, il a compris qu'il n'était pas nécessaire de parler parfaitement pour communiquer.",
+      "en": "During a trip, Marc wanted to buy a train ticket but could not find the words. He asked a simple question and requested that the employee speak slowly. Thanks to this exchange, he understood that perfect speech was not necessary to communicate."
     },
     {
-      "fr": "Chaque mois, des bénévoles nettoient un parc près de la rivière. Ils ramassent les déchets, discutent avec les promeneurs et signalent les endroits qui nécessitent des réparations. Leur travail rend cet espace plus accueillant pour tous.",
-      "en": "Every month, volunteers clean a park near the river. They collect litter, talk with walkers and report places needing repairs. Their work makes the space more welcoming for everyone."
+      "fr": "Dans une bibliothèque, un groupe de voisins organise des conversations gratuites. Les participants viennent de plusieurs pays et parlent de cuisine, de voyages ou de leurs projets. Les erreurs provoquent parfois des rires, mais personne ne se moque des autres.",
+      "en": "At a library, a group of neighbors organizes free conversations. Participants come from several countries and talk about food, travel or their plans. Mistakes sometimes cause laughter, but nobody makes fun of anyone else."
     },
     {
-      "fr": "Il vaut mieux choisir une activité adaptée à ses disponibilités plutôt que de promettre trop de choses. Une participation modeste mais régulière est souvent plus utile qu'un grand effort impossible à maintenir.",
-      "en": "It is better to choose an activity that fits your availability rather than promise too much. Modest but regular participation is often more useful than a huge effort that cannot be maintained."
+      "fr": "Pour progresser, il faut accepter de faire des erreurs. Une conversation imparfaite reste une conversation réussie si les deux personnes se comprennent. Avec le temps, la prononciation, le vocabulaire et la grammaire deviennent plus naturels.",
+      "en": "To improve, we must accept making mistakes. An imperfect conversation is still successful if both people understand each other. With time, pronunciation, vocabulary and grammar become more natural."
     },
     {
-      "fr": "Le bénévolat peut développer des compétences utiles, comme la communication, le travail en équipe et la capacité à résoudre des problèmes. Mais son intérêt principal reste l'aide concrète apportée à la communauté.",
-      "en": "Volunteering can develop useful skills such as communication, teamwork and problem-solving. But its main value remains the practical help given to the community."
+      "fr": "La régularité est souvent plus importante que la durée d'une séance. Dix minutes chaque jour peuvent être plus efficaces qu'une longue leçon de temps en temps. Il est également utile de revoir les mots appris et de les utiliser dans des phrases personnelles.",
+      "en": "Consistency is often more important than the length of a session. Ten minutes every day can be more effective than a long lesson occasionally. It also helps to review learned words and use them in personal sentences."
     },
     {
-      "fr": "Même quelques heures par mois peuvent faire une différence dans la vie de quelqu'un.",
-      "en": "Even a few hours a month can make a difference in someone's life."
+      "fr": "Le meilleur conseil est donc simple : pratiquer un peu, mais souvent, et garder le plaisir d'apprendre.",
+      "en": "The best advice is simple: practice a little but often, and keep enjoying learning."
     }
   ],
-  "word_count": 196,
+  "word_count": 226,
   "unique_hours_before_repeat": 216
 }
