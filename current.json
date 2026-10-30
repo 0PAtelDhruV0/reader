@@ -1,35 +1,35 @@
 {
-  "id": "498152",
-  "hour_utc": "2026-10-30T08:00:00Z",
-  "title": "Cuisiner ensemble",
-  "title_en": "Cooking together",
+  "id": "498159",
+  "hour_utc": "2026-10-30T15:00:00Z",
+  "title": "Voyager en train",
+  "title_en": "Traveling by train",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "La cuisine occupe une place importante dans la vie quotidienne. Elle répond à un besoin essentiel, mais elle permet aussi de partager des traditions et des souvenirs. Préparer un repas avec d'autres personnes peut être une manière simple de créer des liens.",
-      "en": "Cooking has an important place in daily life. It meets an essential need, but it also allows us to share traditions and memories. Preparing a meal with other people can be a simple way to build connections."
+      "fr": "Prendre le train est une manière particulière de découvrir un pays. On peut regarder le paysage, lire un livre ou discuter avec un voisin. Contrairement à un voyage très rapide en avion, le trajet lui-même fait souvent partie de l'expérience.",
+      "en": "Taking a train is a special way to discover a country. You can watch the scenery, read a book or talk to a neighbor. Unlike a very fast journey by plane, the trip itself often becomes part of the experience."
     },
     {
-      "fr": "Un grand-père a appris à sa petite-fille à préparer une recette familiale. Il lui a expliqué pourquoi il ajoutait les épices à un moment précis. En répétant les gestes, elle a découvert une partie de l'histoire de sa famille.",
-      "en": "A grandfather taught his granddaughter how to make a family recipe. He explained why he added the spices at a particular moment. By repeating the steps, she discovered part of her family's history."
+      "fr": "Lorsqu'une correspondance a été retardée, plusieurs passagers se sont retrouvés dans un petit café de gare. Ils ont comparé leurs itinéraires et proposé des solutions. Au lieu de rester seuls avec leur frustration, ils ont choisi de s'entraider.",
+      "en": "When a connection was delayed, several passengers found themselves in a small station café. They compared routes and suggested solutions. Instead of remaining alone with their frustration, they chose to help one another."
     },
     {
-      "fr": "Dans une résidence étudiante, des voisins ont organisé un repas où chacun apportait un plat de son pays. Ils ont parlé des ingrédients et des fêtes associés à ces recettes. La soirée a permis de découvrir des cultures différentes autour d'une même table.",
-      "en": "In student housing, neighbors organized a meal where everyone brought a dish from their country. They talked about the ingredients and celebrations associated with those recipes. The evening helped them discover different cultures around one table."
+      "fr": "Un matin, Léa est partie visiter une ville qu'elle ne connaissait pas. À travers la fenêtre, elle a vu des champs, de petites gares et des maisons anciennes. Quand le train s'est arrêté, elle avait déjà l'impression d'avoir découvert une partie de la région.",
+      "en": "One morning, Léa left to visit a city she did not know. Through the window, she saw fields, small stations and old houses. When the train stopped, she already felt she had discovered part of the region."
     },
     {
-      "fr": "Cuisiner avec les autres demande de l'écoute et de l'organisation. Il faut partager les tâches, respecter les préférences alimentaires et accepter que chacun possède ses propres méthodes. Ces qualités sont utiles bien au-delà de la cuisine.",
-      "en": "Cooking with others requires listening and organization. We must share tasks, respect dietary preferences and accept that everyone has their own methods. These skills are useful far beyond the kitchen."
+      "fr": "Voyager lentement nous encourage à être attentifs à notre environnement. Les paysages changent progressivement et chaque région semble raconter sa propre histoire. Cette expérience nous apprend qu'arriver n'est pas toujours le seul objectif.",
+      "en": "Traveling slowly encourages us to pay attention to our surroundings. Landscapes change gradually and each region seems to tell its own story. This experience teaches us that arriving is not always the only goal."
     },
     {
-      "fr": "Il n'est pas nécessaire de préparer des plats compliqués pour bien recevoir. Un repas simple, fait avec attention, peut avoir beaucoup de valeur. Le plus important est souvent le temps que nous passons ensemble plutôt que le prix des ingrédients.",
-      "en": "We do not need to prepare complicated dishes to be good hosts. A simple meal, made with care, can have great value. What matters most is often the time we spend together rather than the price of the ingredients."
+      "fr": "Bien sûr, le train présente aussi des inconvénients. Il faut parfois changer de ligne, réserver à l'avance ou accepter des retards. Pourtant, une bonne préparation permet de réduire le stress et de profiter davantage du voyage.",
+      "en": "Of course, trains also have disadvantages. Sometimes we have to change lines, book ahead or accept delays. Yet good preparation can reduce stress and help us enjoy the trip more."
     },
     {
-      "fr": "Au fond, une recette réussie est aussi celle qui donne envie de se retrouver à nouveau.",
-      "en": "Deep down, a successful recipe is also one that makes people want to meet again."
+      "fr": "Pour mon prochain voyage, je choisirai peut-être le train afin de profiter aussi du chemin.",
+      "en": "For my next trip, I may choose the train so I can enjoy the journey too."
     }
   ],
-  "word_count": 216,
+  "word_count": 206,
   "unique_hours_before_repeat": 216
 }
