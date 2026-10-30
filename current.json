@@ -1,35 +1,35 @@
 {
-  "id": "498145",
-  "hour_utc": "2026-10-30T01:00:00Z",
-  "title": "Apprendre une nouvelle langue",
-  "title_en": "Learning a new language",
+  "id": "498152",
+  "hour_utc": "2026-10-30T08:00:00Z",
+  "title": "Cuisiner ensemble",
+  "title_en": "Cooking together",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Apprendre une langue étrangère demande du temps, de la patience et beaucoup de curiosité. Au début, on comprend seulement quelques mots. Plus tard, de petites phrases deviennent de vraies conversations. Ce progrès est parfois lent, mais il peut transformer notre façon de voir les autres.",
-      "en": "Learning a foreign language takes time, patience and a great deal of curiosity. At first, we understand only a few words. Later, small phrases turn into real conversations. This progress can be slow, but it can change the way we see other people."
+      "fr": "La cuisine occupe une place importante dans la vie quotidienne. Elle répond à un besoin essentiel, mais elle permet aussi de partager des traditions et des souvenirs. Préparer un repas avec d'autres personnes peut être une manière simple de créer des liens.",
+      "en": "Cooking has an important place in daily life. It meets an essential need, but it also allows us to share traditions and memories. Preparing a meal with other people can be a simple way to build connections."
     },
     {
-      "fr": "Lors d'un voyage, Marc voulait acheter un billet de train, mais il ne trouvait pas les mots. Il a posé une question simple et demandé à l'employée de parler lentement. Grâce à cet échange, il a compris qu'il n'était pas nécessaire de parler parfaitement pour communiquer.",
-      "en": "During a trip, Marc wanted to buy a train ticket but could not find the words. He asked a simple question and requested that the employee speak slowly. Thanks to this exchange, he understood that perfect speech was not necessary to communicate."
+      "fr": "Un grand-père a appris à sa petite-fille à préparer une recette familiale. Il lui a expliqué pourquoi il ajoutait les épices à un moment précis. En répétant les gestes, elle a découvert une partie de l'histoire de sa famille.",
+      "en": "A grandfather taught his granddaughter how to make a family recipe. He explained why he added the spices at a particular moment. By repeating the steps, she discovered part of her family's history."
     },
     {
-      "fr": "Dans une bibliothèque, un groupe de voisins organise des conversations gratuites. Les participants viennent de plusieurs pays et parlent de cuisine, de voyages ou de leurs projets. Les erreurs provoquent parfois des rires, mais personne ne se moque des autres.",
-      "en": "At a library, a group of neighbors organizes free conversations. Participants come from several countries and talk about food, travel or their plans. Mistakes sometimes cause laughter, but nobody makes fun of anyone else."
+      "fr": "Dans une résidence étudiante, des voisins ont organisé un repas où chacun apportait un plat de son pays. Ils ont parlé des ingrédients et des fêtes associés à ces recettes. La soirée a permis de découvrir des cultures différentes autour d'une même table.",
+      "en": "In student housing, neighbors organized a meal where everyone brought a dish from their country. They talked about the ingredients and celebrations associated with those recipes. The evening helped them discover different cultures around one table."
     },
     {
-      "fr": "Pour progresser, il faut accepter de faire des erreurs. Une conversation imparfaite reste une conversation réussie si les deux personnes se comprennent. Avec le temps, la prononciation, le vocabulaire et la grammaire deviennent plus naturels.",
-      "en": "To improve, we must accept making mistakes. An imperfect conversation is still successful if both people understand each other. With time, pronunciation, vocabulary and grammar become more natural."
+      "fr": "Cuisiner avec les autres demande de l'écoute et de l'organisation. Il faut partager les tâches, respecter les préférences alimentaires et accepter que chacun possède ses propres méthodes. Ces qualités sont utiles bien au-delà de la cuisine.",
+      "en": "Cooking with others requires listening and organization. We must share tasks, respect dietary preferences and accept that everyone has their own methods. These skills are useful far beyond the kitchen."
     },
     {
-      "fr": "La régularité est souvent plus importante que la durée d'une séance. Dix minutes chaque jour peuvent être plus efficaces qu'une longue leçon de temps en temps. Il est également utile de revoir les mots appris et de les utiliser dans des phrases personnelles.",
-      "en": "Consistency is often more important than the length of a session. Ten minutes every day can be more effective than a long lesson occasionally. It also helps to review learned words and use them in personal sentences."
+      "fr": "Il n'est pas nécessaire de préparer des plats compliqués pour bien recevoir. Un repas simple, fait avec attention, peut avoir beaucoup de valeur. Le plus important est souvent le temps que nous passons ensemble plutôt que le prix des ingrédients.",
+      "en": "We do not need to prepare complicated dishes to be good hosts. A simple meal, made with care, can have great value. What matters most is often the time we spend together rather than the price of the ingredients."
     },
     {
-      "fr": "Le meilleur conseil est donc simple : pratiquer un peu, mais souvent, et garder le plaisir d'apprendre.",
-      "en": "The best advice is simple: practice a little but often, and keep enjoying learning."
+      "fr": "Au fond, une recette réussie est aussi celle qui donne envie de se retrouver à nouveau.",
+      "en": "Deep down, a successful recipe is also one that makes people want to meet again."
     }
   ],
-  "word_count": 226,
+  "word_count": 216,
   "unique_hours_before_repeat": 216
 }
