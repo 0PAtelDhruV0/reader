@@ -1,35 +1,35 @@
 {
-  "id": "498181",
-  "hour_utc": "2026-10-31T13:00:00Z",
-  "title": "Apprendre une nouvelle langue",
-  "title_en": "Learning a new language",
+  "id": "498186",
+  "hour_utc": "2026-10-31T18:00:00Z",
+  "title": "Les petits gestes pour la planète",
+  "title_en": "Small actions for the planet",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Apprendre une langue étrangère demande du temps, de la patience et beaucoup de curiosité. Au début, on comprend seulement quelques mots. Plus tard, de petites phrases deviennent de vraies conversations. Ce progrès est parfois lent, mais il peut transformer notre façon de voir les autres.",
-      "en": "Learning a foreign language takes time, patience and a great deal of curiosity. At first, we understand only a few words. Later, small phrases turn into real conversations. This progress can be slow, but it can change the way we see other people."
+      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
+      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
     },
     {
-      "fr": "Lors d'un voyage, Marc voulait acheter un billet de train, mais il ne trouvait pas les mots. Il a posé une question simple et demandé à l'employée de parler lentement. Grâce à cet échange, il a compris qu'il n'était pas nécessaire de parler parfaitement pour communiquer.",
-      "en": "During a trip, Marc wanted to buy a train ticket but could not find the words. He asked a simple question and requested that the employee speak slowly. Thanks to this exchange, he understood that perfect speech was not necessary to communicate."
+      "fr": "Une école a installé des fontaines d'eau et invité les élèves à apporter une gourde. Au début, plusieurs enfants oubliaient leur bouteille. Après quelques semaines, ils avaient pris l'habitude de la remplir et utilisaient moins de contenants jetables.",
+      "en": "A school installed water fountains and invited students to bring reusable bottles. At first, several children forgot their bottles. After a few weeks, they had developed the habit of refilling them and used fewer disposable containers."
     },
     {
-      "fr": "Dans une bibliothèque, un groupe de voisins organise des conversations gratuites. Les participants viennent de plusieurs pays et parlent de cuisine, de voyages ou de leurs projets. Les erreurs provoquent parfois des rires, mais personne ne se moque des autres.",
-      "en": "At a library, a group of neighbors organizes free conversations. Participants come from several countries and talk about food, travel or their plans. Mistakes sometimes cause laughter, but nobody makes fun of anyone else."
+      "fr": "Dans un immeuble, les habitants échangeaient rarement leurs objets. Ils ont créé une petite étagère où chacun pouvait déposer des livres, des outils ou des jeux en bon état. Beaucoup d'objets ont trouvé une seconde vie au lieu d'être jetés.",
+      "en": "In an apartment building, residents rarely exchanged objects. They created a small shelf where everyone could leave books, tools or games in good condition. Many objects found a second life instead of being thrown away."
     },
     {
-      "fr": "La régularité est souvent plus importante que la durée d'une séance. Dix minutes chaque jour peuvent être plus efficaces qu'une longue leçon de temps en temps. Il est également utile de revoir les mots appris et de les utiliser dans des phrases personnelles.",
-      "en": "Consistency is often more important than the length of a session. Ten minutes every day can be more effective than a long lesson occasionally. It also helps to review learned words and use them in personal sentences."
+      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
+      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
     },
     {
-      "fr": "Pour progresser, il faut accepter de faire des erreurs. Une conversation imparfaite reste une conversation réussie si les deux personnes se comprennent. Avec le temps, la prononciation, le vocabulaire et la grammaire deviennent plus naturels.",
-      "en": "To improve, we must accept making mistakes. An imperfect conversation is still successful if both people understand each other. With time, pronunciation, vocabulary and grammar become more natural."
+      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
+      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
     },
     {
-      "fr": "Chaque nouveau mot ouvre une petite porte sur une autre culture. Cela vaut bien quelques efforts quotidiens.",
-      "en": "Every new word opens a small door to another culture. That is worth a little daily effort."
+      "fr": "Le progrès commence souvent par une question simple : que puis-je faire autrement aujourd'hui ?",
+      "en": "Progress often begins with a simple question: what can I do differently today?"
     }
   ],
-  "word_count": 226,
+  "word_count": 208,
   "unique_hours_before_repeat": 216
 }
