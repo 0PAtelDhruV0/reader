@@ -1,35 +1,35 @@
 {
-  "id": "498223",
-  "hour_utc": "2026-11-02T07:00:00Z",
-  "title": "Découvrir l’histoire d’une ville",
-  "title_en": "Discovering a city’s history",
+  "id": "498234",
+  "hour_utc": "2026-11-02T18:00:00Z",
+  "title": "Les petits gestes pour la planète",
+  "title_en": "Small actions for the planet",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Quand on visite une ville, on regarde souvent ses monuments et ses rues les plus connues. Pourtant, son histoire se cache aussi dans les marchés, les anciennes usines et les maisons ordinaires. Comprendre ces détails permet de mieux connaître les personnes qui y ont vécu.",
-      "en": "When we visit a city, we often look at its monuments and best-known streets. Yet its history is also hidden in markets, old factories and ordinary houses. Understanding these details helps us know the people who lived there."
+      "fr": "Les problèmes environnementaux peuvent sembler immenses. Pourtant, chacun peut agir à son échelle en adoptant des habitudes raisonnables. Les petits gestes ne remplacent pas les grandes décisions collectives, mais ils peuvent réduire le gaspillage et encourager d'autres personnes à participer.",
+      "en": "Environmental problems can seem enormous. Yet everyone can act at their own level by adopting sensible habits. Small actions do not replace major collective decisions, but they can reduce waste and encourage others to participate."
     },
     {
-      "fr": "Une étudiante s'intéressait à l'histoire de sa rue. Elle a consulté des journaux anciens à la bibliothèque et rencontré un habitant qui y vivait depuis longtemps. Elle a découvert des souvenirs que les grands livres d'histoire ne mentionnaient pas.",
-      "en": "A student was interested in the history of her street. She consulted old newspapers at the library and met a resident who had lived there for a long time. She discovered memories that major history books did not mention."
+      "fr": "Dans un immeuble, les habitants échangeaient rarement leurs objets. Ils ont créé une petite étagère où chacun pouvait déposer des livres, des outils ou des jeux en bon état. Beaucoup d'objets ont trouvé une seconde vie au lieu d'être jetés.",
+      "en": "In an apartment building, residents rarely exchanged objects. They created a small shelf where everyone could leave books, tools or games in good condition. Many objects found a second life instead of being thrown away."
     },
     {
-      "fr": "Dans un musée local, des enfants ont observé les objets utilisés par leurs arrière-grands-parents. Ils ont comparé les anciens outils avec ceux d'aujourd'hui et posé de nombreuses questions. Cette visite leur a montré que le quotidien change avec les générations.",
-      "en": "At a local museum, children observed objects used by their great-grandparents. They compared old tools with today's and asked many questions. This visit showed them that daily life changes across generations."
+      "fr": "Dans une famille, les restes de légumes finissaient souvent à la poubelle. Un dimanche, les parents et les enfants ont commencé à préparer une soupe avec les produits disponibles. Cette recette improvisée est devenue une tradition qui réduit les déchets alimentaires.",
+      "en": "In one family, leftover vegetables often ended up in the trash. One Sunday, the parents and children began making soup with available ingredients. This improvised recipe became a tradition that reduces food waste."
     },
     {
-      "fr": "Il faut cependant examiner les sources avec attention. Un souvenir personnel peut être précieux sans raconter toute la réalité. Comparer plusieurs documents permet de construire une image plus nuancée du passé.",
-      "en": "However, we must examine sources carefully. A personal memory can be valuable without telling the whole story. Comparing several documents helps us build a more nuanced picture of the past."
+      "fr": "Il est important de ne pas transformer la protection de la planète en concours de perfection. Nous avons tous des contraintes différentes. Le plus utile est souvent de choisir quelques actions réalistes et de les répéter régulièrement.",
+      "en": "It is important not to turn protecting the planet into a competition for perfection. We all have different constraints. The most useful approach is often to choose a few realistic actions and repeat them regularly."
     },
     {
-      "fr": "L'histoire ne se résume pas aux dates importantes. Elle concerne aussi la manière dont les gens travaillaient, mangeaient et se déplaçaient. Les témoignages, les cartes et les bâtiments nous aident à comprendre ces transformations.",
-      "en": "History is not limited to important dates. It also concerns how people worked, ate and traveled. Testimonies, maps and buildings help us understand these changes."
+      "fr": "Une bonne habitude doit rester simple pour durer. Par exemple, préparer une liste avant de faire les courses aide à éviter les achats inutiles. Réparer un objet quand c'est possible peut aussi économiser de l'argent et des ressources.",
+      "en": "A good habit should stay simple if it is to last. For example, making a list before shopping helps avoid unnecessary purchases. Repairing an object when possible can also save money and resources."
     },
     {
-      "fr": "Connaître le passé d'un quartier peut renforcer le sentiment d'appartenir à un lieu.",
-      "en": "Knowing a neighborhood's past can strengthen the feeling of belonging to a place."
+      "fr": "Le progrès commence souvent par une question simple : que puis-je faire autrement aujourd'hui ?",
+      "en": "Progress often begins with a simple question: what can I do differently today?"
     }
   ],
-  "word_count": 202,
+  "word_count": 211,
   "unique_hours_before_repeat": 216
 }
