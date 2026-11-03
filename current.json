@@ -1,35 +1,35 @@
 {
-  "id": "498240",
-  "hour_utc": "2026-11-03T00:00:00Z",
-  "title": "Une journée sans téléphone",
-  "title_en": "A day without a phone",
+  "id": "498247",
+  "hour_utc": "2026-11-03T07:00:00Z",
+  "title": "Découvrir l’histoire d’une ville",
+  "title_en": "Discovering a city’s history",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Aujourd'hui, le téléphone accompagne presque tous les moments de notre vie. On l'utilise pour communiquer, trouver son chemin et regarder les nouvelles. Pourtant, il est parfois utile de passer quelques heures sans écran pour observer ce qui se passe autour de nous.",
-      "en": "Today, the phone accompanies almost every moment of our lives. We use it to communicate, find our way and check the news. Yet sometimes it is useful to spend a few hours without a screen and notice what is happening around us."
+      "fr": "Quand on visite une ville, on regarde souvent ses monuments et ses rues les plus connues. Pourtant, son histoire se cache aussi dans les marchés, les anciennes usines et les maisons ordinaires. Comprendre ces détails permet de mieux connaître les personnes qui y ont vécu.",
+      "en": "When we visit a city, we often look at its monuments and best-known streets. Yet its history is also hidden in markets, old factories and ordinary houses. Understanding these details helps us know the people who lived there."
     },
     {
-      "fr": "Samedi dernier, j'ai laissé mon téléphone à la maison avant de partir me promener. Au début, j'avais peur de manquer un message important. Puis j'ai remarqué les couleurs des arbres, les conversations dans la rue et les petits commerces que je ne voyais jamais.",
-      "en": "Last Saturday, I left my phone at home before going for a walk. At first, I was afraid of missing an important message. Then I noticed the colors of the trees, conversations in the street and small shops I had never really seen."
+      "fr": "Pendant une promenade guidée, un groupe a découvert qu'un petit pont servait autrefois aux marchands. Le guide a montré des photographies anciennes et expliqué comment le quartier avait changé. Les visiteurs ont ensuite regardé ce lieu familier avec un regard nouveau.",
+      "en": "During a guided walk, a group discovered that a small bridge had once been used by merchants. The guide showed old photographs and explained how the neighborhood had changed. The visitors then looked at this familiar place with fresh eyes."
     },
     {
-      "fr": "Un dimanche, deux amis ont décidé de cuisiner ensemble sans consulter leurs écrans. Ils ont cherché les ingrédients dans les placards, modifié une recette et parlé de leurs souvenirs d'enfance. Le repas n'était pas parfait, mais ils ont passé un excellent moment.",
-      "en": "One Sunday, two friends decided to cook together without checking their screens. They looked for ingredients in the cupboards, changed a recipe and talked about childhood memories. The meal was not perfect, but they had a wonderful time."
+      "fr": "Une étudiante s'intéressait à l'histoire de sa rue. Elle a consulté des journaux anciens à la bibliothèque et rencontré un habitant qui y vivait depuis longtemps. Elle a découvert des souvenirs que les grands livres d'histoire ne mentionnaient pas.",
+      "en": "A student was interested in the history of her street. She consulted old newspapers at the library and met a resident who had lived there for a long time. She discovered memories that major history books did not mention."
     },
     {
-      "fr": "Cette expérience ne signifie pas que la technologie est mauvaise. Elle montre simplement que notre attention est précieuse. En choisissant les moments où nous utilisons nos appareils, nous pouvons profiter des avantages du numérique sans oublier le monde réel.",
-      "en": "This experience does not mean that technology is bad. It simply shows that our attention is precious. By choosing when we use our devices, we can enjoy the benefits of technology without forgetting the real world."
+      "fr": "L'histoire ne se résume pas aux dates importantes. Elle concerne aussi la manière dont les gens travaillaient, mangeaient et se déplaçaient. Les témoignages, les cartes et les bâtiments nous aident à comprendre ces transformations.",
+      "en": "History is not limited to important dates. It also concerns how people worked, ate and traveled. Testimonies, maps and buildings help us understand these changes."
     },
     {
-      "fr": "Il est difficile de changer ses habitudes du jour au lendemain. Cependant, un petit geste peut avoir un effet important. Éteindre les notifications pendant un repas ou une promenade permet souvent de mieux écouter les autres et de se sentir plus calme.",
-      "en": "It is hard to change our habits overnight. However, a small step can make a big difference. Turning off notifications during a meal or a walk often helps us listen to others better and feel calmer."
+      "fr": "Il faut cependant examiner les sources avec attention. Un souvenir personnel peut être précieux sans raconter toute la réalité. Comparer plusieurs documents permet de construire une image plus nuancée du passé.",
+      "en": "However, we must examine sources carefully. A personal memory can be valuable without telling the whole story. Comparing several documents helps us build a more nuanced picture of the past."
     },
     {
-      "fr": "Finalement, la vraie question n'est pas de savoir combien de temps nous passons en ligne, mais ce que nous faisons du temps qui reste.",
-      "en": "Ultimately, the real question is not how much time we spend online, but what we do with the time that remains."
+      "fr": "Une simple promenade devient alors une occasion d'apprendre et de mieux comprendre le présent.",
+      "en": "A simple walk then becomes an opportunity to learn and better understand the present."
     }
   ],
-  "word_count": 233,
+  "word_count": 204,
   "unique_hours_before_repeat": 216
 }
