@@ -1,35 +1,35 @@
 {
-  "id": "498286",
-  "hour_utc": "2026-11-04T22:00:00Z",
-  "title": "Changer ses habitudes de transport",
-  "title_en": "Changing transport habits",
+  "id": "498291",
+  "hour_utc": "2026-11-05T03:00:00Z",
+  "title": "Voyager en train",
+  "title_en": "Traveling by train",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Se déplacer fait partie de notre routine, mais nous choisissons souvent notre moyen de transport sans vraiment y réfléchir. Selon la distance, la météo et nos obligations, marcher, prendre le bus ou utiliser un vélo peut parfois être plus pratique qu'une voiture.",
-      "en": "Travel is part of our routine, but we often choose how to get around without thinking about it. Depending on distance, weather and our obligations, walking, taking the bus or riding a bicycle can sometimes be more practical than a car."
+      "fr": "Prendre le train est une manière particulière de découvrir un pays. On peut regarder le paysage, lire un livre ou discuter avec un voisin. Contrairement à un voyage très rapide en avion, le trajet lui-même fait souvent partie de l'expérience.",
+      "en": "Taking a train is a special way to discover a country. You can watch the scenery, read a book or talk to a neighbor. Unlike a very fast journey by plane, the trip itself often becomes part of the experience."
     },
     {
-      "fr": "Pendant un mois, Julie a essayé de se rendre au travail à vélo deux jours par semaine. Les premières sorties étaient fatigantes, puis elle a trouvé un itinéraire plus calme. Elle appréciait désormais ce moment d'activité avant de commencer sa journée.",
-      "en": "For one month, Julie tried cycling to work two days a week. The first rides were tiring, then she found a quieter route. She came to enjoy this period of activity before starting her day."
+      "fr": "Pendant un long trajet, Karim a partagé sa table avec un voyageur qui lisait un roman. Ils ont commencé à parler de littérature et ont échangé des recommandations. Cette conversation imprévue a rendu leur journée plus agréable et leur a donné envie de lire davantage.",
+      "en": "During a long journey, Karim shared a table with a traveler reading a novel. They began talking about literature and exchanged recommendations. This unexpected conversation made their day more pleasant and made them want to read more."
     },
     {
-      "fr": "Une famille devait visiter un musée en centre-ville. Au lieu de chercher une place pour se garer, elle a pris le métro. Les enfants ont appris à lire le plan du réseau et les parents ont évité le stress de la circulation.",
-      "en": "A family wanted to visit a downtown museum. Instead of searching for a parking spot, they took the subway. The children learned to read the network map and the parents avoided the stress of traffic."
+      "fr": "Lorsqu'une correspondance a été retardée, plusieurs passagers se sont retrouvés dans un petit café de gare. Ils ont comparé leurs itinéraires et proposé des solutions. Au lieu de rester seuls avec leur frustration, ils ont choisi de s'entraider.",
+      "en": "When a connection was delayed, several passengers found themselves in a small station café. They compared routes and suggested solutions. Instead of remaining alone with their frustration, they chose to help one another."
     },
     {
-      "fr": "Une approche flexible est souvent la meilleure. On peut utiliser la voiture quand elle est nécessaire et choisir une autre solution pour certains déplacements. Il s'agit de prendre des décisions pratiques plutôt que de suivre une règle absolue.",
-      "en": "A flexible approach is often best. We can use a car when necessary and choose another option for some trips. The aim is to make practical decisions rather than follow an absolute rule."
+      "fr": "Voyager lentement nous encourage à être attentifs à notre environnement. Les paysages changent progressivement et chaque région semble raconter sa propre histoire. Cette expérience nous apprend qu'arriver n'est pas toujours le seul objectif.",
+      "en": "Traveling slowly encourages us to pay attention to our surroundings. Landscapes change gradually and each region seems to tell its own story. This experience teaches us that arriving is not always the only goal."
     },
     {
-      "fr": "Changer de transport ne dépend pas uniquement de la volonté personnelle. La sécurité des routes, la qualité des transports publics et la distance comptent beaucoup. Les villes ont donc un rôle important à jouer pour offrir des possibilités réelles.",
-      "en": "Changing how we travel does not depend only on personal will. Road safety, the quality of public transport and distance matter a great deal. Cities therefore have an important role in offering real options."
+      "fr": "Bien sûr, le train présente aussi des inconvénients. Il faut parfois changer de ligne, réserver à l'avance ou accepter des retards. Pourtant, une bonne préparation permet de réduire le stress et de profiter davantage du voyage.",
+      "en": "Of course, trains also have disadvantages. Sometimes we have to change lines, book ahead or accept delays. Yet good preparation can reduce stress and help us enjoy the trip more."
     },
     {
-      "fr": "Il suffit parfois d'essayer un autre itinéraire pour découvrir une nouvelle manière de vivre sa ville.",
-      "en": "Sometimes all it takes is trying another route to discover a new way to experience your city."
+      "fr": "Finalement, voyager ne consiste pas seulement à changer de lieu, mais aussi à changer de regard.",
+      "en": "In the end, traveling is not only about changing places, but also about changing how we see things."
     }
   ],
-  "word_count": 218,
+  "word_count": 208,
   "unique_hours_before_repeat": 216
 }
