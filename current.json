@@ -1,35 +1,35 @@
 {
-  "id": "498291",
-  "hour_utc": "2026-11-05T03:00:00Z",
-  "title": "Voyager en train",
-  "title_en": "Traveling by train",
+  "id": "498300",
+  "hour_utc": "2026-11-05T12:00:00Z",
+  "title": "Une journée sans téléphone",
+  "title_en": "A day without a phone",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Prendre le train est une manière particulière de découvrir un pays. On peut regarder le paysage, lire un livre ou discuter avec un voisin. Contrairement à un voyage très rapide en avion, le trajet lui-même fait souvent partie de l'expérience.",
-      "en": "Taking a train is a special way to discover a country. You can watch the scenery, read a book or talk to a neighbor. Unlike a very fast journey by plane, the trip itself often becomes part of the experience."
+      "fr": "Aujourd'hui, le téléphone accompagne presque tous les moments de notre vie. On l'utilise pour communiquer, trouver son chemin et regarder les nouvelles. Pourtant, il est parfois utile de passer quelques heures sans écran pour observer ce qui se passe autour de nous.",
+      "en": "Today, the phone accompanies almost every moment of our lives. We use it to communicate, find our way and check the news. Yet sometimes it is useful to spend a few hours without a screen and notice what is happening around us."
     },
     {
-      "fr": "Pendant un long trajet, Karim a partagé sa table avec un voyageur qui lisait un roman. Ils ont commencé à parler de littérature et ont échangé des recommandations. Cette conversation imprévue a rendu leur journée plus agréable et leur a donné envie de lire davantage.",
-      "en": "During a long journey, Karim shared a table with a traveler reading a novel. They began talking about literature and exchanged recommendations. This unexpected conversation made their day more pleasant and made them want to read more."
+      "fr": "Pendant un trajet en train, une voyageuse a éteint son téléphone et ouvert un petit carnet. Elle a décrit les villages qui défilaient derrière la fenêtre et imaginé des histoires sur les personnes qu'elle voyait. Le voyage lui a paru plus court et plus intéressant.",
+      "en": "During a train journey, a traveler turned off her phone and opened a small notebook. She described the villages passing outside the window and imagined stories about the people she saw. The journey seemed shorter and more interesting to her."
     },
     {
-      "fr": "Lorsqu'une correspondance a été retardée, plusieurs passagers se sont retrouvés dans un petit café de gare. Ils ont comparé leurs itinéraires et proposé des solutions. Au lieu de rester seuls avec leur frustration, ils ont choisi de s'entraider.",
-      "en": "When a connection was delayed, several passengers found themselves in a small station café. They compared routes and suggested solutions. Instead of remaining alone with their frustration, they chose to help one another."
+      "fr": "Samedi dernier, j'ai laissé mon téléphone à la maison avant de partir me promener. Au début, j'avais peur de manquer un message important. Puis j'ai remarqué les couleurs des arbres, les conversations dans la rue et les petits commerces que je ne voyais jamais.",
+      "en": "Last Saturday, I left my phone at home before going for a walk. At first, I was afraid of missing an important message. Then I noticed the colors of the trees, conversations in the street and small shops I had never really seen."
     },
     {
-      "fr": "Voyager lentement nous encourage à être attentifs à notre environnement. Les paysages changent progressivement et chaque région semble raconter sa propre histoire. Cette expérience nous apprend qu'arriver n'est pas toujours le seul objectif.",
-      "en": "Traveling slowly encourages us to pay attention to our surroundings. Landscapes change gradually and each region seems to tell its own story. This experience teaches us that arriving is not always the only goal."
+      "fr": "Il est difficile de changer ses habitudes du jour au lendemain. Cependant, un petit geste peut avoir un effet important. Éteindre les notifications pendant un repas ou une promenade permet souvent de mieux écouter les autres et de se sentir plus calme.",
+      "en": "It is hard to change our habits overnight. However, a small step can make a big difference. Turning off notifications during a meal or a walk often helps us listen to others better and feel calmer."
     },
     {
-      "fr": "Bien sûr, le train présente aussi des inconvénients. Il faut parfois changer de ligne, réserver à l'avance ou accepter des retards. Pourtant, une bonne préparation permet de réduire le stress et de profiter davantage du voyage.",
-      "en": "Of course, trains also have disadvantages. Sometimes we have to change lines, book ahead or accept delays. Yet good preparation can reduce stress and help us enjoy the trip more."
+      "fr": "Cette expérience ne signifie pas que la technologie est mauvaise. Elle montre simplement que notre attention est précieuse. En choisissant les moments où nous utilisons nos appareils, nous pouvons profiter des avantages du numérique sans oublier le monde réel.",
+      "en": "This experience does not mean that technology is bad. It simply shows that our attention is precious. By choosing when we use our devices, we can enjoy the benefits of technology without forgetting the real world."
     },
     {
-      "fr": "Finalement, voyager ne consiste pas seulement à changer de lieu, mais aussi à changer de regard.",
-      "en": "In the end, traveling is not only about changing places, but also about changing how we see things."
+      "fr": "Finalement, la vraie question n'est pas de savoir combien de temps nous passons en ligne, mais ce que nous faisons du temps qui reste.",
+      "en": "Ultimately, the real question is not how much time we spend online, but what we do with the time that remains."
     }
   ],
-  "word_count": 208,
+  "word_count": 236,
   "unique_hours_before_repeat": 216
 }
