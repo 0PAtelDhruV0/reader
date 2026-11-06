@@ -1,35 +1,35 @@
 {
-  "id": "498319",
-  "hour_utc": "2026-11-06T07:00:00Z",
-  "title": "Découvrir l’histoire d’une ville",
-  "title_en": "Discovering a city’s history",
+  "id": "498327",
+  "hour_utc": "2026-11-06T15:00:00Z",
+  "title": "Voyager en train",
+  "title_en": "Traveling by train",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Quand on visite une ville, on regarde souvent ses monuments et ses rues les plus connues. Pourtant, son histoire se cache aussi dans les marchés, les anciennes usines et les maisons ordinaires. Comprendre ces détails permet de mieux connaître les personnes qui y ont vécu.",
-      "en": "When we visit a city, we often look at its monuments and best-known streets. Yet its history is also hidden in markets, old factories and ordinary houses. Understanding these details helps us know the people who lived there."
+      "fr": "Prendre le train est une manière particulière de découvrir un pays. On peut regarder le paysage, lire un livre ou discuter avec un voisin. Contrairement à un voyage très rapide en avion, le trajet lui-même fait souvent partie de l'expérience.",
+      "en": "Taking a train is a special way to discover a country. You can watch the scenery, read a book or talk to a neighbor. Unlike a very fast journey by plane, the trip itself often becomes part of the experience."
     },
     {
-      "fr": "Pendant une promenade guidée, un groupe a découvert qu'un petit pont servait autrefois aux marchands. Le guide a montré des photographies anciennes et expliqué comment le quartier avait changé. Les visiteurs ont ensuite regardé ce lieu familier avec un regard nouveau.",
-      "en": "During a guided walk, a group discovered that a small bridge had once been used by merchants. The guide showed old photographs and explained how the neighborhood had changed. The visitors then looked at this familiar place with fresh eyes."
+      "fr": "Pendant un long trajet, Karim a partagé sa table avec un voyageur qui lisait un roman. Ils ont commencé à parler de littérature et ont échangé des recommandations. Cette conversation imprévue a rendu leur journée plus agréable et leur a donné envie de lire davantage.",
+      "en": "During a long journey, Karim shared a table with a traveler reading a novel. They began talking about literature and exchanged recommendations. This unexpected conversation made their day more pleasant and made them want to read more."
     },
     {
-      "fr": "Une étudiante s'intéressait à l'histoire de sa rue. Elle a consulté des journaux anciens à la bibliothèque et rencontré un habitant qui y vivait depuis longtemps. Elle a découvert des souvenirs que les grands livres d'histoire ne mentionnaient pas.",
-      "en": "A student was interested in the history of her street. She consulted old newspapers at the library and met a resident who had lived there for a long time. She discovered memories that major history books did not mention."
+      "fr": "Lorsqu'une correspondance a été retardée, plusieurs passagers se sont retrouvés dans un petit café de gare. Ils ont comparé leurs itinéraires et proposé des solutions. Au lieu de rester seuls avec leur frustration, ils ont choisi de s'entraider.",
+      "en": "When a connection was delayed, several passengers found themselves in a small station café. They compared routes and suggested solutions. Instead of remaining alone with their frustration, they chose to help one another."
     },
     {
-      "fr": "L'histoire ne se résume pas aux dates importantes. Elle concerne aussi la manière dont les gens travaillaient, mangeaient et se déplaçaient. Les témoignages, les cartes et les bâtiments nous aident à comprendre ces transformations.",
-      "en": "History is not limited to important dates. It also concerns how people worked, ate and traveled. Testimonies, maps and buildings help us understand these changes."
+      "fr": "Bien sûr, le train présente aussi des inconvénients. Il faut parfois changer de ligne, réserver à l'avance ou accepter des retards. Pourtant, une bonne préparation permet de réduire le stress et de profiter davantage du voyage.",
+      "en": "Of course, trains also have disadvantages. Sometimes we have to change lines, book ahead or accept delays. Yet good preparation can reduce stress and help us enjoy the trip more."
     },
     {
-      "fr": "Il faut cependant examiner les sources avec attention. Un souvenir personnel peut être précieux sans raconter toute la réalité. Comparer plusieurs documents permet de construire une image plus nuancée du passé.",
-      "en": "However, we must examine sources carefully. A personal memory can be valuable without telling the whole story. Comparing several documents helps us build a more nuanced picture of the past."
+      "fr": "Voyager lentement nous encourage à être attentifs à notre environnement. Les paysages changent progressivement et chaque région semble raconter sa propre histoire. Cette expérience nous apprend qu'arriver n'est pas toujours le seul objectif.",
+      "en": "Traveling slowly encourages us to pay attention to our surroundings. Landscapes change gradually and each region seems to tell its own story. This experience teaches us that arriving is not always the only goal."
     },
     {
-      "fr": "La prochaine fois que je visiterai une ville, je prendrai le temps de découvrir aussi ses petites histoires.",
-      "en": "Next time I visit a city, I will take time to discover its smaller stories too."
+      "fr": "Pour mon prochain voyage, je choisirai peut-être le train afin de profiter aussi du chemin.",
+      "en": "For my next trip, I may choose the train so I can enjoy the journey too."
     }
   ],
-  "word_count": 208,
+  "word_count": 207,
   "unique_hours_before_repeat": 216
 }
