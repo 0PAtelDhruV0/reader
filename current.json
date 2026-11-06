@@ -1,35 +1,35 @@
 {
-  "id": "498327",
-  "hour_utc": "2026-11-06T15:00:00Z",
-  "title": "Voyager en train",
-  "title_en": "Traveling by train",
+  "id": "498333",
+  "hour_utc": "2026-11-06T21:00:00Z",
+  "title": "Faire du bénévolat",
+  "title_en": "Volunteering",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Prendre le train est une manière particulière de découvrir un pays. On peut regarder le paysage, lire un livre ou discuter avec un voisin. Contrairement à un voyage très rapide en avion, le trajet lui-même fait souvent partie de l'expérience.",
-      "en": "Taking a train is a special way to discover a country. You can watch the scenery, read a book or talk to a neighbor. Unlike a very fast journey by plane, the trip itself often becomes part of the experience."
+      "fr": "Le bénévolat consiste à donner une partie de son temps pour aider une personne, une association ou un projet collectif. Il peut prendre des formes très diverses. Certains organisent des événements, d'autres distribuent des repas ou accompagnent des personnes qui se sentent seules.",
+      "en": "Volunteering means giving some of your time to help a person, an association or a collective project. It can take many forms. Some people organize events, others distribute meals or spend time with people who feel lonely."
     },
     {
-      "fr": "Pendant un long trajet, Karim a partagé sa table avec un voyageur qui lisait un roman. Ils ont commencé à parler de littérature et ont échangé des recommandations. Cette conversation imprévue a rendu leur journée plus agréable et leur a donné envie de lire davantage.",
-      "en": "During a long journey, Karim shared a table with a traveler reading a novel. They began talking about literature and exchanged recommendations. This unexpected conversation made their day more pleasant and made them want to read more."
+      "fr": "Chaque mois, des bénévoles nettoient un parc près de la rivière. Ils ramassent les déchets, discutent avec les promeneurs et signalent les endroits qui nécessitent des réparations. Leur travail rend cet espace plus accueillant pour tous.",
+      "en": "Every month, volunteers clean a park near the river. They collect litter, talk with walkers and report places needing repairs. Their work makes the space more welcoming for everyone."
     },
     {
-      "fr": "Lorsqu'une correspondance a été retardée, plusieurs passagers se sont retrouvés dans un petit café de gare. Ils ont comparé leurs itinéraires et proposé des solutions. Au lieu de rester seuls avec leur frustration, ils ont choisi de s'entraider.",
-      "en": "When a connection was delayed, several passengers found themselves in a small station café. They compared routes and suggested solutions. Instead of remaining alone with their frustration, they chose to help one another."
+      "fr": "Une retraitée a proposé de lire des histoires à des personnes âgées dans une résidence. Les premières rencontres étaient timides, puis chacun a commencé à raconter ses souvenirs. Peu à peu, ces visites sont devenues un moment attendu de la semaine.",
+      "en": "A retired woman offered to read stories to older people in a residence. The first meetings were shy, then everyone began sharing memories. Little by little, these visits became a much-anticipated part of the week."
     },
     {
-      "fr": "Bien sûr, le train présente aussi des inconvénients. Il faut parfois changer de ligne, réserver à l'avance ou accepter des retards. Pourtant, une bonne préparation permet de réduire le stress et de profiter davantage du voyage.",
-      "en": "Of course, trains also have disadvantages. Sometimes we have to change lines, book ahead or accept delays. Yet good preparation can reduce stress and help us enjoy the trip more."
+      "fr": "Le bénévolat peut développer des compétences utiles, comme la communication, le travail en équipe et la capacité à résoudre des problèmes. Mais son intérêt principal reste l'aide concrète apportée à la communauté.",
+      "en": "Volunteering can develop useful skills such as communication, teamwork and problem-solving. But its main value remains the practical help given to the community."
     },
     {
-      "fr": "Voyager lentement nous encourage à être attentifs à notre environnement. Les paysages changent progressivement et chaque région semble raconter sa propre histoire. Cette expérience nous apprend qu'arriver n'est pas toujours le seul objectif.",
-      "en": "Traveling slowly encourages us to pay attention to our surroundings. Landscapes change gradually and each region seems to tell its own story. This experience teaches us that arriving is not always the only goal."
+      "fr": "Il vaut mieux choisir une activité adaptée à ses disponibilités plutôt que de promettre trop de choses. Une participation modeste mais régulière est souvent plus utile qu'un grand effort impossible à maintenir.",
+      "en": "It is better to choose an activity that fits your availability rather than promise too much. Modest but regular participation is often more useful than a huge effort that cannot be maintained."
     },
     {
-      "fr": "Pour mon prochain voyage, je choisirai peut-être le train afin de profiter aussi du chemin.",
-      "en": "For my next trip, I may choose the train so I can enjoy the journey too."
+      "fr": "Même quelques heures par mois peuvent faire une différence dans la vie de quelqu'un.",
+      "en": "Even a few hours a month can make a difference in someone's life."
     }
   ],
-  "word_count": 207,
+  "word_count": 198,
   "unique_hours_before_repeat": 216
 }
