@@ -1,35 +1,35 @@
 {
-  "id": "498395",
-  "hour_utc": "2026-11-09T11:00:00Z",
-  "title": "Le pouvoir de la musique",
-  "title_en": "The power of music",
+  "id": "498406",
+  "hour_utc": "2026-11-09T22:00:00Z",
+  "title": "Changer ses habitudes de transport",
+  "title_en": "Changing transport habits",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "La musique accompagne de nombreux moments de notre existence. Elle peut nous donner de l'énergie, nous rappeler un souvenir ou rendre une journée difficile un peu plus légère. Chaque personne possède ses goûts, mais les mélodies créent souvent des émotions que les mots seuls expriment mal.",
-      "en": "Music accompanies many moments of our lives. It can give us energy, remind us of a memory or make a difficult day feel a little lighter. Everyone has their own tastes, but melodies often create emotions that words alone express poorly."
+      "fr": "Se déplacer fait partie de notre routine, mais nous choisissons souvent notre moyen de transport sans vraiment y réfléchir. Selon la distance, la météo et nos obligations, marcher, prendre le bus ou utiliser un vélo peut parfois être plus pratique qu'une voiture.",
+      "en": "Travel is part of our routine, but we often choose how to get around without thinking about it. Depending on distance, weather and our obligations, walking, taking the bus or riding a bicycle can sometimes be more practical than a car."
     },
     {
-      "fr": "Un jeune homme a retrouvé une chanson que sa mère écoutait lorsqu'il était enfant. Dès les premières notes, il s'est souvenu des longs voyages en voiture avec sa famille. Il a compris que la musique peut conserver des moments qui semblent oubliés.",
-      "en": "A young man rediscovered a song his mother listened to when he was a child. From the first notes, he remembered long car journeys with his family. He understood that music can preserve moments that seem forgotten."
+      "fr": "Une famille devait visiter un musée en centre-ville. Au lieu de chercher une place pour se garer, elle a pris le métro. Les enfants ont appris à lire le plan du réseau et les parents ont évité le stress de la circulation.",
+      "en": "A family wanted to visit a downtown museum. Instead of searching for a parking spot, they took the subway. The children learned to read the network map and the parents avoided the stress of traffic."
     },
     {
-      "fr": "Dans un centre communautaire, plusieurs personnes se réunissent pour chanter une fois par semaine. Elles viennent d'horizons différents et ne connaissent pas toutes les mêmes chansons. Pourtant, en répétant ensemble, elles créent une belle harmonie.",
-      "en": "At a community center, several people meet to sing once a week. They come from different backgrounds and do not all know the same songs. Yet, by practicing together, they create a beautiful harmony."
+      "fr": "Un employé prenait toujours sa voiture pour faire un trajet très court. Un matin, il a décidé de marcher. Il a découvert une boulangerie, croisé plusieurs voisins et constaté que la différence de temps était moins grande qu'il ne l'imaginait.",
+      "en": "An employee always drove for a very short trip. One morning, he decided to walk. He discovered a bakery, crossed paths with several neighbors and realized the difference in time was smaller than he imagined."
     },
     {
-      "fr": "Apprendre à jouer d'un instrument peut demander beaucoup de patience. Les progrès sont rarement immédiats, mais la pratique développe l'attention et la persévérance. Même une mélodie très simple peut procurer une grande satisfaction.",
-      "en": "Learning an instrument can require a great deal of patience. Progress is rarely immediate, but practice develops attention and perseverance. Even a very simple melody can bring great satisfaction."
+      "fr": "Changer de transport ne dépend pas uniquement de la volonté personnelle. La sécurité des routes, la qualité des transports publics et la distance comptent beaucoup. Les villes ont donc un rôle important à jouer pour offrir des possibilités réelles.",
+      "en": "Changing how we travel does not depend only on personal will. Road safety, the quality of public transport and distance matter a great deal. Cities therefore have an important role in offering real options."
     },
     {
-      "fr": "La musique est aussi une manière de découvrir d'autres cultures. Les instruments, les rythmes et les voix racontent des traditions variées. Écouter quelque chose de nouveau peut nous rendre plus curieux et ouverts aux différences.",
-      "en": "Music is also a way to discover other cultures. Instruments, rhythms and voices tell of varied traditions. Listening to something new can make us more curious and open to differences."
+      "fr": "Une approche flexible est souvent la meilleure. On peut utiliser la voiture quand elle est nécessaire et choisir une autre solution pour certains déplacements. Il s'agit de prendre des décisions pratiques plutôt que de suivre une règle absolue.",
+      "en": "A flexible approach is often best. We can use a car when necessary and choose another option for some trips. The aim is to make practical decisions rather than follow an absolute rule."
     },
     {
-      "fr": "Je crois que la musique nous invite à écouter le monde, mais aussi à mieux nous écouter nous-mêmes.",
-      "en": "I think music invites us to listen to the world, but also to listen to ourselves more carefully."
+      "fr": "Des choix mieux adaptés peuvent rendre la journée plus agréable tout en réduisant certains coûts.",
+      "en": "Better-suited choices can make the day more pleasant while reducing some costs."
     }
   ],
-  "word_count": 209,
+  "word_count": 216,
   "unique_hours_before_repeat": 216
 }
