@@ -1,35 +1,35 @@
 {
-  "id": "498603",
-  "hour_utc": "2026-11-18T03:00:00Z",
-  "title": "Voyager en train",
-  "title_en": "Traveling by train",
+  "id": "498612",
+  "hour_utc": "2026-11-18T12:00:00Z",
+  "title": "Une journée sans téléphone",
+  "title_en": "A day without a phone",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Prendre le train est une manière particulière de découvrir un pays. On peut regarder le paysage, lire un livre ou discuter avec un voisin. Contrairement à un voyage très rapide en avion, le trajet lui-même fait souvent partie de l'expérience.",
-      "en": "Taking a train is a special way to discover a country. You can watch the scenery, read a book or talk to a neighbor. Unlike a very fast journey by plane, the trip itself often becomes part of the experience."
+      "fr": "Aujourd'hui, le téléphone accompagne presque tous les moments de notre vie. On l'utilise pour communiquer, trouver son chemin et regarder les nouvelles. Pourtant, il est parfois utile de passer quelques heures sans écran pour observer ce qui se passe autour de nous.",
+      "en": "Today, the phone accompanies almost every moment of our lives. We use it to communicate, find our way and check the news. Yet sometimes it is useful to spend a few hours without a screen and notice what is happening around us."
     },
     {
-      "fr": "Un matin, Léa est partie visiter une ville qu'elle ne connaissait pas. À travers la fenêtre, elle a vu des champs, de petites gares et des maisons anciennes. Quand le train s'est arrêté, elle avait déjà l'impression d'avoir découvert une partie de la région.",
-      "en": "One morning, Léa left to visit a city she did not know. Through the window, she saw fields, small stations and old houses. When the train stopped, she already felt she had discovered part of the region."
+      "fr": "Un dimanche, deux amis ont décidé de cuisiner ensemble sans consulter leurs écrans. Ils ont cherché les ingrédients dans les placards, modifié une recette et parlé de leurs souvenirs d'enfance. Le repas n'était pas parfait, mais ils ont passé un excellent moment.",
+      "en": "One Sunday, two friends decided to cook together without checking their screens. They looked for ingredients in the cupboards, changed a recipe and talked about childhood memories. The meal was not perfect, but they had a wonderful time."
     },
     {
-      "fr": "Pendant un long trajet, Karim a partagé sa table avec un voyageur qui lisait un roman. Ils ont commencé à parler de littérature et ont échangé des recommandations. Cette conversation imprévue a rendu leur journée plus agréable et leur a donné envie de lire davantage.",
-      "en": "During a long journey, Karim shared a table with a traveler reading a novel. They began talking about literature and exchanged recommendations. This unexpected conversation made their day more pleasant and made them want to read more."
+      "fr": "Pendant un trajet en train, une voyageuse a éteint son téléphone et ouvert un petit carnet. Elle a décrit les villages qui défilaient derrière la fenêtre et imaginé des histoires sur les personnes qu'elle voyait. Le voyage lui a paru plus court et plus intéressant.",
+      "en": "During a train journey, a traveler turned off her phone and opened a small notebook. She described the villages passing outside the window and imagined stories about the people she saw. The journey seemed shorter and more interesting to her."
     },
     {
-      "fr": "Bien sûr, le train présente aussi des inconvénients. Il faut parfois changer de ligne, réserver à l'avance ou accepter des retards. Pourtant, une bonne préparation permet de réduire le stress et de profiter davantage du voyage.",
-      "en": "Of course, trains also have disadvantages. Sometimes we have to change lines, book ahead or accept delays. Yet good preparation can reduce stress and help us enjoy the trip more."
+      "fr": "Cette expérience ne signifie pas que la technologie est mauvaise. Elle montre simplement que notre attention est précieuse. En choisissant les moments où nous utilisons nos appareils, nous pouvons profiter des avantages du numérique sans oublier le monde réel.",
+      "en": "This experience does not mean that technology is bad. It simply shows that our attention is precious. By choosing when we use our devices, we can enjoy the benefits of technology without forgetting the real world."
     },
     {
-      "fr": "Voyager lentement nous encourage à être attentifs à notre environnement. Les paysages changent progressivement et chaque région semble raconter sa propre histoire. Cette expérience nous apprend qu'arriver n'est pas toujours le seul objectif.",
-      "en": "Traveling slowly encourages us to pay attention to our surroundings. Landscapes change gradually and each region seems to tell its own story. This experience teaches us that arriving is not always the only goal."
+      "fr": "Il est difficile de changer ses habitudes du jour au lendemain. Cependant, un petit geste peut avoir un effet important. Éteindre les notifications pendant un repas ou une promenade permet souvent de mieux écouter les autres et de se sentir plus calme.",
+      "en": "It is hard to change our habits overnight. However, a small step can make a big difference. Turning off notifications during a meal or a walk often helps us listen to others better and feel calmer."
     },
     {
-      "fr": "Un trajet ordinaire peut ainsi devenir un souvenir précieux lorsqu'on prend le temps d'observer.",
-      "en": "An ordinary journey can become a precious memory when we take time to observe."
+      "fr": "Depuis, j'essaie de garder un moment tranquille chaque jour. Ce petit changement m'aide à retrouver le plaisir des choses simples.",
+      "en": "Since then, I try to keep a quiet moment every day. This small change helps me rediscover the pleasure of simple things."
     }
   ],
-  "word_count": 212,
+  "word_count": 230,
   "unique_hours_before_repeat": 216
 }
