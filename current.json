@@ -1,35 +1,35 @@
 {
-  "id": "498728",
-  "hour_utc": "2026-11-23T08:00:00Z",
-  "title": "Cuisiner ensemble",
-  "title_en": "Cooking together",
+  "id": "498741",
+  "hour_utc": "2026-11-23T21:00:00Z",
+  "title": "Faire du bénévolat",
+  "title_en": "Volunteering",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "La cuisine occupe une place importante dans la vie quotidienne. Elle répond à un besoin essentiel, mais elle permet aussi de partager des traditions et des souvenirs. Préparer un repas avec d'autres personnes peut être une manière simple de créer des liens.",
-      "en": "Cooking has an important place in daily life. It meets an essential need, but it also allows us to share traditions and memories. Preparing a meal with other people can be a simple way to build connections."
+      "fr": "Le bénévolat consiste à donner une partie de son temps pour aider une personne, une association ou un projet collectif. Il peut prendre des formes très diverses. Certains organisent des événements, d'autres distribuent des repas ou accompagnent des personnes qui se sentent seules.",
+      "en": "Volunteering means giving some of your time to help a person, an association or a collective project. It can take many forms. Some people organize events, others distribute meals or spend time with people who feel lonely."
     },
     {
-      "fr": "Un grand-père a appris à sa petite-fille à préparer une recette familiale. Il lui a expliqué pourquoi il ajoutait les épices à un moment précis. En répétant les gestes, elle a découvert une partie de l'histoire de sa famille.",
-      "en": "A grandfather taught his granddaughter how to make a family recipe. He explained why he added the spices at a particular moment. By repeating the steps, she discovered part of her family's history."
+      "fr": "Une retraitée a proposé de lire des histoires à des personnes âgées dans une résidence. Les premières rencontres étaient timides, puis chacun a commencé à raconter ses souvenirs. Peu à peu, ces visites sont devenues un moment attendu de la semaine.",
+      "en": "A retired woman offered to read stories to older people in a residence. The first meetings were shy, then everyone began sharing memories. Little by little, these visits became a much-anticipated part of the week."
     },
     {
-      "fr": "Dans une résidence étudiante, des voisins ont organisé un repas où chacun apportait un plat de son pays. Ils ont parlé des ingrédients et des fêtes associés à ces recettes. La soirée a permis de découvrir des cultures différentes autour d'une même table.",
-      "en": "In student housing, neighbors organized a meal where everyone brought a dish from their country. They talked about the ingredients and celebrations associated with those recipes. The evening helped them discover different cultures around one table."
+      "fr": "Un étudiant a rejoint une association qui aide les enfants à faire leurs devoirs. Au début, il pensait surtout expliquer les mathématiques. Il a vite compris que les encouragements et l'écoute étaient tout aussi importants que les réponses correctes.",
+      "en": "A student joined an organization that helps children with homework. At first, he thought he would mainly explain mathematics. He soon realized that encouragement and listening were just as important as correct answers."
     },
     {
-      "fr": "Cuisiner avec les autres demande de l'écoute et de l'organisation. Il faut partager les tâches, respecter les préférences alimentaires et accepter que chacun possède ses propres méthodes. Ces qualités sont utiles bien au-delà de la cuisine.",
-      "en": "Cooking with others requires listening and organization. We must share tasks, respect dietary preferences and accept that everyone has their own methods. These skills are useful far beyond the kitchen."
+      "fr": "Il vaut mieux choisir une activité adaptée à ses disponibilités plutôt que de promettre trop de choses. Une participation modeste mais régulière est souvent plus utile qu'un grand effort impossible à maintenir.",
+      "en": "It is better to choose an activity that fits your availability rather than promise too much. Modest but regular participation is often more useful than a huge effort that cannot be maintained."
     },
     {
-      "fr": "Il n'est pas nécessaire de préparer des plats compliqués pour bien recevoir. Un repas simple, fait avec attention, peut avoir beaucoup de valeur. Le plus important est souvent le temps que nous passons ensemble plutôt que le prix des ingrédients.",
-      "en": "We do not need to prepare complicated dishes to be good hosts. A simple meal, made with care, can have great value. What matters most is often the time we spend together rather than the price of the ingredients."
+      "fr": "Le bénévolat peut développer des compétences utiles, comme la communication, le travail en équipe et la capacité à résoudre des problèmes. Mais son intérêt principal reste l'aide concrète apportée à la communauté.",
+      "en": "Volunteering can develop useful skills such as communication, teamwork and problem-solving. But its main value remains the practical help given to the community."
     },
     {
-      "fr": "Partager un repas, c'est parfois partager bien plus que de la nourriture.",
-      "en": "Sharing a meal is sometimes sharing much more than food."
+      "fr": "Le bénévolat montre qu'une communauté devient plus forte lorsque ses membres agissent ensemble.",
+      "en": "Volunteering shows that a community becomes stronger when its members act together."
     }
   ],
-  "word_count": 212,
+  "word_count": 200,
   "unique_hours_before_repeat": 216
 }
