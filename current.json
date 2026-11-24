@@ -1,6 +1,6 @@
 {
-  "id": "498749",
-  "hour_utc": "2026-11-24T05:00:00Z",
+  "id": "498761",
+  "hour_utc": "2026-11-24T17:00:00Z",
   "title": "Le travail à distance",
   "title_en": "Remote work",
   "level": "B1–B2",
@@ -10,12 +10,12 @@
       "en": "In recent years, many people have sometimes worked from home. This arrangement can avoid long commutes and offer more flexibility. However, it also requires good habits to separate work life from personal life."
     },
     {
-      "fr": "Au début, Thomas travaillait sur la table de sa cuisine et répondait aux messages jusque tard le soir. Il a finalement installé un petit bureau près d'une fenêtre et décidé de fermer son ordinateur à heure fixe. Ses journées sont devenues plus équilibrées.",
-      "en": "At first, Thomas worked at his kitchen table and answered messages late into the evening. He eventually set up a small desk near a window and decided to close his computer at a fixed time. His days became more balanced."
-    },
-    {
       "fr": "Une équipe qui habitait dans plusieurs villes devait préparer un projet commun. Ses membres ont organisé une courte réunion chaque matin et partagé un document de suivi. Ces habitudes simples ont permis à chacun de comprendre les priorités et d'éviter les malentendus.",
       "en": "A team living in several cities had to prepare a shared project. Its members organized a short meeting each morning and shared a tracking document. These simple habits allowed everyone to understand priorities and avoid misunderstandings."
+    },
+    {
+      "fr": "Après plusieurs semaines seule chez elle, une employée regrettait les conversations spontanées avec ses collègues. Elle a commencé à travailler un jour par semaine dans un espace partagé. Elle a retrouvé une vie sociale plus riche sans perdre toute sa flexibilité.",
+      "en": "After several weeks alone at home, an employee missed spontaneous conversations with coworkers. She began working one day a week in a shared space. She found a richer social life without losing all her flexibility."
     },
     {
       "fr": "Le travail à distance ne convient pas de la même manière à tout le monde. Certaines personnes apprécient le silence, tandis que d'autres ont besoin de contacts réguliers. Une organisation efficace doit donc tenir compte des tâches et des préférences individuelles.",
@@ -30,6 +30,6 @@
       "en": "The key is finding a balance that respects both the team's needs and people's needs."
     }
   ],
-  "word_count": 224,
+  "word_count": 222,
   "unique_hours_before_repeat": 216
 }
