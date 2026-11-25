@@ -1,35 +1,35 @@
 {
-  "id": "498761",
-  "hour_utc": "2026-11-24T17:00:00Z",
-  "title": "Le travail à distance",
-  "title_en": "Remote work",
+  "id": "498770",
+  "hour_utc": "2026-11-25T02:00:00Z",
+  "title": "Le jardin partagé",
+  "title_en": "The community garden",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Depuis quelques années, de nombreuses personnes travaillent parfois depuis leur domicile. Cette organisation peut éviter de longs déplacements et offrir plus de souplesse. Cependant, elle demande aussi de bonnes habitudes pour séparer la vie professionnelle de la vie personnelle.",
-      "en": "In recent years, many people have sometimes worked from home. This arrangement can avoid long commutes and offer more flexibility. However, it also requires good habits to separate work life from personal life."
+      "fr": "Dans de nombreuses villes, les habitants vivent près les uns des autres sans vraiment se connaître. Un jardin partagé peut changer cette situation. Il donne aux voisins un espace pour planter des légumes, discuter et apprendre ensemble, même s'ils ont des âges très différents.",
+      "en": "In many cities, residents live close to one another without truly knowing each other. A community garden can change this situation. It gives neighbors a space to plant vegetables, talk and learn together, even if they are very different ages."
     },
     {
-      "fr": "Une équipe qui habitait dans plusieurs villes devait préparer un projet commun. Ses membres ont organisé une courte réunion chaque matin et partagé un document de suivi. Ces habitudes simples ont permis à chacun de comprendre les priorités et d'éviter les malentendus.",
-      "en": "A team living in several cities had to prepare a shared project. Its members organized a short meeting each morning and shared a tracking document. These simple habits allowed everyone to understand priorities and avoid misunderstandings."
+      "fr": "Après une semaine très chaude, les jardiniers ont découvert que plusieurs plantes manquaient d'eau. Ils ont installé un grand réservoir pour recueillir la pluie et organisé un calendrier d'arrosage. Cette difficulté a renforcé leur sens des responsabilités.",
+      "en": "After a very hot week, the gardeners discovered that several plants lacked water. They installed a large tank to collect rain and organized a watering schedule. This difficulty strengthened their sense of responsibility."
     },
     {
-      "fr": "Après plusieurs semaines seule chez elle, une employée regrettait les conversations spontanées avec ses collègues. Elle a commencé à travailler un jour par semaine dans un espace partagé. Elle a retrouvé une vie sociale plus riche sans perdre toute sa flexibilité.",
-      "en": "After several weeks alone at home, an employee missed spontaneous conversations with coworkers. She began working one day a week in a shared space. She found a richer social life without losing all her flexibility."
+      "fr": "Au printemps, des habitants ont transformé un terrain abandonné en petit jardin. Les enfants ont planté des tomates, tandis que des personnes âgées expliquaient comment préparer la terre. Quelques mois plus tard, tout le quartier s'est retrouvé pour partager la première récolte.",
+      "en": "In spring, residents transformed an abandoned lot into a small garden. Children planted tomatoes while older people explained how to prepare the soil. A few months later, the whole neighborhood met to share the first harvest."
     },
     {
-      "fr": "Le travail à distance ne convient pas de la même manière à tout le monde. Certaines personnes apprécient le silence, tandis que d'autres ont besoin de contacts réguliers. Une organisation efficace doit donc tenir compte des tâches et des préférences individuelles.",
-      "en": "Remote work does not suit everyone in the same way. Some people appreciate quiet, while others need regular contact. An effective arrangement must therefore consider tasks and individual preferences."
+      "fr": "Cultiver un jardin demande de la patience. On ne peut pas faire pousser une plante en tirant sur ses feuilles. De la même manière, les relations entre voisins grandissent peu à peu grâce à des échanges simples et réguliers.",
+      "en": "Growing a garden requires patience. You cannot make a plant grow by pulling its leaves. In the same way, relationships between neighbors grow little by little through simple and regular interactions."
     },
     {
-      "fr": "Pour rester productif, il peut être utile de définir trois objectifs par jour, de faire des pauses et de sortir marcher. La qualité du travail dépend souvent moins du lieu que de la clarté des attentes et de la communication.",
-      "en": "To remain productive, it can help to set three daily goals, take breaks and go for walks. Work quality often depends less on location than on clear expectations and communication."
+      "fr": "Un jardin collectif peut aussi nous apprendre à consommer différemment. En voyant le travail nécessaire pour produire une tomate, on respecte davantage les aliments et on évite plus facilement le gaspillage.",
+      "en": "A community garden can also teach us to consume differently. When we see the work needed to grow a tomato, we respect food more and find it easier to avoid waste."
     },
     {
-      "fr": "L'essentiel est de trouver un équilibre qui respecte à la fois les besoins de l'équipe et ceux des personnes.",
-      "en": "The key is finding a balance that respects both the team's needs and people's needs."
+      "fr": "Ainsi, ce projet produit bien plus que des légumes : il fait grandir la confiance entre les habitants.",
+      "en": "So this project produces much more than vegetables: it grows trust among residents."
     }
   ],
-  "word_count": 222,
+  "word_count": 211,
   "unique_hours_before_repeat": 216
 }
