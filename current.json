@@ -1,35 +1,35 @@
 {
-  "id": "498796",
-  "hour_utc": "2026-11-26T04:00:00Z",
-  "title": "La bibliothèque du quartier",
-  "title_en": "The neighborhood library",
+  "id": "498806",
+  "hour_utc": "2026-11-26T14:00:00Z",
+  "title": "Le jardin partagé",
+  "title_en": "The community garden",
   "level": "B1–B2",
   "paragraphs": [
     {
-      "fr": "Une bibliothèque est bien plus qu'un endroit où l'on emprunte des livres. C'est aussi un lieu calme où chacun peut apprendre, travailler et rencontrer d'autres personnes. Son rôle reste important, même à une époque où beaucoup d'informations sont disponibles sur Internet.",
-      "en": "A library is much more than a place to borrow books. It is also a quiet place where everyone can learn, work and meet others. Its role remains important even in an age when so much information is available online."
+      "fr": "Dans de nombreuses villes, les habitants vivent près les uns des autres sans vraiment se connaître. Un jardin partagé peut changer cette situation. Il donne aux voisins un espace pour planter des légumes, discuter et apprendre ensemble, même s'ils ont des âges très différents.",
+      "en": "In many cities, residents live close to one another without truly knowing each other. A community garden can change this situation. It gives neighbors a space to plant vegetables, talk and learn together, even if they are very different ages."
     },
     {
-      "fr": "Chaque jeudi, un père accompagne sa fille à l'heure du conte. Pendant qu'elle écoute les histoires, il découvre des livres sur la cuisine et l'histoire locale. Peu à peu, la visite à la bibliothèque devient leur rendez-vous préféré de la semaine.",
-      "en": "Every Thursday, a father takes his daughter to story time. While she listens to stories, he discovers books about cooking and local history. Little by little, the library visit becomes their favorite weekly appointment."
+      "fr": "Après une semaine très chaude, les jardiniers ont découvert que plusieurs plantes manquaient d'eau. Ils ont installé un grand réservoir pour recueillir la pluie et organisé un calendrier d'arrosage. Cette difficulté a renforcé leur sens des responsabilités.",
+      "en": "After a very hot week, the gardeners discovered that several plants lacked water. They installed a large tank to collect rain and organized a watering schedule. This difficulty strengthened their sense of responsibility."
     },
     {
-      "fr": "Un groupe d'étudiants cherchait un endroit pour préparer un examen important. À la bibliothèque, ils ont réservé une salle, partagé leurs notes et expliqué les sujets difficiles à tour de rôle. Le cadre tranquille les a aidés à rester concentrés.",
-      "en": "A group of students was looking for a place to prepare for an important exam. At the library, they reserved a room, shared notes and took turns explaining difficult topics. The quiet setting helped them stay focused."
+      "fr": "Au printemps, des habitants ont transformé un terrain abandonné en petit jardin. Les enfants ont planté des tomates, tandis que des personnes âgées expliquaient comment préparer la terre. Quelques mois plus tard, tout le quartier s'est retrouvé pour partager la première récolte.",
+      "en": "In spring, residents transformed an abandoned lot into a small garden. Children planted tomatoes while older people explained how to prepare the soil. A few months later, the whole neighborhood met to share the first harvest."
     },
     {
-      "fr": "Lire régulièrement développe le vocabulaire, l'imagination et la capacité à comprendre des idées nouvelles. Il n'est pas nécessaire de terminer un livre par semaine : quelques pages par jour peuvent déjà enrichir nos connaissances.",
-      "en": "Reading regularly develops vocabulary, imagination and the ability to understand new ideas. There is no need to finish a book every week: a few pages a day can already enrich our knowledge."
+      "fr": "Un jardin collectif peut aussi nous apprendre à consommer différemment. En voyant le travail nécessaire pour produire une tomate, on respecte davantage les aliments et on évite plus facilement le gaspillage.",
+      "en": "A community garden can also teach us to consume differently. When we see the work needed to grow a tomato, we respect food more and find it easier to avoid waste."
     },
     {
-      "fr": "Les bibliothèques permettent à des personnes de milieux différents d'accéder aux mêmes ressources. On peut y consulter des documents, utiliser un ordinateur ou participer à un atelier sans avoir besoin de dépenser beaucoup d'argent.",
-      "en": "Libraries allow people from different backgrounds to access the same resources. You can consult documents, use a computer or attend a workshop without needing to spend much money."
+      "fr": "Cultiver un jardin demande de la patience. On ne peut pas faire pousser une plante en tirant sur ses feuilles. De la même manière, les relations entre voisins grandissent peu à peu grâce à des échanges simples et réguliers.",
+      "en": "Growing a garden requires patience. You cannot make a plant grow by pulling its leaves. In the same way, relationships between neighbors grow little by little through simple and regular interactions."
     },
     {
-      "fr": "Il suffit parfois de pousser la porte d'une bibliothèque pour découvrir un nouvel intérêt.",
-      "en": "Sometimes all it takes is opening a library door to discover a new interest."
+      "fr": "Ainsi, ce projet produit bien plus que des légumes : il fait grandir la confiance entre les habitants.",
+      "en": "So this project produces much more than vegetables: it grows trust among residents."
     }
   ],
-  "word_count": 204,
+  "word_count": 211,
   "unique_hours_before_repeat": 216
 }
